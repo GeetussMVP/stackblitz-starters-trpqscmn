@@ -5,9 +5,12 @@ import { Card, Text } from '@mantine/core';
 
 export default function CategoryCarousel() {
   const categories = [
-    { title: 'Grindys', image: '/images/flooring.jpg' },
-    { title: 'Sienos', image: '/images/walls.jpg' },
-    { title: 'Lubos', image: '/images/ceiling.jpg' },
+    { title: 'Dekoratyviniai profiliai', image: '/images/dekoratyviniai-profiliai.png' },
+    { title: 'Durų dekora', image: '/images/duru-dekora.jpg' },
+    { title: 'Kolonos', image: '/images/kolonos.JPG' },
+    { title: 'Rozetės', image: '/images/rozetes.PNG' },
+    { title: 'Sieninis dekoras', image: '/images/sieninis-dekoras.png' },
+    { title: 'Statulėlės', image: '/images/statuleles.JPG' },
   ];
 
   return (

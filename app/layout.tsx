@@ -40,17 +40,11 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="lt" className={inter.variable} suppressHydrationWarning>
-      <body className="font-inter antialiased relative min-h-screen overflow-hidden" suppressHydrationWarning>
-        {/* MantineProvider wraps the app for all Mantine components */}
+    <html lang="lt" className={inter.variable}>
+      <body className="font-inter antialiased relative min-h-screen">
         <MantineProvider>
-          {/* Background behind everything */}
           <Background />
-
-          {/* Fixed Navbar */}
           <Navbar />
-
-          {/* Main content */}
           <main
             role="main"
             id="main-content"

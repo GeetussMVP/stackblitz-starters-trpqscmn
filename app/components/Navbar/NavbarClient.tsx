@@ -13,11 +13,13 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [cartShake, setCartShake] = useState(false);
+  const [mounted, setMounted] = useState(false);
 
   const pathname = usePathname();
   const router = useRouter();
 
   useEffect(() => {
+    setMounted(true);
     const handleScroll = () => setScrolled(window.scrollY > 20);
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
@@ -34,11 +36,12 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
     router.push('/checkout');
   };
 
+  // Prevent hydration mismatch by not rendering scroll-dependent styles until mounted
+  const navClass = mounted && scrolled ? 'bg-black shadow-lg' : 'bg-black/90';
+
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled ? 'bg-black shadow-lg' : 'bg-black/90'
-      } text-white`}
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${navClass} text-white`}
     >
       {/* TOP BAR */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
