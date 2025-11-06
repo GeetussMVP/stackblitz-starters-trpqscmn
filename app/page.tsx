@@ -6,6 +6,7 @@ export default function HomePage() {
     <div className="relative min-h-screen">
       <main className="relative z-10 px-6 py-10 text-white">
         <LandingClient />
+        
       </main>
     </div>
   );
