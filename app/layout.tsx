@@ -5,6 +5,8 @@ import { Inter } from 'next/font/google';
 import Navbar from './components/Navbar/Navbar';
 import Background from './components/Background/Background';
 import { MantineProvider } from '@mantine/core';
+import '@mantine/core/styles.css';
+import '@mantine/carousel/styles.css';
 
 const inter = Inter({
   subsets: ['latin'],
