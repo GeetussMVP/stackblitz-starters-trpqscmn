@@ -8,6 +8,8 @@ import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import '@mantine/carousel/styles.css';
 
+import { AuthProvider } from './contexts/AuthContext'; // ✅ import your provider
+
 const inter = Inter({
   subsets: ['latin'],
   display: 'swap',
@@ -44,17 +46,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="lt" className={inter.variable}>
       <body className="font-inter antialiased relative min-h-screen">
-        <MantineProvider>
-          <Background />
-          <Navbar />
-          <main
-            role="main"
-            id="main-content"
-            className="relative z-10 pt-20 sm:pt-24 min-h-screen text-slate-900"
-          >
-            {children}
-          </main>
-        </MantineProvider>
+        <AuthProvider> {/* ✅ FIXED */}
+          <MantineProvider>
+            <Background />
+            <Navbar />
+            <main
+              role="main"
+              id="main-content"
+              className="relative z-10 pt-20 sm:pt-24 min-h-screen text-slate-900"
+            >
+              {children}
+            </main>
+          </MantineProvider>
+        </AuthProvider>
       </body>
     </html>
   );

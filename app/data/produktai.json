@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "title": "Gipso kartono plokštės",
+    "slug": "gipso-kartono-plokstes",
+    "products": [
+      {
+        "id": 101,
+        "title": "Gipso plokštė 100x50",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 100,
+        "aukstis": 50,
+        "stilius": "modernus",
+        "description": "Aukštos kokybės gipso kartono plokštė."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tinkas ir Glaistas",
+    "slug": "tinkas-ir-glaistas",
+    "products": [
+      {
+        "id": 201,
+        "title": "Tinkas Tradicinis 200",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 200,
+        "aukstis": 100,
+        "stilius": "tradiciskas",
+        "description": "Kokybiškas tinkas ir glaistas."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dekoratyviniai profiliai",
+    "slug": "dekoratyviniai-profiliai",
+    "products": [
+      {
+        "id": 301,
+        "title": "Dekoratyvinis profilis Modernus",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 150,
+        "aukstis": 60,
+        "stilius": "modernus"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Rozetės",
+    "slug": "rozetes",
+    "products": [
+      {
+        "id": 401,
+        "title": "Rozetė Tradiciska",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 50,
+        "aukstis": 50,
+        "stilius": "tradiciskas"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kolonos",
+    "slug": "kolonos",
+    "products": [
+      {
+        "id": 501,
+        "title": "Kolona Modernus",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 300,
+        "aukstis": 150,
+        "stilius": "modernus"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Gembės",
+    "slug": "gembes",
+    "products": [
+      {
+        "id": 601,
+        "title": "Gembė Tradiciska",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 200,
+        "aukstis": 100,
+        "stilius": "tradiciskas"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sieninis dekoras",
+    "slug": "sieninis-dekoras",
+    "products": [
+      {
+        "id": 701,
+        "title": "Sieninis dekoras Modernus",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 120,
+        "aukstis": 60,
+        "stilius": "modernus"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Statulėlės",
+    "slug": "statuleles",
+    "products": [
+      {
+        "id": 801,
+        "title": "Statulėlė Tradiciska",
+        "img": "/images/placeholder.jpg",
+        "ilgis": 80,
+        "aukstis": 40,
+        "stilius": "tradiciskas"
+      }
+    ]
+  }
+]

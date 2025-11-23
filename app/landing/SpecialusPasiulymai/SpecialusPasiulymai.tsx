@@ -1,87 +1,91 @@
-'use client';
+"use client";
 
-import React, { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { useState, useEffect } from "react";
+import { ChevronLeft, ChevronRight, Tag } from "lucide-react";
 
 const SpecialOffersCarousel = () => {
   const offers = [
-    { 
-      title: 'Cornice 1', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-1',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 1",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-1",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
-    { 
-      title: 'Cornice 2', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-2',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 2",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-2",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
-    { 
-      title: 'Cornice 3', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-3',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 3",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-3",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
-    { 
-      title: 'Cornice 4', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-4',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 4",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-4",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
-    { 
-      title: 'Cornice 5', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-5',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 5",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-5",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
-    { 
-      title: 'Cornice 6', 
-      image: '/images/placeholder.jpg',
-      href: '/special-offers/cornice-6',
-      oldPrice: '€10',
-      newPrice: '€9'
+    {
+      title: "Cornice 6",
+      image: "/images/placeholder.jpg",
+      href: "/special-offers/cornice-6",
+      oldPrice: "€10",
+      newPrice: "€9",
     },
   ];
 
   const [currentSlide, setCurrentSlide] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [numVisible, setNumVisible] = useState(3);
-  
-  // Create a circular array by repeating the offers
+
+  // Triple data for infinite loop
   const displayOffers = [];
   for (let i = 0; i < offers.length * 3; i++) {
     displayOffers.push({ ...offers[i % offers.length], id: i });
   }
 
+  // -------------------------------
+  // RESPONSIVE CARD COUNT
+  // Mobile  → 2
+  // Tablet  → 2
+  // Desktop → 3
+  // -------------------------------
   useEffect(() => {
-    const updateNumVisible = () => {
-      if (window.innerWidth < 640) {
-        setNumVisible(2);
-      } else if (window.innerWidth < 1024) {
-        setNumVisible(4);
+    const handleResize = () => {
+      if (window.innerWidth < 1024) {
+        setNumVisible(2); // MOBILE + TABLET
       } else {
-        setNumVisible(5);
+        setNumVisible(3); // DESKTOP
       }
     };
 
-    updateNumVisible();
-    window.addEventListener('resize', updateNumVisible);
-
-    return () => window.removeEventListener('resize', updateNumVisible);
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
+
+  const itemWidth = 100 / numVisible;
 
   const handleNext = () => {
     if (isTransitioning) return;
-    
     setIsTransitioning(true);
-    setCurrentSlide(prev => prev + 1);
-    
+    setCurrentSlide((prev) => prev + 1);
+
     if (currentSlide >= displayOffers.length - numVisible - 1) {
       setTimeout(() => {
         setIsTransitioning(false);
@@ -92,115 +96,104 @@ const SpecialOffersCarousel = () => {
 
   const handlePrev = () => {
     if (isTransitioning) return;
-    
     setIsTransitioning(true);
-    
+
     if (currentSlide === 0) {
       setIsTransitioning(false);
       setCurrentSlide(displayOffers.length - numVisible - 1);
+
       setTimeout(() => {
         setIsTransitioning(true);
-        setCurrentSlide(prev => prev - 1);
+        setCurrentSlide((prev) => prev - 1);
       }, 50);
     } else {
-      setCurrentSlide(prev => prev - 1);
+      setCurrentSlide((prev) => prev - 1);
     }
   };
 
   useEffect(() => {
     if (isTransitioning) {
-      const timer = setTimeout(() => {
-        setIsTransitioning(false);
-      }, 700);
-
+      const timer = setTimeout(() => setIsTransitioning(false), 500);
       return () => clearTimeout(timer);
     }
   }, [currentSlide, isTransitioning]);
 
-  const getItemWidth = () => {
-    switch(numVisible) {
-      case 2: return 'w-1/2';
-      case 4: return 'w-1/4';
-      case 5: return 'w-1/5';
-      default: return 'w-1/5';
-    }
-  };
-
   return (
-    <section className="py-2 w-full" aria-labelledby="special-offers-heading">
-      <div className="w-full px-3">
-        <h2 id="special-offers-heading" className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-6 text-white">
-          Specialūs <span className="text-emerald-400">Pasiūlymai</span>
+    <section className="py-16 w-full px-6">
+      <div className="max-w-7xl mx-auto">
+        <h2 className="text-4xl md:text-5xl font-light text-white text-center mb-4">
+          Specialūs <span className="text-teal-300">Pasiūlymai</span>
         </h2>
-        <div className="relative w-full" role="region" aria-label="Special offers carousel" aria-live="polite">
-          <button 
+
+        <div className="flex items-center justify-center gap-2 mb-12">
+          <Tag className="w-5 h-5 text-teal-300" />
+          <p className="text-lg text-white/60">Ribotas laikas</p>
+        </div>
+
+        <div className="relative">
+          {/* LEFT BUTTON */}
+          <button
             onClick={handlePrev}
-            className="absolute left-2 top-1/2 -translate-y-1/2 z-10 bg-black/80 p-2 rounded-full shadow-lg hover:bg-black transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
-            aria-label="Previous offers"
-            disabled={isTransitioning}
+            className="absolute left-0 top-1/2 -translate-y-1/2 z-20 bg-white/10 backdrop-blur-xl p-3 rounded-full shadow-lg hover:bg-white/20 transition-all border border-white/20"
           >
-            <ChevronLeft className="w-6 h-6 text-white" aria-hidden="true" />
-          </button>
-          
-          <button 
-            onClick={handleNext}
-            className="absolute right-2 top-1/2 -translate-y-1/2 z-10 bg-black/80 p-2 rounded-full shadow-lg hover:bg-black transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
-            aria-label="Next offers"
-            disabled={isTransitioning}
-          >
-            <ChevronRight className="w-6 h-6 text-white" aria-hidden="true" />
+            <ChevronLeft className="w-6 h-6 text-white" />
           </button>
 
-          <div className="overflow-hidden mx-8">
-            <div 
-              className={`flex ${isTransitioning ? 'transition-transform duration-700 ease-in-out' : ''}`}
-              style={{ 
-                transform: `translateX(-${currentSlide * (100 / numVisible)}%)` 
+          {/* RIGHT BUTTON */}
+          <button
+            onClick={handleNext}
+            className="absolute right-0 top-1/2 -translate-y-1/2 z-20 bg-white/10 backdrop-blur-xl p-3 rounded-full shadow-lg hover:bg-white/20 transition-all border border-white/20"
+          >
+            <ChevronRight className="w-6 h-6 text-white" />
+          </button>
+
+          {/* CAROUSEL */}
+          <div className="overflow-hidden mx-16">
+            <div
+              className={`flex gap-6 ${
+                isTransitioning ? "transition-transform duration-500 ease-out" : ""
+              }`}
+              style={{
+                transform: `translateX(-${currentSlide * (itemWidth + 2)}%)`,
               }}
-              role="group"
-              aria-label={`Special offers ${currentSlide + 1} to ${Math.min(currentSlide + numVisible, offers.length)} of ${offers.length}`}
             >
-              {displayOffers.map((offer, index) => (
-                <article 
-                  key={`offer-${offer.id}-${index}`}
-                  className={`${getItemWidth()} flex-shrink-0 flex items-center justify-center`}
+              {displayOffers.map((offer) => (
+                <article
+                  key={offer.id}
+                  className="flex-shrink-0"
+                  style={{ width: `${itemWidth}%` }}
                 >
-                  <a 
-                    href={offer.href}
-                    className="rounded-md shadow-md overflow-hidden h-full flex flex-col bg-white/80 backdrop-blur-sm w-[88%] hover:shadow-xl transition-shadow duration-300 hover:scale-105 transform transition-transform"
-                  >
-                    <div className="relative overflow-hidden" style={{ 
-                      paddingTop: '100%'
-                    }}>
-                      <img
-                        src={offer.image}
-                        alt={offer.title}
-                        className="absolute top-0 left-0 w-full h-full object-cover"
-                        loading="lazy"
-                      />
-                    </div>
-                    <div className="p-2 sm:p-3 text-center flex flex-col items-center justify-center min-h-[80px]">
-                      <h3 className="text-base sm:text-lg font-semibold text-gray-900 mb-2">
-                        {offer.title}
-                      </h3>
-                      <div className="flex items-center gap-2">
-                        <span className="text-red-600 line-through text-sm sm:text-base">
-                          {offer.oldPrice}
-                        </span>
-                        <span className="text-black font-bold text-lg sm:text-xl">
-                          {offer.newPrice}
-                        </span>
+                  <a href={offer.href} className="block group">
+                    <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl overflow-hidden border border-white/20 shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                      <div className="absolute top-4 right-4 z-10 bg-red-500/90 backdrop-blur-sm px-3 py-1 rounded-full">
+                        <span className="text-white text-sm font-medium">Akcija</span>
+                      </div>
+
+                      <div className="aspect-square relative overflow-hidden">
+                        <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center">
+                          <div className="text-white/40 text-sm">{offer.title}</div>
+                        </div>
+                      </div>
+
+                      <div className="p-6 text-center">
+                        <h3 className="text-lg font-medium text-white mb-3 group-hover:text-teal-300 transition-colors">
+                          {offer.title}
+                        </h3>
+
+                        <div className="flex items-center justify-center gap-3">
+                          <span className="text-red-400 line-through text-lg">
+                            {offer.oldPrice}
+                          </span>
+                          <span className="text-white font-semibold text-2xl">
+                            {offer.newPrice}
+                          </span>
+                        </div>
                       </div>
                     </div>
                   </a>
                 </article>
               ))}
             </div>
-          </div>
-          
-          {/* Screen reader announcement for slide changes */}
-          <div className="sr-only" aria-live="polite" aria-atomic="true">
-            Showing offers {currentSlide + 1} to {Math.min(currentSlide + numVisible, offers.length)} of {offers.length}
           </div>
         </div>
       </div>
