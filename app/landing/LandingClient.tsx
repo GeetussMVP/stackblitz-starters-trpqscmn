@@ -21,7 +21,7 @@ const sections = [
 
 export default function LandingClient() {
   const containerRef = useRef<HTMLDivElement>(null);
-  const sectionRefs = useRef<HTMLDivElement[]>([]);
+  const sectionRefs = useRef<Array<HTMLDivElement | null>>([]);
 
   const [activeIndex, setActiveIndex] = useState(0);
   const [scrolling, setScrolling] = useState(false);
@@ -120,7 +120,7 @@ export default function LandingClient() {
         {sections.map((section, idx) => (
           <div
             key={section.id}
-            ref={(el) => (sectionRefs.current[idx] = el!)}
+            ref={(el) => { sectionRefs.current[idx] = el; }}
             className={
               isDesktop
                 ? "min-h-screen flex justify-center items-center py-40"
