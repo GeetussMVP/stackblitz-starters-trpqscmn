@@ -5,9 +5,18 @@ import { Phone, Mail, MapPin, Calendar } from 'lucide-react';
 import { database } from '../firebase';
 import { ref, push } from 'firebase/database';
 
+interface FormData {
+  firstName: string;
+  lastName: string;
+  email: string;
+  phone: string;
+  message: string;
+  date: string;
+}
+
 export default function Kontaktai() {
   // Form states
-  const [formData, setFormData] = useState({ 
+  const [formData, setFormData] = useState<FormData>({ 
     firstName: '', 
     lastName: '', 
     email: '', 
@@ -32,20 +41,10 @@ export default function Kontaktai() {
   // Time slots
   const timeSlots = ['10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00'];
 
-interface ContactFormData {
-    firstName: string;
-    lastName: string;
-    email: string;
-    phone: string;
-    message: string;
-    date: string;
-    [key: string]: string;
-}
-
-const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
-    setFormData({ ...(formData as ContactFormData), [name]: value } as ContactFormData);
-};
+    setFormData({ ...formData, [name]: value });
+  };
 
   const handleContactSubmit = async () => {
     if (!formData.firstName || !formData.lastName || !formData.email || !formData.message) {
@@ -117,21 +116,21 @@ const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaEl
     }
   };
 
-const selectDateTime = (date: Date, time: string): void => {
+  const selectDateTime = (date: Date, time: string): void => {
     setFormData({ ...formData, date: `${date.toDateString()} ${time}` });
     setShowCalendar(false);
-};
+  };
 
-const toggleTimeSlots = (idx: number): void => {
-    const element = document.getElementById(`times-${idx}`) as HTMLElement | null;
+  const toggleTimeSlots = (idx: number): void => {
+    const element = document.getElementById(`times-${idx}`);
     if (element) {
-        const others = document.querySelectorAll<HTMLElement>('[id^="times-"]');
-        others.forEach((el) => {
-            if (el !== element) el.classList.add('hidden');
-        });
-        element.classList.toggle('hidden');
+      const others = document.querySelectorAll<HTMLElement>('[id^="times-"]');
+      others.forEach((el) => {
+        if (el !== element) el.classList.add('hidden');
+      });
+      element.classList.toggle('hidden');
     }
-};
+  };
 
   return (
     <div className="min-h-screen">
@@ -173,7 +172,7 @@ const toggleTimeSlots = (idx: number): void => {
                   <Mail className="w-8 h-8 text-teal-300 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-light text-xl text-white mb-2">Rašykite</h3>
-                    <p className="text-white/70 text-lg">info@jusuistaiga.lt</p>
+                    <p className="text-white/70 text-lg">dekoratoriailt@gmail.com</p>
                   </div>
                 </div>
               </div>

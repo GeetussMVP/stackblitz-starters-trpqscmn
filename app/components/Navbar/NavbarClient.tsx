@@ -116,22 +116,48 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
 
       {/* MOBILE NAV */}
       {isOpen && (
-        <div className="md:hidden bg-black/95 backdrop-blur-sm shadow-lg border-t border-gray-700">
-          <div className="px-4 pt-2 pb-6 space-y-3">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setIsOpen(false)}
-                className={`block py-3 px-4 rounded transition-colors duration-200 font-medium ${
-                  isActive(link.href)
-                    ? 'bg-emerald-900 text-emerald-400'
-                    : 'text-white hover:bg-gray-800 hover:text-emerald-400'
-                }`}
-              >
-                {link.label}
+        <div className="md:hidden bg-black shadow-lg">
+          <div className="px-4 py-6">
+            <div className="flex justify-center mb-6">
+              <Link href="/">
+                <Image
+                  src="/images/logo/small-logo.jpg"
+                  alt="Logo"
+                  width={120}
+                  height={48}
+                  className="h-10 object-contain cursor-pointer"
+                />
               </Link>
-            ))}
+            </div>
+            
+            <div className="space-y-3">
+              {navLinks.map((link) => (
+                <div key={link.href} className="border-b border-gray-800 pb-3">
+                  <Link
+                    href={link.href}
+                    onClick={() => setIsOpen(false)}
+                    className={`block py-2 text-sm font-medium transition-colors duration-200 ${
+                      isActive(link.href)
+                        ? 'text-emerald-400'
+                        : 'text-white hover:text-emerald-400'
+                    }`}
+                  >
+                    {link.label}
+                  </Link>
+                </div>
+              ))}
+              
+              {/* Login/Register Link - Mobile Only */}
+              <div className="border-b border-gray-800 pb-3 pt-2">
+                <Link
+                  href="/prisijungti"
+                  onClick={() => setIsOpen(false)}
+                  className="block py-2 text-sm font-medium text-white hover:text-emerald-400 transition-colors duration-200"
+                >
+                  Užsiregistruoti / Prisijungti
+                </Link>
+              </div>
+            </div>
           </div>
         </div>
       )}

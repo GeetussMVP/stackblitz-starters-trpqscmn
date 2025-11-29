@@ -1,29 +1,43 @@
 "use client";
 
-// app/produktai/dekoratyviniai-profiliai/page.tsx
-
 import React, { useState } from "react";
 import produktaiDataRaw from "../../data/produktai.json";
 import FilterPanel, { FiltersType } from "../../components/Produktai/FilterPanel/FilterPanel";
 import MobileProductCard from "../../components/Produktai/MobileProductCard";
 import TabletProductCard from "../../components/Produktai/TabletProductCard";
 import DesktopProductCard from "../../components/Produktai/DesktopProductCard";
-import { Category } from "../../produktai/types";
+import { Category, Product } from "../../produktai/types";
 
 const produktaiData: Category[] = produktaiDataRaw as Category[];
 
-export default function DekoratyviniaiProfiliaiPage() {
-  const category: Category = produktaiData[2]; // Dekoratyviniai profiliai
-  const [filters, setFilters] = useState<FiltersType>({ ilgis: [], aukstis: [], stilius: [], kaina: [0, 1500] });
+// Get Lubiniai Apvadai category
+const category: Category | undefined = produktaiData.find(
+  (cat) => cat.slug === "lubiniai-apvadai"
+);
+
+export default function LubiniaiApvadaiPage() {
+  const [filters, setFilters] = useState<FiltersType>({
+    ilgis: [],
+    aukstis: [],
+    stilius: [],
+    kaina: [0, 1500],
+  });
 
   const handleFiltersChange = (f: FiltersType) => setFilters(f);
 
-  const filteredProducts = category.products.filter((p) => {
-    if (filters.ilgis.length && !filters.ilgis.includes(p.ilgis)) return false;
-    if (filters.aukstis.length && !filters.aukstis.includes(p.aukstis)) return false;
-    if (filters.stilius.length && !filters.stilius.includes(p.stilius)) return false;
-    return true;
-  });
+  const filteredProducts: Product[] = category
+    ? category.products.filter((p) => {
+        if (filters.ilgis.length && !filters.ilgis.includes(p.ilgis)) return false;
+        if (filters.aukstis.length) {
+          const heights = Array.isArray(p.aukstis) ? p.aukstis : [p.aukstis];
+          if (!heights.some((h) => filters.aukstis.includes(h))) return false;
+        }
+        if (filters.stilius.length && (!p.stilius || !filters.stilius.includes(p.stilius))) return false;
+        return true;
+      })
+    : [];
+
+  if (!category) return <p className="text-center mt-10">Lubiniai apvadai category not found.</p>;
 
   return (
     <div className="w-full min-h-screen">

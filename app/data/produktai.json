@@ -1,5 +1,64 @@
 [
   {
+    "id": 0,
+    "title": "Lubiniai apvadai",
+    "slug": "lubiniai-apvadai",
+    "products": [
+      { "id": "LA 1", "title": "LA 1", "img": "/images/placeholder.jpg", "ilgis": 2007, "aukstis": 200, "stilius": "Art Deco", "sudetis": "Gipsas", "gylis": 75, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Nelankstus. Baltos spalvos (galima dažyti)." },
+      { "id": "LA 2", "title": "LA 2", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 102, "sudetis": "Gipsas", "gylis": 95, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 3", "title": "LA 3", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 148, "sudetis": "Gipsas", "gylis": 68, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 4", "title": "LA 4", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 161, "sudetis": "Gipsas", "gylis": 156, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 5", "title": "LA 5", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 115, "sudetis": "Gipsas", "gylis": 57, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 6", "title": "LA 6", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 70, "sudetis": "Gipsas", "gylis": 55, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 7", "title": "LA 7", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": [156, 148, 145, 161], "sudetis": "Gipsas", "gylis": 66, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 8", "title": "LA 8", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 91, "sudetis": "Gipsas", "gylis": 87, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 9", "title": "LA 9", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 119, "sudetis": "Gipsas", "gylis": 120, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 10", "title": "LA 10", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 69, "sudetis": "Gipsas", "gylis": 72, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 11", "title": "LA 11", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 117, "sudetis": "Gipsas", "gylis": 50, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 12", "title": "LA 12", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 96, "sudetis": "Gipsas", "gylis": 84, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 13", "title": "LA 13", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 119, "sudetis": "Gipsas", "gylis": 120, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 14", "title": "LA 14", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 70, "sudetis": "Gipsas", "gylis": 40, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 15", "title": "LA 15", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 76, "sudetis": "Gipsas", "gylis": 38, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 16", "title": "LA 16", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 90, "sudetis": "Gipsas", "gylis": 47, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 17", "title": "LA 17", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 70, "sudetis": "Gipsas", "gylis": 55, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 18", "title": "LA 18", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 99, "sudetis": "Gipsas", "gylis": 100, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 19", "title": "LA 19", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 84, "sudetis": "Gipsas", "gylis": 61, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 20", "title": "LA 20", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 51, "sudetis": "Gipsas", "gylis": 52, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 21", "title": "LA 21", "img": "/images/placeholder.jpg", "ilgis": 2000, "aukstis": 114, "sudetis": "Gipsas", "gylis": 77, "pristatymo_terminas": "3-7d.d." },
+      { "id": "LA 22", "title": "LA 22", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 30, "ilgis": 2000, "gylis": 30, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti). Vieneto svoris - 330gr." },
+
+    { "id": "LA 23", "title": "LA 23", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 28, "ilgis": 2000, "gylis": 28, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 24", "title": "LA 24", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 31, "ilgis": 2000, "gylis": 31, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 25", "title": "LA 25", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 110, "ilgis": 2000, "gylis": 45, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Karnizas laiptuoto dizaino. Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 26", "title": "LA 26", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 130, "ilgis": 2000, "gylis": 66, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 27", "title": "LA 27", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 91, "ilgis": 2000, "gylis": 43, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 28", "title": "LA 28", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 134, "ilgis": 2000, "gylis": 130, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 29", "title": "LA 29", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 140, "ilgis": 2000, "gylis": 86, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 30", "title": "LA 30", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 159, "ilgis": 2000, "gylis": 120, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 31", "title": "LA 31", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 25, "ilgis": 2000, "gylis": 221, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 32", "title": "LA 32", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 200, "ilgis": 2000, "gylis": 100, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 33", "title": "LA 33", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 167, "ilgis": 2000, "gylis": 147, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 34", "title": "LA 34", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 110, "ilgis": 2000, "gylis": 89, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 35", "title": "LA 35", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 116, "ilgis": 2000, "gylis": 110, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Baltos spalvos (galima dažyti)." },
+
+    { "id": "LA 36", "title": "LA 36", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 173, "ilgis": 2000, "gylis": 127, "pristatymo_terminas": "3-7d.d.", "papildoma_informacija": "Yra lankstus analogas." },
+
+    { "id": "LA 37", "title": "LA 37", "img": "/images/placeholder.jpg", "sudetis": "Gipsas", "aukstis": 26, "ilgis": 2000, "gylis": 17, "pristatymo_terminas": "3-7d.d." }
+    ]
+  },
+  {
     "id": 1,
     "title": "Gipso kartono plokštės",
     "slug": "gipso-kartono-plokstes",

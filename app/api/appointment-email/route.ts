@@ -1,4 +1,4 @@
-// or app/api/appointment-email/route.ts for Next.js 13+ App Router
+// pages/api/appointment-email.ts (for Next.js Pages Router)
 
 import type { NextApiRequest, NextApiResponse } from 'next';
 import nodemailer from 'nodemailer';
@@ -43,22 +43,21 @@ export default async function handler(
   }
 
   try {
-    // Create nodemailer transporter
-    // For Gmail, you'll need to enable "Less secure app access" or use App Password
+    // Create nodemailer transporter using your env variables
     const transporter = nodemailer.createTransport({
-      host: process.env.SMTP_HOST || 'smtp.gmail.com',
-      port: parseInt(process.env.SMTP_PORT || '587'),
-      secure: false, // true for 465, false for other ports
+      host: 'smtp.gmail.com',
+      port: 587,
+      secure: false,
       auth: {
-        user: process.env.SMTP_USER, // Your email
-        pass: process.env.SMTP_PASSWORD, // Your email password or app password
+        user: process.env.EMAIL_USER, // dekoratoriailt@gmail.com
+        pass: process.env.EMAIL_PASSWORD, // hfedqvtjgmfugykf
       },
     });
 
     // Email to the company/admin
     const adminEmailContent = {
-      from: process.env.SMTP_USER,
-      to: process.env.ADMIN_EMAIL || 'info@jusuistaiga.lt', // Your company email
+      from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
+      to: process.env.EMAIL_USER, // Send to your email
       subject: `Naujas susitikimo užsakymas - ${firstName} ${lastName}`,
       html: `
         <!DOCTYPE html>
@@ -111,7 +110,7 @@ export default async function handler(
 
     // Email to the customer (confirmation)
     const customerEmailContent = {
-      from: process.env.SMTP_USER,
+      from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
       to: email,
       subject: appointmentDate 
         ? `Susitikimo patvirtinimas - ${appointmentDate}` 
@@ -151,7 +150,7 @@ export default async function handler(
               <div class="contact-info">
                 <h3 style="color: #14b8a6; margin-top: 0;">Mūsų Kontaktai:</h3>
                 <p><strong>📞 Telefonas:</strong> +370 600 12345</p>
-                <p><strong>✉️ El. paštas:</strong> info@jusuistaiga.lt</p>
+                <p><strong>✉️ El. paštas:</strong> dekoratoriailt@gmail.com</p>
                 <p><strong>📍 Adresas:</strong> Gedimino pr. 1, Vilnius, LT-01103</p>
               </div>
               
@@ -161,7 +160,7 @@ export default async function handler(
               </div>
               
               <div class="footer">
-                <p>Su pagarba,<br/>Jūsų Įstaigos Komanda</p>
+                <p>Su pagarba,<br/>Lietuvos Gipsas Komanda</p>
               </div>
             </div>
           </div>
@@ -189,63 +188,3 @@ export default async function handler(
     });
   }
 }
-
-// For Next.js 13+ App Router (app/api/appointment-email/route.ts)
-/*
-import { NextRequest, NextResponse } from 'next/server';
-import nodemailer from 'nodemailer';
-
-interface AppointmentEmailRequest {
-  firstName: string;
-  lastName: string;
-  email: string;
-  phone?: string;
-  message: string;
-  appointmentDate?: string;
-  timestamp: string;
-}
-
-export async function POST(request: NextRequest) {
-  try {
-    const body: AppointmentEmailRequest = await request.json();
-    const { firstName, lastName, email, phone, message, appointmentDate, timestamp } = body;
-
-    // Validate required fields
-    if (!firstName || !lastName || !email || !message) {
-      return NextResponse.json(
-        { success: false, message: 'Missing required fields' },
-        { status: 400 }
-      );
-    }
-
-    // Create nodemailer transporter
-    const transporter = nodemailer.createTransport({
-      host: process.env.SMTP_HOST || 'smtp.gmail.com',
-      port: parseInt(process.env.SMTP_PORT || '587'),
-      secure: false,
-      auth: {
-        user: process.env.SMTP_USER,
-        pass: process.env.SMTP_PASSWORD,
-      },
-    });
-
-    // ... (same email content as above) ...
-
-    await transporter.sendMail(adminEmailContent);
-    await transporter.sendMail(customerEmailContent);
-
-    return NextResponse.json({ 
-      success: true, 
-      message: 'Emails sent successfully' 
-    });
-
-  } catch (error) {
-    console.error('Email error:', error);
-    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
-    return NextResponse.json(
-      { success: false, message: 'Failed to send emails', error: errorMessage },
-      { status: 500 }
-    );
-  }
-}
-*/
