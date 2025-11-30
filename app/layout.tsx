@@ -1,4 +1,3 @@
-// app/layout.tsx
 import './globals.css';
 import type { Viewport, Metadata } from 'next';
 import { Inter } from 'next/font/google';
@@ -8,8 +7,9 @@ import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import '@mantine/carousel/styles.css';
 import Script from 'next/script';
-
-import { AuthProvider } from './contexts/AuthContext'; // ✅ import your provider
+import { AuthProvider } from './contexts/AuthContext';
+import { BusinessAuthProvider } from './contexts/BusinessAuthContext';
+import { CartProvider } from './contexts/CartContext';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -47,25 +47,28 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="lt" className={inter.variable}>
       <body className="font-inter antialiased relative min-h-screen">
-        <AuthProvider> {/* ✅ FIXED */}
-          <MantineProvider>
-            <Background />
-            <Navbar />
-            <main
-              role="main"
-              id="main-content"
-              className="relative z-10 pt-20 sm:pt-24 min-h-screen text-slate-900"
-            >
-              {children}
-            </main>
-          </MantineProvider>
+        <AuthProvider>
+          <BusinessAuthProvider>
+            <CartProvider>
+              <MantineProvider>
+                <Background />
+                <Navbar />
+                <main
+                  role="main"
+                  id="main-content"
+                  className="relative z-10 pt-20 sm:pt-24 min-h-screen text-slate-900"
+                >
+                  {children}
+                </main>
+              </MantineProvider>
+            </CartProvider>
+          </BusinessAuthProvider>
         </AuthProvider>
         <Script
-  src={`https://maps.googleapis.com/maps/api/js?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}&libraries=maps`}
-  strategy="beforeInteractive"
-/>
+          src={`https://maps.googleapis.com/maps/api/js?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}&libraries=maps`}
+          strategy="beforeInteractive"
+        />
       </body>
-      
     </html>
   );
 }
