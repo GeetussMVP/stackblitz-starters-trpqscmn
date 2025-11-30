@@ -7,6 +7,7 @@ import Background from './components/Background/Background';
 import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import '@mantine/carousel/styles.css';
+import Script from 'next/script';
 
 import { AuthProvider } from './contexts/AuthContext'; // ✅ import your provider
 
@@ -59,7 +60,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </main>
           </MantineProvider>
         </AuthProvider>
+        <Script
+  src={`https://maps.googleapis.com/maps/api/js?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}&libraries=maps`}
+  strategy="beforeInteractive"
+/>
       </body>
+      
     </html>
   );
 }

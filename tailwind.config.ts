@@ -12,7 +12,16 @@ const config: Config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-        'gradient-grey-270': 'linear-gradient(270deg, #d3d3d3, #4b4b4b)', // light grey → dark grey
+        'gradient-grey-270': 'linear-gradient(270deg, #d3d3d3, #4b4b4b)',
+      },
+      keyframes: {
+        underline: {
+          from: { 'stroke-dashoffset': '1000' },
+          to: { 'stroke-dashoffset': '0' },
+        },
+      },
+      animation: {
+        underline: 'underline 2s ease-out forwards',
       },
     },
   },

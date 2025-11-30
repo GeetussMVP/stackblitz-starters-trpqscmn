@@ -10,14 +10,14 @@ type Category = {
 };
 
 const categories: Category[] = [
-  { id: 1, title: "Gipso kartono plokštės", img: "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=400", href: "/produktai/gipso-kartono-plokstes" },
-  { id: 2, title: "Tinkas ir Glaistas", img: "https://images.unsplash.com/photo-1615876234886-fd9a39fda97f?w=400", href: "/produktai/tinkas-ir-glaistas" },
-  { id: 3, title: "Lubiniai Apvadai", img: "https://images.unsplash.com/photo-1615873968403-89e068629265?w=400", href: "/produktai/lubiniai-apvadai" },
-  { id: 4, title: "Rozetės", img: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=400", href: "/produktai/rozetes" },
-  { id: 5, title: "Kolonos", img: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=400", href: "/produktai/kolonos" },
-  { id: 6, title: "Gembės", img: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=400", href: "/produktai/gembes" },
-  { id: 7, title: "Sieninis dekoras", img: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=400", href: "/produktai/sieninis-dekoras" },
-  { id: 8, title: "Statulėlės", img: "https://images.unsplash.com/photo-1582582621959-48d27397dc69?w=400", href: "/produktai/statuleles" },
+  { id: 1, title: "Gipso kartono plokštės", img: "images/landing/gipso-kartono-plokstes.png.png", href: "/produktai/gipso-kartono-plokstes" },
+  { id: 2, title: "Tinkas ir Glaistas", img: "/images/landing/tinkas-ir-glaistas.png", href: "/produktai/tinkas-ir-glaistas" },
+  { id: 3, title: "Lubu Apvadai", img: "/images/landing/lubu-apvadai.png", href: "/produktai/lubu-apvadai" },
+  { id: 4, title: "Rozetės", img: "/images/landing/rozetes.PNG", href: "/produktai/rozetes" },
+  { id: 5, title: "Kolonos", img: "/images/landing/kolonos.JPG", href: "/produktai/kolonos" },
+  { id: 6, title: "Gembės", img: "/images/landing/gembes.webp", href: "/produktai/gembes" },
+  { id: 7, title: "Sieninis dekoras", img: "/images/landing/sieninis-dekoras.png", href: "/produktai/sieninis-dekoras" },
+  { id: 8, title: "Statulėlės", img: "/images/landing/statuleles.JPG", href: "/produktai/statuleles" },
 ];
 
 export default function ProduktaiPage() {

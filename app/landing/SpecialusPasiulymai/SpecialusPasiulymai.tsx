@@ -2,61 +2,82 @@
 
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, Tag } from "lucide-react";
+import productsData from "@/app/data/produktai.json"; // Update this path to your JSON file location
+
+interface Product {
+  id: string | number;
+  title: string;
+  img: string;
+  ilgis?: number;
+  aukstis?: number | number[];
+  stilius?: string;
+  sudetis?: string;
+  gylis?: number;
+  pristatymo_terminas?: string;
+  papildoma_informacija?: string;
+  description?: string;
+  old_price?: number;
+  price?: number;
+}
+
+interface Category {
+  id: number;
+  title: string;
+  slug: string;
+  products: Product[];
+}
+
+interface Offer {
+  id: string;
+  title: string;
+  image: string;
+  href: string;
+  oldPrice: string;
+  newPrice: string;
+  category: string;
+}
 
 const SpecialOffersCarousel = () => {
-  const offers = [
-    {
-      title: "Cornice 1",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-1",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-    {
-      title: "Cornice 2",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-2",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-    {
-      title: "Cornice 3",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-3",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-    {
-      title: "Cornice 4",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-4",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-    {
-      title: "Cornice 5",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-5",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-    {
-      title: "Cornice 6",
-      image: "/images/placeholder.jpg",
-      href: "/special-offers/cornice-6",
-      oldPrice: "€10",
-      newPrice: "€9",
-    },
-  ];
+  const [offers, setOffers] = useState<Offer[]>([]);
+
+  useEffect(() => {
+    const discountedProducts: Offer[] = [];
+    
+    // Loop through all categories
+    (productsData as Category[]).forEach(category => {
+      // Loop through products in each category
+      category.products.forEach(product => {
+        // Check if product has both old_price and price fields
+        if (product.old_price !== undefined && product.price !== undefined) {
+          discountedProducts.push({
+            id: String(product.id),
+            title: product.title,
+            image: product.img,
+            href: `/products/${category.slug}/${product.id}`,
+            oldPrice: `€${product.old_price.toFixed(2)}`,
+            newPrice: `€${product.price.toFixed(2)}`,
+            category: category.title
+          });
+        }
+      });
+    });
+    
+    setOffers(discountedProducts);
+  }, []);
 
   const [currentSlide, setCurrentSlide] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [numVisible, setNumVisible] = useState(3);
 
   // Triple data for infinite loop
-  const displayOffers = [];
+  const displayOffers: Offer[] = [];
   for (let i = 0; i < offers.length * 3; i++) {
-    displayOffers.push({ ...offers[i % offers.length], id: i });
+    if (offers[i % offers.length]) {
+      displayOffers.push({ 
+        ...offers[i % offers.length], 
+        id: `${offers[i % offers.length].id}-${i}` 
+      });
+    }
   }
 
   // -------------------------------
@@ -118,6 +139,10 @@ const SpecialOffersCarousel = () => {
     }
   }, [currentSlide, isTransitioning]);
 
+  if (offers.length === 0) {
+    return null; // Don't render if no offers
+  }
+
   return (
     <section className="py-16 w-full px-6">
       <div className="max-w-7xl mx-auto">
@@ -170,9 +195,11 @@ const SpecialOffersCarousel = () => {
                       </div>
 
                       <div className="aspect-square relative overflow-hidden">
-                        <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center">
-                          <div className="text-white/40 text-sm">{offer.title}</div>
-                        </div>
+                        <img 
+                          src={offer.image} 
+                          alt={offer.title}
+                          className="w-full h-full object-cover"
+                        />
                       </div>
 
                       <div className="p-6 text-center">

@@ -18,12 +18,15 @@ export default function ProfessionalInstallation() {
 
             <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl overflow-hidden border border-white/20 shadow-2xl">
               <div className="aspect-video relative">
-                <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center">
-                  <div className="text-white/40 text-xl">Installation Image</div>
-                </div>
+                <img
+                  src="/images/landing/installation.jpeg"
+                  alt="Professional installation"
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </section>

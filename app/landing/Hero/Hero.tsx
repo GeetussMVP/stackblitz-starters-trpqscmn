@@ -11,15 +11,15 @@ export default function Hero() {
           </p>
         </div>
 
-        <div className="relative max-w-5xl mx-auto">
+        <div className="relative w-full mx-auto">
           <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-teal-500/20 rounded-3xl blur-3xl" />
 
           <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl overflow-hidden border border-white/20 shadow-2xl">
-            <div className="aspect-[16/9] relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center">
-                <div className="text-white/40 text-xl">Hero Image</div>
-              </div>
-            </div>
+            <img 
+              src="/images/landing/hero.jpg" 
+              alt="Hero" 
+              className="w-full h-auto"
+            />
           </div>
         </div>
       </div>

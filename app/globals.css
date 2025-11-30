@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* Required for underline SVG animation */
+.underline-path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+}
