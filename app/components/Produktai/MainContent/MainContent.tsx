@@ -11,6 +11,7 @@ import ProductCardTablet from "../TabletProductCard/TabletProductCard";
 import FilterPanel from "../FilterPanel/FilterPanel";
 import ProductNavBar from "../ProductNavBar/ProductNavBar";
 import produktaiDataRaw from "@/app/data/produktai.json";
+import { useCart } from "@/app/contexts/CartContext";
 
 interface Product {
   id: string | number;
@@ -37,16 +38,15 @@ interface Category {
 
 interface MainContentProps {
   categorySlug?: string;
-  onAddToCart?: (product: Product) => void;
 }
 
 const produktaiData: Category[] = produktaiDataRaw as Category[];
 
 const MainContent: React.FC<MainContentProps> = ({
   categorySlug,
-  onAddToCart,
 }) => {
   const router = useRouter();
+  const { addToCart } = useCart();
   const [isFilterOpen, setIsFilterOpen] = useState(false);
   const [filters, setFilters] = useState({
     priceRange: "all",
@@ -134,9 +134,7 @@ const MainContent: React.FC<MainContentProps> = ({
 
   // Handle add to cart
   const handleAddToCart = (product: Product) => {
-    if (onAddToCart) {
-      onAddToCart(product);
-    }
+    addToCart(product);
     setAddedProduct(product);
     document.body.style.overflow = "hidden";
   };
@@ -311,7 +309,7 @@ const MainContent: React.FC<MainContentProps> = ({
                 <button
                   onClick={() => {
                     closeModal();
-                    router.push("/krepshelis");
+                    router.push("/krepselis");
                   }}
                   className="w-full bg-gray-100 text-gray-700 py-3 rounded-lg flex items-center justify-center gap-2 hover:bg-gray-200 transition-colors"
                 >

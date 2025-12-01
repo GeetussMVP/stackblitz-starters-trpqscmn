@@ -5,6 +5,7 @@ import { FaBars, FaTimes, FaSearch, FaShoppingCart } from 'react-icons/fa';
 import { usePathname, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useCart } from '@/app/contexts/CartContext';
 
 type NavLink = { href: string; label: string };
 type NavbarClientProps = { navLinks: NavLink[] };
@@ -14,6 +15,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
   const [scrolled, setScrolled] = useState(false);
   const [cartShake, setCartShake] = useState(false);
   const [mounted, setMounted] = useState(false);
+  const { cartCount } = useCart();
 
   const pathname = usePathname();
   const router = useRouter();
@@ -33,7 +35,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
   const handleCheckout = () => {
     setCartShake(true);
     setTimeout(() => setCartShake(false), 800);
-    router.push('/checkout');
+    router.push('/krepselis');
   };
 
   const navClass = mounted && scrolled ? 'bg-black shadow-lg' : 'bg-black';
@@ -83,9 +85,14 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
             <button
               aria-label="Krepšelis"
               onClick={handleCheckout}
-              className={`p-2 transition-transform ${cartShake ? 'animate-shake' : 'hover:scale-110'}`}
+              className={`p-2 transition-transform relative ${cartShake ? 'animate-shake' : 'hover:scale-110'}`}
             >
               <FaShoppingCart size={20} />
+              {mounted && cartCount > 0 && (
+                <span className="absolute -top-1 -right-1 bg-emerald-400 text-black text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
+                  {cartCount}
+                </span>
+              )}
             </button>
           </div>
 
