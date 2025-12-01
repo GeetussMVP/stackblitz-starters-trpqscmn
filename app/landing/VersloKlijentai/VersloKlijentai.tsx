@@ -17,7 +17,7 @@ const VersloKlijentai = () => {
                   Spauskite čia kad susikurti verslo paskyrą
                 </p>
                 <a
-                  href="/signup/business"
+                  href="/verslo-registracija"
                   className="inline-block bg-white/90 backdrop-blur-sm text-slate-900 px-8 py-4 rounded-2xl font-medium text-lg shadow-lg hover:bg-white hover:scale-105 transform transition-all duration-300 border border-white/30"
                 >
                   Sukurti Verslo Paskyrą

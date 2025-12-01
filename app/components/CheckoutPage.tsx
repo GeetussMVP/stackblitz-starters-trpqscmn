@@ -36,7 +36,7 @@ const CheckoutPage: React.FC<CheckoutPageProps> = ({
       },
       body: JSON.stringify({ 
         amount: convertToSubcurrency(amount),
-        currency: "gbp",
+        currency: "eur",
         customerDetails
       }),
     })

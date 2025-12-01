@@ -7,6 +7,7 @@ if (!secretKey) {
   throw new Error("STRIPE_SECRET_KEY is missing in environment variables");
 }
 
+// Remove the problematic API version or use a stable one
 const stripe = new Stripe(secretKey, {
   apiVersion: "2025-11-17.clover",
 });
@@ -24,7 +25,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const baseUrl = "https://besserappliances.co.uk"; // your domain
+    const baseUrl = "https://besserappliances.co.uk";
     const successUrl = `${baseUrl}/payment-success`;
     const cancelUrl = `${baseUrl}/payment-cancelled`;
 
@@ -57,7 +58,7 @@ export async function POST(request: NextRequest) {
           line2: line_2 || "",
           city: city || "",
           postal_code: postal_code || "",
-          country: country || "LT", // Lithuania default
+          country: country || "LT",
         },
       };
     }
@@ -83,7 +84,6 @@ export async function POST(request: NextRequest) {
   } catch (error: unknown) {
     console.error("Stripe Payment Error:", error);
 
-    // Safe TypeScript check for Stripe errors
     if (
       error &&
       typeof error === "object" &&
