@@ -40,9 +40,9 @@ const CategoryCarousel = () => {
       href: "/produktai/sieninis-dekoras",
     },
     {
-      title: "Sienos Plokštės",
-      image: "/images/landing/sienos-plokstes.png",
-      href: "/produktai/sienos-plokstes",
+      title: "sienu Plokštės",
+      image: "/images/landing/sienu-plokstes.png",
+      href: "/produktai/sienu-plokstes",
     },
     {
       title: "Statulėlės",
