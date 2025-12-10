@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useRef, useState } from "react"; // <-- added useRef, useState
 import { X } from "lucide-react";
 
 export type FiltersType = {
@@ -30,6 +30,26 @@ export default function FilterPanel({
 }: FilterPanelProps) {
   if (!open) return null;
 
+  // --- NEW: Dynamically read navbar height ---
+  const [navbarHeight, setNavbarHeight] = useState(0);
+  const panelRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const nav = document.querySelector("nav");
+    if (nav) setNavbarHeight(nav.offsetHeight);
+  }, []);
+
+  // --- NEW: Close when clicking outside panel ---
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (panelRef.current && !panelRef.current.contains(e.target as Node)) {
+        onClose();
+      }
+    };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, [onClose]);
+
   const resetFilters = () => {
     onFilterChange("priceRange", "all");
     onFilterChange("material", "all");
@@ -37,9 +57,18 @@ export default function FilterPanel({
   };
 
   return (
-    <div className="fixed inset-0 bg-black/50 z-40 flex justify-end">
-      <div className="bg-white w-80 h-full p-6 overflow-y-auto shadow-xl animate-slide-left">
-        
+    <div className="fixed inset-0 z-40 bg-black/50">
+
+      {/* PANEL */}
+      <div
+        ref={panelRef}
+        className="bg-white w-80 p-6 overflow-y-auto shadow-xl animate-slide-left fixed right-0 z-50"
+        style={{
+          top: navbarHeight, // <-- panel starts BELOW navbar
+          height: `calc(100vh - ${navbarHeight}px)`, // <-- fills remaining space
+        }}
+      >
+
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
           <h3 className="text-lg font-bold">Filtrai</h3>
@@ -97,6 +126,7 @@ export default function FilterPanel({
         >
           Išvalyti filtrus
         </button>
+
       </div>
     </div>
   );

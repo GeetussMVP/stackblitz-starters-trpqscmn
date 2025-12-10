@@ -18,6 +18,7 @@ interface Product {
   title: string;
   img: string;
   ilgis?: number;
+  plotis?: number;
   aukstis?: number | number[];
   stilius?: string;
   sudetis?: string;
@@ -186,10 +187,6 @@ export default function MainContent({ categorySlug }: MainContentProps) {
                 key={product.id}
                 product={product}
                 categoryTitle={currentCategory?.title ?? ""}
-                isExpanded={expandedProduct === product.id}
-                onToggleExpand={() =>
-                  setExpandedProduct(expandedProduct === product.id ? null : product.id)
-                }
                 onAddToCart={() => handleAddToCart(product)}
               />
             ))}
@@ -201,26 +198,26 @@ export default function MainContent({ categorySlug }: MainContentProps) {
                 key={product.id}
                 product={product}
                 categoryTitle={currentCategory?.title ?? ""}
+                onAddToCart={() => handleAddToCart(product)}
                 isExpanded={expandedProduct === product.id}
                 onToggleExpand={() =>
                   setExpandedProduct(expandedProduct === product.id ? null : product.id)
                 }
-                onAddToCart={() => handleAddToCart(product)}
               />
             ))}
           </div>
         ) : (
-          <div className="space-y-6">
+          <div className="grid grid-cols-2 gap-6">
             {filteredProducts.map((product) => (
               <ProductCardDesktop
                 key={product.id}
                 product={product}
                 categoryTitle={currentCategory?.title ?? ""}
+                onAddToCart={() => handleAddToCart(product)}
                 isExpanded={expandedProduct === product.id}
                 onToggleExpand={() =>
                   setExpandedProduct(expandedProduct === product.id ? null : product.id)
                 }
-                onAddToCart={() => handleAddToCart(product)}
               />
             ))}
           </div>

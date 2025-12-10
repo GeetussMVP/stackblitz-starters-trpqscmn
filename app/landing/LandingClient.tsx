@@ -27,7 +27,7 @@ export default function LandingClient() {
       {sections.map((section) => (
         <div
           key={section.id}
-          className="min-h-screen flex justify-center items-center py-20"
+          className="min-h-screen flex justify-center items-center"
         >
           {section.component}
         </div>

@@ -3,6 +3,7 @@ import type { Viewport, Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import Navbar from './components/Navbar/Navbar';
 import Background from './components/Background/Background';
+import Footer from './components/Footer/Footer';   // <-- ADD THIS
 import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import '@mantine/carousel/styles.css';
@@ -46,24 +47,28 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="lt" className={inter.variable}>
-      <body className="font-inter antialiased relative min-h-screen">
+      <body className="font-inter antialiased relative min-h-screen flex flex-col">
         <AuthProvider>
           <BusinessAuthProvider>
             <CartProvider>
               <MantineProvider>
                 <Background />
                 <Navbar />
+
                 <main
                   role="main"
                   id="main-content"
-                  className="relative z-10 pt-20 sm:pt-24 min-h-screen text-slate-900"
+                  className="relative z-10 pt-20 sm:pt-24 flex-grow text-slate-900"
                 >
                   {children}
                 </main>
+
+                <Footer /> {/* <-- FOOTER AT BOTTOM */}
               </MantineProvider>
             </CartProvider>
           </BusinessAuthProvider>
         </AuthProvider>
+
         <Script
           src={`https://maps.googleapis.com/maps/api/js?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}&libraries=maps`}
           strategy="beforeInteractive"

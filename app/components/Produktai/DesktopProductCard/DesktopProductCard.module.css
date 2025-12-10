@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;600;700&display=swap');
+
+.card {
+  --accent: #009688;
+  background:#111;
+  border:2px solid #2a2a2a;
+  border-radius:18px;
+  padding:22px;
+  color:#fff;
+  width:100%;
+  margin-inline:auto;
+  font-family:'Karla',sans-serif;
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+}
+
+/* IMAGE CONTAINER */
+.imageContainer {
+  position:relative;
+  width:100%;
+  height:clamp(300px,38vw,420px);
+  overflow:hidden;
+}
+
+/* SLIDER TRACK */
+.sliderTrack {
+  position:relative;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+}
+
+.slideImage {
+  position:absolute;
+  inset:0;
+  transition:transform 0.45s ease;
+}
+
+.image {
+  object-fit:cover;
+}
+
+/******** SLIDE ANIMATIONS ********/
+
+/* NEW IMAGE ENTERING */
+.enterRight { transform: translateX(100%); animation: enterFromRight 0.45s forwards; }
+.enterLeft  { transform: translateX(-100%); animation: enterFromLeft 0.45s forwards; }
+
+/* OLD IMAGE EXITING */
+.exitLeft  { animation: exitToLeft 0.45s forwards; }
+.exitRight { animation: exitToRight 0.45s forwards; }
+
+@keyframes enterFromRight {
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes enterFromLeft {
+  from { transform: translateX(-100%); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes exitToLeft {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-100%); }
+}
+
+@keyframes exitToRight {
+  from { transform: translateX(0); }
+  to   { transform: translateX(100%); }
+}
+
+/******** ARROWS ********/
+.arrowLeft, .arrowRight {
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  background:none;
+  color:white;
+  font-size:40px;
+  border:none;
+  cursor:pointer;
+  z-index:20;
+  opacity:0.75;
+}
+
+.arrowLeft:hover, .arrowRight:hover { opacity:1; }
+
+.arrowLeft { left:12px; }
+.arrowRight { right:12px; }
+
+/******** 3D BUTTON ********/
+.view3DButton {
+  position:absolute;
+  bottom:12px;
+  left:50%;
+  transform:translateX(-50%);
+  background:#222;
+  border:1px solid #444;
+  color:#fff;
+  padding:8px 18px;
+  border-radius:10px;
+  cursor:pointer;
+  z-index:10;
+}
+.view3DButton:hover { background:var(--accent); color:#111; }
+
+/******** INFO BLOCK ********/
+.infoBlock { display:flex; flex-direction:column; gap:10px; }
+.article { opacity:.7; font-size:12px; }
+.title { font-size:21px; font-weight:700; }
+.price { font-size:17px; color:var(--accent); }
+
+/******** BUTTONS ********/
+.buttonRow { display:flex; gap:12px; width:100%; }
+.detailsBtn {
+  width:300px;
+  background:var(--accent);
+  padding:12px;
+  border-radius:10px;
+  border:none;
+  font-weight:600;
+  cursor:pointer;
+}
+.detailsBtn:hover { opacity:.85; }
+
+.cartBtn {
+  width:44px;
+  height:44px;
+  border:2px solid var(--accent);
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+}
+.cartBtn:hover { background:var(--accent); color:#111; }
