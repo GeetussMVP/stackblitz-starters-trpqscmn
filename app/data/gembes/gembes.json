@@ -1,0 +1,564 @@
+{
+    "products": [
+        {
+            "name": "Corbel 1.19.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-002/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.002.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_002/images/1.19.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.002.10.png"
+                },
+                {
+                    "filename": "1.19.002.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_002/images/1.19.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "122 mm",
+                "Height": "303 mm",
+                "Depth": "75 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.002.obj",
+                "local_path": "data/corbel/Corbel_1_19_002/models/1.19.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-003/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.003.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_003/images/1.19.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.003.10.png"
+                },
+                {
+                    "filename": "1.19.003.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_003/images/1.19.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "120 mm",
+                "Height": "149 mm",
+                "Depth": "120 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.003.obj",
+                "local_path": "data/corbel/Corbel_1_19_003/models/1.19.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-004/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.004.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_004/images/1.19.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.004.10.png"
+                },
+                {
+                    "filename": "1.19.004.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_004/images/1.19.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "86 mm",
+                "Height": "215 mm",
+                "Depth": "73 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.004.obj",
+                "local_path": "data/corbel/Corbel_1_19_004/models/1.19.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-005/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.005.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_005/images/1.19.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.005.10.png"
+                },
+                {
+                    "filename": "1.19.005.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_005/images/1.19.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "188 mm",
+                "Height": "489 mm",
+                "Depth": "163 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.005.obj",
+                "local_path": "data/corbel/Corbel_1_19_005/models/1.19.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.008",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-008/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.008.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.008.10.png"
+                },
+                {
+                    "filename": "1.19.008.20.png",
+                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.008.20.png"
+                },
+                {
+                    "filename": "1.19.008.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.008.10.png"
+                },
+                {
+                    "filename": "1.19.008.20.png",
+                    "local_path": "data/corbel/Corbel_1_19_008/images/1.19.008.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.008.20.png"
+                }
+            ],
+            "details": {
+                "Width": "163 mm",
+                "Height": "225 mm",
+                "Depth": "85 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.008.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.008.obj",
+                "local_path": "data/corbel/Corbel_1_19_008/models/1.19.008.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-010/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.010.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_010/images/1.19.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.010.10.png"
+                },
+                {
+                    "filename": "1.19.010.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_010/images/1.19.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.010.10.png"
+                }
+            ],
+            "details": {
+                "Width": "119 mm",
+                "Height": "229 mm",
+                "Depth": "81 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.010.obj",
+                "local_path": "data/corbel/Corbel_1_19_010/models/1.19.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.013",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-013/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.013.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_013/images/1.19.013.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.013.10.png"
+                },
+                {
+                    "filename": "1.19.013.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_013/images/1.19.013.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.013.10.png"
+                }
+            ],
+            "details": {
+                "Width": "169 mm",
+                "Height": "305 mm",
+                "Depth": "187 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.013.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.013.obj",
+                "local_path": "data/corbel/Corbel_1_19_013/models/1.19.013.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.017",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-017/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.017.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_017/images/1.19.017.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.017.10.png"
+                },
+                {
+                    "filename": "1.19.017.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_017/images/1.19.017.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.017.10.png"
+                }
+            ],
+            "details": {
+                "Width": "150 mm",
+                "Height": "225 mm",
+                "Depth": "97 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.017.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.017.obj",
+                "local_path": "data/corbel/Corbel_1_19_017/models/1.19.017.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.137",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-137/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.137.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_137/images/1.19.137.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.137.10.png"
+                },
+                {
+                    "filename": "1.19.137.10.png",
+                    "local_path": "data/corbel/Corbel_1_19_137/images/1.19.137.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.19.137.10.png"
+                }
+            ],
+            "details": {
+                "Width": "73 mm",
+                "Height": "97 mm",
+                "Depth": "38 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.137.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.137.obj",
+                "local_path": "data/corbel/Corbel_1_19_137/models/1.19.137.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Corbel 1.19.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/corbels/1-19-801/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "1.19.801.100.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.19.801.100.png"
+                },
+                {
+                    "filename": "1.19.801.20.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.801.20.png"
+                },
+                {
+                    "filename": "1.19.801.30.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.19.801.30.png"
+                },
+                {
+                    "filename": "1.19.801.31.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.31.png"
+                },
+                {
+                    "filename": "1.19.801.32.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.32.png"
+                },
+                {
+                    "filename": "1.19.801.100.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.19.801.100.png"
+                },
+                {
+                    "filename": "1.19.801.20.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.19.801.20.png"
+                },
+                {
+                    "filename": "1.19.801.30.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.19.801.30.png"
+                },
+                {
+                    "filename": "1.19.801.31.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.31.png"
+                },
+                {
+                    "filename": "1.19.801.32.png",
+                    "local_path": "data/corbel/Corbel_1_19_801/images/1.19.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.19.801.32.png"
+                }
+            ],
+            "details": {
+                "Width": "127 mm",
+                "Height": "100 mm",
+                "Depth": "120 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.19.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.19.801.obj",
+                "local_path": "data/corbel/Corbel_1_19_801/models/1.19.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-002/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.002.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_002/images/4.83.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.002.100.png"
+                },
+                {
+                    "filename": "4.83.002.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_002/images/4.83.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.002.100.png"
+                }
+            ],
+            "details": {
+                "Width": "173 mm",
+                "Height": "114 mm",
+                "Depth": "48 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.002.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_002/models/4.83.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.003",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-003/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.003.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_003/images/4.83.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.003.100.png"
+                },
+                {
+                    "filename": "4.83.003.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_003/images/4.83.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.003.100.png"
+                }
+            ],
+            "details": {
+                "Width": "156 mm",
+                "Height": "100 mm",
+                "Depth": "46 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.003.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_003/models/4.83.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-102/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.102.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_102/images/4.83.102.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.102.100.png"
+                },
+                {
+                    "filename": "4.83.102.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_102/images/4.83.102.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.102.100.png"
+                }
+            ],
+            "details": {
+                "Width": "356 mm",
+                "Height": "240 mm",
+                "Depth": "128 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.102.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_102/models/4.83.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-201/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.201.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_201/images/4.83.201.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.201.100.png"
+                },
+                {
+                    "filename": "4.83.201.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_201/images/4.83.201.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.201.100.png"
+                }
+            ],
+            "details": {
+                "Width": "393 mm",
+                "Height": "277 mm",
+                "Depth": "195 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.201.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_201/models/4.83.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-202/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.202.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_202/images/4.83.202.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.202.100.png"
+                },
+                {
+                    "filename": "4.83.202.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_202/images/4.83.202.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.202.100.png"
+                }
+            ],
+            "details": {
+                "Width": "355 mm",
+                "Height": "262 mm",
+                "Depth": "132 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.202.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_202/models/4.83.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-301/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.301.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_301/images/4.83.301.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.301.100.png"
+                },
+                {
+                    "filename": "4.83.301.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_301/images/4.83.301.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.301.100.png"
+                }
+            ],
+            "details": {
+                "Width": "366 mm",
+                "Height": "276 mm",
+                "Depth": "181 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.301.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_301/models/4.83.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pedestal corbel 4.83.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/pedestal-corbels-window-framing/4-83-302/",
+            "code": null,
+            "category": "gembes",
+            "images": [
+                {
+                    "filename": "4.83.302.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_302/images/4.83.302.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.302.100.png"
+                },
+                {
+                    "filename": "4.83.302.100.png",
+                    "local_path": "data/corbel/Pedestal_corbel_4_83_302/images/4.83.302.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.83.302.100.png"
+                }
+            ],
+            "details": {
+                "Width": "333 mm",
+                "Height": "269 mm",
+                "Depth": "128 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.83.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.83.302.obj",
+                "local_path": "data/corbel/Pedestal_corbel_4_83_302/models/4.83.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

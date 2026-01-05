@@ -1,0 +1,1586 @@
+{
+    "products": [
+        {
+            "name": "Base 1.13.100",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-100/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.13.100.10.png",
+                    "local_path": "data/base/Base_1_13_100/images/1.13.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.100.10.png"
+                },
+                {
+                    "filename": "1.13.100.10.png",
+                    "local_path": "data/base/Base_1_13_100/images/1.13.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.100.10.png"
+                }
+            ],
+            "details": {
+                "Width": "391 mm",
+                "Height": "697 mm",
+                "Depth": "391 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.13.100.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.100.obj",
+                "local_path": "data/base/Base_1_13_100/models/1.13.100.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.13.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-200/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.13.200.10.png",
+                    "local_path": "data/base/Base_1_13_200/images/1.13.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.200.10.png"
+                },
+                {
+                    "filename": "1.13.200.10.png",
+                    "local_path": "data/base/Base_1_13_200/images/1.13.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.200.10.png"
+                }
+            ],
+            "details": {
+                "Width": "377 mm",
+                "Height": "171 mm",
+                "Depth": "377 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.13.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.200.obj",
+                "local_path": "data/base/Base_1_13_200/models/1.13.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.13.500",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-500/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.13.500.10.png",
+                    "local_path": "data/base/Base_1_13_500/images/1.13.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.500.10.png"
+                },
+                {
+                    "filename": "1.13.500.10.png",
+                    "local_path": "data/base/Base_1_13_500/images/1.13.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.500.10.png"
+                }
+            ],
+            "details": {
+                "Width": "261 mm",
+                "Height": "110 mm",
+                "Depth": "261 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.13.500.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.500.obj",
+                "local_path": "data/base/Base_1_13_500/models/1.13.500.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.13.700",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-700/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.13.700.10.png",
+                    "local_path": "data/base/Base_1_13_700/images/1.13.700.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.700.10.png"
+                },
+                {
+                    "filename": "1.13.700.10.png",
+                    "local_path": "data/base/Base_1_13_700/images/1.13.700.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.700.10.png"
+                }
+            ],
+            "details": {
+                "Width": "224 mm",
+                "Height": "115 mm",
+                "Depth": "224 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.13.700.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.700.obj",
+                "local_path": "data/base/Base_1_13_700/models/1.13.700.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.13.900",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-900/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.13.900.10.png",
+                    "local_path": "data/base/Base_1_13_900/images/1.13.900.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.900.10.png"
+                },
+                {
+                    "filename": "1.13.900.10.png",
+                    "local_path": "data/base/Base_1_13_900/images/1.13.900.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.13.900.10.png"
+                }
+            ],
+            "details": {
+                "Width": "214 mm",
+                "Height": "118 mm",
+                "Depth": "214 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.13.900.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.13.900.obj",
+                "local_path": "data/base/Base_1_13_900/models/1.13.900.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.100",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-100/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.100.10.png",
+                    "local_path": "data/base/Base_1_17_100/images/1.17.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.100.10.png"
+                },
+                {
+                    "filename": "1.17.100.10.png",
+                    "local_path": "data/base/Base_1_17_100/images/1.17.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.100.10.png"
+                }
+            ],
+            "details": {
+                "Width": "391 mm",
+                "Height": "698 mm",
+                "Depth": "193 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.100.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.100.obj",
+                "local_path": "data/base/Base_1_17_100/models/1.17.100.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-200/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.200.10.png",
+                    "local_path": "data/base/Base_1_17_200/images/1.17.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.200.10.png"
+                },
+                {
+                    "filename": "1.17.200.10.png",
+                    "local_path": "data/base/Base_1_17_200/images/1.17.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.200.10.png"
+                }
+            ],
+            "details": {
+                "Width": "378 mm",
+                "Height": "171 mm",
+                "Depth": "188 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.200.obj",
+                "local_path": "data/base/Base_1_17_200/models/1.17.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.500",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-500/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.500.10.png",
+                    "local_path": "data/base/Base_1_17_500/images/1.17.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.500.10.png"
+                },
+                {
+                    "filename": "1.17.500.10.png",
+                    "local_path": "data/base/Base_1_17_500/images/1.17.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.500.10.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "110 mm",
+                "Depth": "130 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.500.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.500.obj",
+                "local_path": "data/base/Base_1_17_500/models/1.17.500.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.600",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-600/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.600.10.png",
+                    "local_path": "data/base/Base_1_17_600/images/1.17.600.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.600.10.png"
+                },
+                {
+                    "filename": "1.17.600.10.png",
+                    "local_path": "data/base/Base_1_17_600/images/1.17.600.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.600.10.png"
+                }
+            ],
+            "details": {
+                "Width": "275 mm",
+                "Height": "695 mm",
+                "Depth": "140 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.600.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.600.obj",
+                "local_path": "data/base/Base_1_17_600/models/1.17.600.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.700",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-700/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.700.10.png",
+                    "local_path": "data/base/Base_1_17_700/images/1.17.700.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.700.10.png"
+                },
+                {
+                    "filename": "1.17.700.10.png",
+                    "local_path": "data/base/Base_1_17_700/images/1.17.700.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.700.10.png"
+                }
+            ],
+            "details": {
+                "Width": "225 mm",
+                "Height": "115 mm",
+                "Depth": "112 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.700.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.700.obj",
+                "local_path": "data/base/Base_1_17_700/models/1.17.700.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.17.900",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-900/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.17.900.10.png",
+                    "local_path": "data/base/Base_1_17_900/images/1.17.900.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.900.10.png"
+                },
+                {
+                    "filename": "1.17.900.10.png",
+                    "local_path": "data/base/Base_1_17_900/images/1.17.900.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.17.900.10.png"
+                }
+            ],
+            "details": {
+                "Width": "214 mm",
+                "Height": "119 mm",
+                "Depth": "106 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.17.900.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.17.900.obj",
+                "local_path": "data/base/Base_1_17_900/models/1.17.900.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.100",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-100/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.100.10.png",
+                    "local_path": "data/base/Base_1_23_100/images/1.23.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.100.10.png"
+                },
+                {
+                    "filename": "1.23.100.10.png",
+                    "local_path": "data/base/Base_1_23_100/images/1.23.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.100.10.png"
+                }
+            ],
+            "details": {
+                "Width": "214 mm",
+                "Height": "540 mm",
+                "Depth": "55 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.100.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.100.obj",
+                "local_path": "data/base/Base_1_23_100/models/1.23.100.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-200/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.200.10.png",
+                    "local_path": "data/base/Base_1_23_200/images/1.23.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.200.10.png"
+                },
+                {
+                    "filename": "1.23.200.10.png",
+                    "local_path": "data/base/Base_1_23_200/images/1.23.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.200.10.png"
+                }
+            ],
+            "details": {
+                "Width": "542 mm",
+                "Height": "372 mm",
+                "Depth": "85 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.200.obj",
+                "local_path": "data/base/Base_1_23_200/models/1.23.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.300",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-300/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.300.10.png",
+                    "local_path": "data/base/Base_1_23_300/images/1.23.300.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.300.10.png"
+                },
+                {
+                    "filename": "1.23.300.10.png",
+                    "local_path": "data/base/Base_1_23_300/images/1.23.300.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.300.10.png"
+                }
+            ],
+            "details": {
+                "Width": "300 mm",
+                "Height": "752 mm",
+                "Depth": "75 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.300.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.300.obj",
+                "local_path": "data/base/Base_1_23_300/models/1.23.300.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.400",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-400/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.400.10.png",
+                    "local_path": "data/base/Base_1_23_400/images/1.23.400.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.400.10.png"
+                },
+                {
+                    "filename": "1.23.400.10.png",
+                    "local_path": "data/base/Base_1_23_400/images/1.23.400.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.400.10.png"
+                }
+            ],
+            "details": {
+                "Width": "390 mm",
+                "Height": "905 mm",
+                "Depth": "70 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.400.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.400.obj",
+                "local_path": "data/base/Base_1_23_400/models/1.23.400.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.500",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-500/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.500.10.png",
+                    "local_path": "data/base/Base_1_23_500/images/1.23.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.500.10.png"
+                },
+                {
+                    "filename": "1.23.500.10.png",
+                    "local_path": "data/base/Base_1_23_500/images/1.23.500.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.500.10.png"
+                }
+            ],
+            "details": {
+                "Width": "578 mm",
+                "Height": "301 mm",
+                "Depth": "62 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.500.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.500.obj",
+                "local_path": "data/base/Base_1_23_500/models/1.23.500.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.23.600",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-600/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.23.600.10.png",
+                    "local_path": "data/base/Base_1_23_600/images/1.23.600.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.600.10.png"
+                },
+                {
+                    "filename": "1.23.600.10.png",
+                    "local_path": "data/base/Base_1_23_600/images/1.23.600.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.23.600.10.png"
+                }
+            ],
+            "details": {
+                "Width": "117 mm",
+                "Height": "255 mm",
+                "Depth": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.23.600.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.23.600.obj",
+                "local_path": "data/base/Base_1_23_600/models/1.23.600.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-010/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.010.100.png",
+                    "local_path": "data/base/Base_1_54_010/images/1.54.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.010.100.png"
+                },
+                {
+                    "filename": "1.54.010.100.png",
+                    "local_path": "data/base/Base_1_54_010/images/1.54.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.010.100.png"
+                }
+            ],
+            "details": {
+                "Width": "96 mm",
+                "Height": "248 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.010.obj",
+                "local_path": "data/base/Base_1_54_010/models/1.54.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.030",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-030/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.030.100.png",
+                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
+                },
+                {
+                    "filename": "1.54.030.100.png",
+                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
+                }
+            ],
+            "details": {
+                "Width": "108 mm",
+                "Height": "228 mm",
+                "Thickness": "29 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.030.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
+                "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.030",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-030-2/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.030.100.png",
+                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
+                },
+                {
+                    "filename": "1.54.030.100.png",
+                    "local_path": "data/base/Base_1_54_030/images/1.54.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.030.100.png"
+                }
+            ],
+            "details": {
+                "Width": "108 mm",
+                "Height": "228 mm",
+                "Thickness": "29 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.030.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.030.obj",
+                "local_path": "data/base/Base_1_54_030/models/1.54.030.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.040",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-040/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.040.100.png",
+                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
+                },
+                {
+                    "filename": "1.54.040.100.png",
+                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
+                }
+            ],
+            "details": {
+                "Width": "115 mm",
+                "Height": "249 mm",
+                "Thickness": "45 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.040.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
+                "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.040",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-040-2/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.040.100.png",
+                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
+                },
+                {
+                    "filename": "1.54.040.100.png",
+                    "local_path": "data/base/Base_1_54_040/images/1.54.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.040.100.png"
+                }
+            ],
+            "details": {
+                "Width": "115 mm",
+                "Height": "249 mm",
+                "Thickness": "45 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.040.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.040.obj",
+                "local_path": "data/base/Base_1_54_040/models/1.54.040.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-050/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.050.100.png",
+                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
+                },
+                {
+                    "filename": "1.54.050.100.png",
+                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
+                }
+            ],
+            "details": {
+                "Width": "90 mm",
+                "Height": "299 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-050-2/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.050.100.png",
+                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
+                },
+                {
+                    "filename": "1.54.050.100.png",
+                    "local_path": "data/base/Base_1_54_050/images/1.54.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.050.100.png"
+                }
+            ],
+            "details": {
+                "Width": "90 mm",
+                "Height": "299 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.060",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-060/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.060.100.png",
+                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
+                },
+                {
+                    "filename": "1.54.060.100.png",
+                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
+                }
+            ],
+            "details": {
+                "Width": "110 mm",
+                "Height": "300 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.060.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
+                "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.060",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-060-2/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.060.100.png",
+                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
+                },
+                {
+                    "filename": "1.54.060.100.png",
+                    "local_path": "data/base/Base_1_54_060/images/1.54.060.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.060.100.png"
+                }
+            ],
+            "details": {
+                "Width": "110 mm",
+                "Height": "300 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.060.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.060.obj",
+                "local_path": "data/base/Base_1_54_060/models/1.54.060.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.070",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-070/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.070.100.png",
+                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
+                },
+                {
+                    "filename": "1.54.070.100.png",
+                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
+                }
+            ],
+            "details": {
+                "Width": "110 mm",
+                "Height": "300 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.070.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
+                "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 1.54.070",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-070-2/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "1.54.070.100.png",
+                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
+                },
+                {
+                    "filename": "1.54.070.100.png",
+                    "local_path": "data/base/Base_1_54_070/images/1.54.070.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.54.070.100.png"
+                }
+            ],
+            "details": {
+                "Width": "110 mm",
+                "Height": "300 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.54.070.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.54.070.obj",
+                "local_path": "data/base/Base_1_54_070/models/1.54.070.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-001/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.001.10.png",
+                    "local_path": "data/base/Base_4_13_001/images/4.13.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.001.10.png"
+                },
+                {
+                    "filename": "4.13.001.10.png",
+                    "local_path": "data/base/Base_4_13_001/images/4.13.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.001.10.png"
+                }
+            ],
+            "details": {
+                "Width": "487 mm",
+                "Height": "198 mm",
+                "Depth": "487 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.001.obj",
+                "local_path": "data/base/Base_4_13_001/models/4.13.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-002/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.002.10.png",
+                    "local_path": "data/base/Base_4_13_002/images/4.13.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.002.10.png"
+                },
+                {
+                    "filename": "4.13.002.10.png",
+                    "local_path": "data/base/Base_4_13_002/images/4.13.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "506 mm",
+                "Height": "215 mm",
+                "Depth": "506 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.002.obj",
+                "local_path": "data/base/Base_4_13_002/models/4.13.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-101/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.101.10.png",
+                    "local_path": "data/base/Base_4_13_101/images/4.13.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.101.10.png"
+                },
+                {
+                    "filename": "4.13.101.10.png",
+                    "local_path": "data/base/Base_4_13_101/images/4.13.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "440 mm",
+                "Height": "180 mm",
+                "Depth": "440 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.101.obj",
+                "local_path": "data/base/Base_4_13_101/models/4.13.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-201/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.201.10.png",
+                    "local_path": "data/base/Base_4_13_201/images/4.13.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.201.10.png"
+                },
+                {
+                    "filename": "4.13.201.10.png",
+                    "local_path": "data/base/Base_4_13_201/images/4.13.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "411 mm",
+                "Height": "170 mm",
+                "Depth": "411 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.201.obj",
+                "local_path": "data/base/Base_4_13_201/models/4.13.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-202/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.202.10.png",
+                    "local_path": "data/base/Base_4_13_202/images/4.13.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.202.10.png"
+                },
+                {
+                    "filename": "4.13.202.10.png",
+                    "local_path": "data/base/Base_4_13_202/images/4.13.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "411 mm",
+                "Height": "170 mm",
+                "Depth": "411 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.202.obj",
+                "local_path": "data/base/Base_4_13_202/models/4.13.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-301/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.301.10.png",
+                    "local_path": "data/base/Base_4_13_301/images/4.13.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.301.10.png"
+                },
+                {
+                    "filename": "4.13.301.10.png",
+                    "local_path": "data/base/Base_4_13_301/images/4.13.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "370 mm",
+                "Height": "161 mm",
+                "Depth": "370 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.301.obj",
+                "local_path": "data/base/Base_4_13_301/models/4.13.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.13.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-302/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.13.302.10.png",
+                    "local_path": "data/base/Base_4_13_302/images/4.13.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.302.10.png"
+                },
+                {
+                    "filename": "4.13.302.10.png",
+                    "local_path": "data/base/Base_4_13_302/images/4.13.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.13.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "370 mm",
+                "Height": "161 mm",
+                "Depth": "370 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.13.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.13.302.obj",
+                "local_path": "data/base/Base_4_13_302/models/4.13.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-001/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.001.10.png",
+                    "local_path": "data/base/Base_4_17_001/images/4.17.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.001.10.png"
+                },
+                {
+                    "filename": "4.17.001.10.png",
+                    "local_path": "data/base/Base_4_17_001/images/4.17.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.001.10.png"
+                }
+            ],
+            "details": {
+                "Width": "487 mm",
+                "Height": "198 mm",
+                "Depth": "242 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.001.obj",
+                "local_path": "data/base/Base_4_17_001/models/4.17.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-002/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.002.10.png",
+                    "local_path": "data/base/Base_4_17_002/images/4.17.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.002.10.png"
+                },
+                {
+                    "filename": "4.17.002.10.png",
+                    "local_path": "data/base/Base_4_17_002/images/4.17.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "507 mm",
+                "Height": "215 mm",
+                "Depth": "253 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.002.obj",
+                "local_path": "data/base/Base_4_17_002/models/4.17.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-101/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.101.10.png",
+                    "local_path": "data/base/Base_4_17_101/images/4.17.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.101.10.png"
+                },
+                {
+                    "filename": "4.17.101.10.png",
+                    "local_path": "data/base/Base_4_17_101/images/4.17.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "440 mm",
+                "Height": "180 mm",
+                "Depth": "217 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.101.obj",
+                "local_path": "data/base/Base_4_17_101/models/4.17.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-201/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.201.10.png",
+                    "local_path": "data/base/Base_4_17_201/images/4.17.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.201.10.png"
+                },
+                {
+                    "filename": "4.17.201.10.png",
+                    "local_path": "data/base/Base_4_17_201/images/4.17.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "410 mm",
+                "Height": "170 mm",
+                "Depth": "205 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.201.obj",
+                "local_path": "data/base/Base_4_17_201/models/4.17.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-202/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.202.10.png",
+                    "local_path": "data/base/Base_4_17_202/images/4.17.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.202.10.png"
+                },
+                {
+                    "filename": "4.17.202.10.png",
+                    "local_path": "data/base/Base_4_17_202/images/4.17.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "411 mm",
+                "Height": "171 mm",
+                "Depth": "204 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.202.obj",
+                "local_path": "data/base/Base_4_17_202/models/4.17.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-301/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.301.10.png",
+                    "local_path": "data/base/Base_4_17_301/images/4.17.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.301.10.png"
+                },
+                {
+                    "filename": "4.17.301.10.png",
+                    "local_path": "data/base/Base_4_17_301/images/4.17.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "369 mm",
+                "Height": "161 mm",
+                "Depth": "184 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.301.obj",
+                "local_path": "data/base/Base_4_17_301/models/4.17.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.17.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-302/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.17.302.10.png",
+                    "local_path": "data/base/Base_4_17_302/images/4.17.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.302.10.png"
+                },
+                {
+                    "filename": "4.17.302.10.png",
+                    "local_path": "data/base/Base_4_17_302/images/4.17.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.17.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "372 mm",
+                "Height": "160 mm",
+                "Depth": "185 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.17.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.17.302.obj",
+                "local_path": "data/base/Base_4_17_302/models/4.17.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.23.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-101/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.23.101.10.png",
+                    "local_path": "data/base/Base_4_23_101/images/4.23.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.101.10.png"
+                },
+                {
+                    "filename": "4.23.101.10.png",
+                    "local_path": "data/base/Base_4_23_101/images/4.23.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "408 mm",
+                "Height": "181 mm",
+                "Depth": "125 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.23.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.101.obj",
+                "local_path": "data/base/Base_4_23_101/models/4.23.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.23.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-201/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.23.201.10.png",
+                    "local_path": "data/base/Base_4_23_201/images/4.23.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.201.10.png"
+                },
+                {
+                    "filename": "4.23.201.10.png",
+                    "local_path": "data/base/Base_4_23_201/images/4.23.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "375 mm",
+                "Height": "170 mm",
+                "Depth": "120 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.23.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.201.obj",
+                "local_path": "data/base/Base_4_23_201/models/4.23.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.23.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-301/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.23.301.10.png",
+                    "local_path": "data/base/Base_4_23_301/images/4.23.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.301.10.png"
+                },
+                {
+                    "filename": "4.23.301.10.png",
+                    "local_path": "data/base/Base_4_23_301/images/4.23.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.23.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "348 mm",
+                "Height": "160 mm",
+                "Depth": "113 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.23.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.23.301.obj",
+                "local_path": "data/base/Base_4_23_301/models/4.23.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.47.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-201/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.47.201.10.png",
+                    "local_path": "data/base/Base_4_47_201/images/4.47.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.201.10.png"
+                },
+                {
+                    "filename": "4.47.201.10.png",
+                    "local_path": "data/base/Base_4_47_201/images/4.47.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "272 mm",
+                "Height": "115 mm",
+                "Depth": "136 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.47.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.201.obj",
+                "local_path": "data/base/Base_4_47_201/models/4.47.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.47.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-202/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.47.202.10.png",
+                    "local_path": "data/base/Base_4_47_202/images/4.47.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.202.10.png"
+                },
+                {
+                    "filename": "4.47.202.10.png",
+                    "local_path": "data/base/Base_4_47_202/images/4.47.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "270 mm",
+                "Height": "117 mm",
+                "Depth": "136 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.47.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.202.obj",
+                "local_path": "data/base/Base_4_47_202/models/4.47.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.47.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-301/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.47.301.10.png",
+                    "local_path": "data/base/Base_4_47_301/images/4.47.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.301.10.png"
+                },
+                {
+                    "filename": "4.47.301.10.png",
+                    "local_path": "data/base/Base_4_47_301/images/4.47.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "244 mm",
+                "Height": "107 mm",
+                "Depth": "122 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.47.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.301.obj",
+                "local_path": "data/base/Base_4_47_301/models/4.47.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.47.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-302/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.47.302.10.png",
+                    "local_path": "data/base/Base_4_47_302/images/4.47.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.302.10.png"
+                },
+                {
+                    "filename": "4.47.302.10.png",
+                    "local_path": "data/base/Base_4_47_302/images/4.47.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.47.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "243 mm",
+                "Height": "107 mm",
+                "Depth": "122 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.47.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.47.302.obj",
+                "local_path": "data/base/Base_4_47_302/models/4.47.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.53.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-101/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.53.101.10.png",
+                    "local_path": "data/base/Base_4_53_101/images/4.53.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.101.10.png"
+                },
+                {
+                    "filename": "4.53.101.10.png",
+                    "local_path": "data/base/Base_4_53_101/images/4.53.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "120 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.53.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.101.obj",
+                "local_path": "data/base/Base_4_53_101/models/4.53.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.53.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-201/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.53.201.10.png",
+                    "local_path": "data/base/Base_4_53_201/images/4.53.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.201.10.png"
+                },
+                {
+                    "filename": "4.53.201.10.png",
+                    "local_path": "data/base/Base_4_53_201/images/4.53.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "252 mm",
+                "Height": "121 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.53.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.201.obj",
+                "local_path": "data/base/Base_4_53_201/models/4.53.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.53.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-301/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.53.301.10.png",
+                    "local_path": "data/base/Base_4_53_301/images/4.53.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.301.10.png"
+                },
+                {
+                    "filename": "4.53.301.10.png",
+                    "local_path": "data/base/Base_4_53_301/images/4.53.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "226 mm",
+                "Height": "109 mm",
+                "Depth": "76 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.53.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.301.obj",
+                "local_path": "data/base/Base_4_53_301/models/4.53.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Base 4.53.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-302/",
+            "code": null,
+            "category": "pagrindai",
+            "images": [
+                {
+                    "filename": "4.53.302.10.png",
+                    "local_path": "data/base/Base_4_53_302/images/4.53.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.302.10.png"
+                },
+                {
+                    "filename": "4.53.302.10.png",
+                    "local_path": "data/base/Base_4_53_302/images/4.53.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.53.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "226 mm",
+                "Height": "108 mm",
+                "Depth": "76 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.53.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.53.302.obj",
+                "local_path": "data/base/Base_4_53_302/models/4.53.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

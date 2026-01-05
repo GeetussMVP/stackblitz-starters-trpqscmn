@@ -1,0 +1,659 @@
+{
+    "products": [
+        {
+            "name": "Decorative mantelpiece elements 1.64.001",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-001/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.001.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/images/1.64.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.001.10.png"
+                },
+                {
+                    "filename": "1.64.001.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/images/1.64.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.001.10.png"
+                }
+            ],
+            "details": {
+                "Width": "1302 mm",
+                "Height": "312 mm",
+                "Depth": "220 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.001.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_001/models/1.64.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-002/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.002.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/images/1.64.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.002.10.png"
+                },
+                {
+                    "filename": "1.64.002.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/images/1.64.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "184 mm",
+                "Height": "877 mm",
+                "Depth": "172 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.002.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_002/models/1.64.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-003/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.003.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/images/1.64.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.003.10.png"
+                },
+                {
+                    "filename": "1.64.003.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/images/1.64.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "184 mm",
+                "Height": "877 mm",
+                "Depth": "172 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.003.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_003/models/1.64.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-004/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.004.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/images/1.64.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.004.10.png"
+                },
+                {
+                    "filename": "1.64.004.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/images/1.64.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "1300 mm",
+                "Height": "239 mm",
+                "Depth": "201 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.004.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_004/models/1.64.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-1/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.005.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
+                },
+                {
+                    "filename": "1.64.005.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
+                },
+                {
+                    "filename": "1.64.005.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "152 mm",
+                "Height": "860 mm",
+                "Depth": "170 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-005-2/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.005.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
+                },
+                {
+                    "filename": "1.64.005.10.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/images/1.64.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.64.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "152 mm",
+                "Height": "860 mm",
+                "Depth": "170 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.005.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_005/models/1.64.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1600 mm",
+                "Width": "430 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-2/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1600 mm",
+                "Width": "430 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-801-3/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.801.20.png"
+                },
+                {
+                    "filename": "1.64.801.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.801.30.png"
+                },
+                {
+                    "filename": "1.64.801.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.31.png"
+                },
+                {
+                    "filename": "1.64.801.32.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.801.32.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                },
+                {
+                    "filename": "1.64.801.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.801.40.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                },
+                {
+                    "filename": "1.64.801.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/images/1.64.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.801.100.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1600 mm",
+                "Width": "430 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.801.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_801/models/1.64.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1200 mm",
+                "Width": "300 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-2/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1200 mm",
+                "Width": "300 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Decorative mantelpiece elements 1.64.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/mantelpiece-elements/1-64-803-3/",
+            "code": null,
+            "category": "mantelpiece",
+            "images": [
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                },
+                {
+                    "filename": "1.64.803.20.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.64.803.20.png"
+                },
+                {
+                    "filename": "1.64.803.30.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.64.803.30.png"
+                },
+                {
+                    "filename": "1.64.803.31.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.64.803.31.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                },
+                {
+                    "filename": "1.64.803.40.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.64.803.40.png"
+                },
+                {
+                    "filename": "1.64.803.100.png",
+                    "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/images/1.64.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.64.803.100.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1200 mm",
+                "Width": "300 mm",
+                "Depth": "280 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.64.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.64.803.obj",
+                "local_path": "data/mantelpiece/Decorative_mantelpiece_elements_1_64_803/models/1.64.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

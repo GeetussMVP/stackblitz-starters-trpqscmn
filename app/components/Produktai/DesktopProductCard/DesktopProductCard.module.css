@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;600;700&display=swap');
+
+.card {
+  --accent: #009688;
+  background:#111;
+  border:2px solid #2a2a2a;
+  border-radius:18px;
+  padding:22px;
+  color:#fff;
+  width:100%;
+  margin-inline:auto;
+  font-family:'Karla',sans-serif;
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+}
+
+/* IMAGE CONTAINER */
+.imageContainer {
+  position:relative;
+  width:100%;
+  height:clamp(300px,38vw,420px);
+  overflow:hidden;
+  border-radius:12px;
+}
+
+/* SWIPER STYLES */
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.slideWrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  object-fit:cover;
+}
+
+/******** ARROWS ********/
+.arrowLeft, .arrowRight {
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  background:none;
+  color:white;
+  font-size:40px;
+  border:none;
+  cursor:pointer;
+  z-index:20;
+  opacity:0.75;
+  transition: opacity 0.2s;
+}
+
+.arrowLeft:hover, .arrowRight:hover { opacity:1; }
+
+.arrowLeft { left:12px; }
+.arrowRight { right:12px; }
+
+/******** 3D BUTTON ********/
+.view3DButton {
+  position:absolute;
+  bottom:12px;
+  left:10%;
+  transform:translateX(-50%);
+  background:#222;
+  border:1px solid #444;
+  color:#fff;
+  padding:8px 18px;
+  border-radius:10px;
+  cursor:pointer;
+  z-index:10;
+  font-size:14px;
+  transition: background 0.2s, color 0.2s;
+}
+.view3DButton:hover { background:var(--accent); color:#111; }
+
+/******** INFO BLOCK ********/
+.infoBlock { display:flex; flex-direction:column; gap:10px; }
+.article { opacity:.7; font-size:12px; text-transform:uppercase; letter-spacing:0.5px; }
+.title { font-size:21px; font-weight:700; line-height:1.3; }
+.price { font-size:17px; color:var(--accent); font-weight:600; }
+.material { font-size:14px; opacity:0.9; }
+.dimensions { font-size:14px; opacity:0.9; }
+.expandArea { 
+  font-size:14px; 
+  opacity:0.8; 
+  line-height:1.5;
+  margin-top:8px;
+}
+
+/******** BUTTONS ********/
+.buttonRow { display:flex; gap:12px; width:100%; }
+.detailsBtn {
+  flex:1;
+  background:var(--accent);
+  color:#111;
+  padding:12px;
+  border-radius:10px;
+  border:none;
+  font-weight:600;
+  cursor:pointer;
+  font-size:15px;
+  transition: opacity 0.2s;
+}
+.detailsBtn:hover { opacity:.85; }
+
+.cartBtn {
+  width:44px;
+  height:44px;
+  border:2px solid var(--accent);
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  background:transparent;
+  color:var(--accent);
+  flex-shrink:0;
+  transition: background 0.2s, color 0.2s;
+}
+.cartBtn:hover { background:var(--accent); color:#111; }
+
+/* SWIPER PAGINATION CUSTOMIZATION */
+.imageContainer :global(.swiper-pagination) {
+  bottom: 50px !important;
+}
+
+.imageContainer :global(.swiper-pagination-bullet) {
+  background: #fff;
+  opacity: 0.5;
+  width: 10px;
+  height: 10px;
+}
+
+.imageContainer :global(.swiper-pagination-bullet-active) {
+  background: var(--accent);
+  opacity: 1;
+}
+
+/* SWIPER NAVIGATION BUTTONS (hide default ones) */
+.imageContainer :global(.swiper-button-next),
+.imageContainer :global(.swiper-button-prev) {
+  display: none;
+}

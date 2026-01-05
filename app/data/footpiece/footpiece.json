@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "name": "Footpiece 4.78.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/additional-elements-balustrades/4-78-101/",
+            "code": null,
+            "category": "footpiece",
+            "images": [
+                {
+                    "filename": "4.78.101.10.png",
+                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png"
+                },
+                {
+                    "filename": "4.78.101.20.png",
+                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.78.101.20.png"
+                },
+                {
+                    "filename": "4.78.101.10.png",
+                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.78.101.10.png"
+                },
+                {
+                    "filename": "4.78.101.20.png",
+                    "local_path": "data/footpiece/Footpiece_4_78_101/images/4.78.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.78.101.20.png"
+                }
+            ],
+            "details": {
+                "Width": "239 mm",
+                "Height": "60 mm",
+                "Depth": "184 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.78.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.78.101.obj",
+                "local_path": "data/footpiece/Footpiece_4_78_101/models/4.78.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

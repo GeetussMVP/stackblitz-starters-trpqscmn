@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "name": "Window jamb 4.88.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-jambs-window-framing/4-88-001/",
+            "code": null,
+            "category": "window-jamb",
+            "images": [
+                {
+                    "filename": "4.88.001.100.png",
+                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.88.001.100.png"
+                },
+                {
+                    "filename": "4.88.001.100.png",
+                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.88.001.100.png"
+                },
+                {
+                    "filename": "4.88.001.40.png",
+                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.88.001.40.png"
+                },
+                {
+                    "filename": "4.88.001.40.png",
+                    "local_path": "data/window-jamb/Window_jamb_4_88_001/images/4.88.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.88.001.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "2000 mm",
+                "Width": "12 mm",
+                "Height": "399 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.88.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.88.001.obj",
+                "local_path": "data/window-jamb/Window_jamb_4_88_001/models/4.88.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

@@ -1,0 +1,1476 @@
+{
+    "products": [
+        {
+            "name": "Column shaft 1.12.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-010/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_010/images/1.12.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.010.10.png"
+                },
+                {
+                    "filename": "1.12.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_010/images/1.12.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.010.10.png"
+                }
+            ],
+            "details": {
+                "Height": "2296 mm",
+                "Diameter": "251 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.010.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_010/models/1.12.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.011",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-011/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.011.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_011/images/1.12.011.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.011.10.png"
+                },
+                {
+                    "filename": "1.12.011.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_011/images/1.12.011.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.011.10.png"
+                }
+            ],
+            "details": {
+                "Height": "2345 mm",
+                "Diameter": "250 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.011.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.011.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_011/models/1.12.011.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.020",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-020/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_020/images/1.12.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.020.10.png"
+                },
+                {
+                    "filename": "1.12.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_020/images/1.12.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.020.10.png"
+                }
+            ],
+            "details": {
+                "Height": "2295 mm",
+                "Diameter": "250 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.020.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.020.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_020/models/1.12.020.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-050/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_050/images/1.12.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.050.10.png"
+                },
+                {
+                    "filename": "1.12.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_050/images/1.12.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.050.10.png"
+                }
+            ],
+            "details": {
+                "Height": "1955 mm",
+                "Diameter": "199 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.050.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.050.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_050/models/1.12.050.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.060",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-060/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.060.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_060/images/1.12.060.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.060.10.png"
+                },
+                {
+                    "filename": "1.12.060.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_060/images/1.12.060.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.060.10.png"
+                }
+            ],
+            "details": {
+                "Height": "1826 mm",
+                "Diameter": "161 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.060.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.060.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_060/models/1.12.060.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.061",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-061/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.061.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_061/images/1.12.061.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.061.10.png"
+                },
+                {
+                    "filename": "1.12.061.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_061/images/1.12.061.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.061.10.png"
+                }
+            ],
+            "details": {
+                "Height": "2472 mm",
+                "Diameter": "160 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.061.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.061.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_061/models/1.12.061.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.080",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-080/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.080.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_080/images/1.12.080.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.080.10.png"
+                },
+                {
+                    "filename": "1.12.080.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_080/images/1.12.080.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.080.10.png"
+                }
+            ],
+            "details": {
+                "Height": "1751 mm",
+                "Diameter": "157 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.080.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.080.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_080/models/1.12.080.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.12.081",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-12-081/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.12.081.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_081/images/1.12.081.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.081.10.png"
+                },
+                {
+                    "filename": "1.12.081.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_12_081/images/1.12.081.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.12.081.10.png"
+                }
+            ],
+            "details": {
+                "Height": "2399 mm",
+                "Diameter": "156 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.12.081.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.12.081.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_12_081/models/1.12.081.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-010/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_010/images/1.16.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.010.10.png"
+                },
+                {
+                    "filename": "1.16.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_010/images/1.16.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.010.10.png"
+                }
+            ],
+            "details": {
+                "Width": "251 mm",
+                "Height": "2298 mm",
+                "Depth": "125 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.010.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_010/models/1.16.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.011",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-011/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.011.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_011/images/1.16.011.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.011.10.png"
+                },
+                {
+                    "filename": "1.16.011.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_011/images/1.16.011.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.011.10.png"
+                }
+            ],
+            "details": {
+                "Width": "250 mm",
+                "Height": "2345 mm",
+                "Depth": "125 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.011.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.011.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_011/models/1.16.011.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.020",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-020/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_020/images/1.16.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.020.10.png"
+                },
+                {
+                    "filename": "1.16.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_020/images/1.16.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.020.10.png"
+                }
+            ],
+            "details": {
+                "Width": "250 mm",
+                "Height": "2300 mm",
+                "Depth": "125 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.020.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.020.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_020/models/1.16.020.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-050/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_050/images/1.16.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.050.10.png"
+                },
+                {
+                    "filename": "1.16.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_050/images/1.16.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.050.10.png"
+                }
+            ],
+            "details": {
+                "Width": "200 mm",
+                "Height": "1956 mm",
+                "Depth": "100 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.050.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.050.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_050/models/1.16.050.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.060",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-060/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.060.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_060/images/1.16.060.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.060.10.png"
+                },
+                {
+                    "filename": "1.16.060.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_060/images/1.16.060.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.060.10.png"
+                }
+            ],
+            "details": {
+                "Width": "162 mm",
+                "Height": "1827 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.060.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.060.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_060/models/1.16.060.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.061",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-061/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.061.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_061/images/1.16.061.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.061.10.png"
+                },
+                {
+                    "filename": "1.16.061.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_061/images/1.16.061.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.061.10.png"
+                }
+            ],
+            "details": {
+                "Width": "161 mm",
+                "Height": "2475 mm",
+                "Depth": "81 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.061.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.061.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_061/models/1.16.061.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.080",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-080/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.080.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_080/images/1.16.080.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.080.10.png"
+                },
+                {
+                    "filename": "1.16.080.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_080/images/1.16.080.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.080.10.png"
+                }
+            ],
+            "details": {
+                "Width": "156 mm",
+                "Height": "1752 mm",
+                "Depth": "78 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.080.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.080.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_080/models/1.16.080.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.16.081",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-16-081/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.16.081.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_081/images/1.16.081.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.081.10.png"
+                },
+                {
+                    "filename": "1.16.081.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_16_081/images/1.16.081.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.16.081.10.png"
+                }
+            ],
+            "details": {
+                "Width": "155 mm",
+                "Height": "2401 mm",
+                "Depth": "79 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.16.081.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.16.081.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_16_081/models/1.16.081.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-010/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_010/images/1.22.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.010.10.png"
+                },
+                {
+                    "filename": "1.22.010.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_010/images/1.22.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.010.10.png"
+                }
+            ],
+            "details": {
+                "Width": "134 mm",
+                "Height": "2000 mm",
+                "Depth": "19 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.010.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_010/models/1.22.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.020",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-020/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_020/images/1.22.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.020.10.png"
+                },
+                {
+                    "filename": "1.22.020.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_020/images/1.22.020.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.020.10.png"
+                }
+            ],
+            "details": {
+                "Width": "283 mm",
+                "Height": "2000 mm",
+                "Depth": "41 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.020.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.020.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_020/models/1.22.020.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.030",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-030/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.030.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_030/images/1.22.030.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.030.10.png"
+                },
+                {
+                    "filename": "1.22.030.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_030/images/1.22.030.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.030.10.png"
+                }
+            ],
+            "details": {
+                "Width": "194 mm",
+                "Height": "2000 mm",
+                "Depth": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.030.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.030.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_030/models/1.22.030.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.040",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-040/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.040.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_040/images/1.22.040.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.040.10.png"
+                },
+                {
+                    "filename": "1.22.040.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_040/images/1.22.040.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.040.10.png"
+                }
+            ],
+            "details": {
+                "Width": "290 mm",
+                "Height": "2000 mm",
+                "Depth": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.040.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.040.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_040/models/1.22.040.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-050/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_050/images/1.22.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.050.10.png"
+                },
+                {
+                    "filename": "1.22.050.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_050/images/1.22.050.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.050.10.png"
+                }
+            ],
+            "details": {
+                "Width": "96 mm",
+                "Height": "2000 mm",
+                "Depth": "17 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.050.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.050.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_050/models/1.22.050.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 1.22.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-22-200/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "1.22.200.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_200/images/1.22.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.200.10.png"
+                },
+                {
+                    "filename": "1.22.200.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_1_22_200/images/1.22.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.22.200.10.png"
+                }
+            ],
+            "details": {
+                "Width": "268 mm",
+                "Height": "2295 mm",
+                "Depth": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.22.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.22.200.obj",
+                "local_path": "data/column-shaft/Column_shaft_1_22_200/models/1.22.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-001/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.001.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_001/images/4.12.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.001.10.png"
+                },
+                {
+                    "filename": "4.12.001.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_001/images/4.12.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.001.10.png"
+                }
+            ],
+            "details": {
+                "Width": "435 mm",
+                "Height": "352 mm",
+                "Depth": "435 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.001.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_001/models/4.12.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-1/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                },
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                },
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                },
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-2/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                },
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-002-3/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                },
+                {
+                    "filename": "4.12.002.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_002/images/4.12.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.002.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_002/models/4.12.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.003",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-003/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.003.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_003/images/4.12.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.003.10.png"
+                },
+                {
+                    "filename": "4.12.003.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_003/images/4.12.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "435 mm",
+                "Height": "351 mm",
+                "Depth": "435 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.003.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_003/models/4.12.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-1/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                },
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-2/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                },
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-004-3/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                },
+                {
+                    "filename": "4.12.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_004/images/4.12.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "698 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_004/models/4.12.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.005",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-005/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.005.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_005/images/4.12.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.005.10.png"
+                },
+                {
+                    "filename": "4.12.005.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_005/images/4.12.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "361 mm",
+                "Height": "348 mm",
+                "Depth": "361 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.005.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_005/models/4.12.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-102/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_102/images/4.12.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.102.10.png"
+                },
+                {
+                    "filename": "4.12.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_102/images/4.12.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.102.10.png"
+                }
+            ],
+            "details": {
+                "Width": "331 mm",
+                "Height": "2294 mm",
+                "Depth": "331 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.102.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_102/models/4.12.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-201/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_201/images/4.12.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.201.10.png"
+                },
+                {
+                    "filename": "4.12.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_201/images/4.12.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "294 mm",
+                "Height": "2386 mm",
+                "Depth": "294 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.201.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_201/models/4.12.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-202/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_202/images/4.12.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.202.10.png"
+                },
+                {
+                    "filename": "4.12.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_202/images/4.12.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "294 mm",
+                "Height": "2394 mm",
+                "Depth": "294 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.202.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_202/models/4.12.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.12.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-12-301/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.12.301.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_301/images/4.12.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.301.10.png"
+                },
+                {
+                    "filename": "4.12.301.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_12_301/images/4.12.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.12.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "270 mm",
+                "Height": "2198 mm",
+                "Depth": "270 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.12.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.12.301.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_12_301/models/4.12.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.003",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-003/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.003.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_003/images/4.16.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.003.10.png"
+                },
+                {
+                    "filename": "4.16.003.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_003/images/4.16.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "435 mm",
+                "Height": "354 mm",
+                "Depth": "216 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.003.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_003/models/4.16.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-1/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                },
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "366 mm",
+                "Height": "700 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-2/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                },
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "366 mm",
+                "Height": "700 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-004-3/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                },
+                {
+                    "filename": "4.16.004.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_004/images/4.16.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "366 mm",
+                "Height": "700 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.004.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_004/models/4.16.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.005",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-005/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.005.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_005/images/4.16.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.005.10.png"
+                },
+                {
+                    "filename": "4.16.005.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_005/images/4.16.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "366 mm",
+                "Height": "348 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.005.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_005/models/4.16.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-101/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.101.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_101/images/4.16.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.101.10.png"
+                },
+                {
+                    "filename": "4.16.101.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_101/images/4.16.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "330 mm",
+                "Height": "2315 mm",
+                "Depth": "164 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.101.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_101/models/4.16.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-102/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_102/images/4.16.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.102.10.png"
+                },
+                {
+                    "filename": "4.16.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_102/images/4.16.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.102.10.png"
+                }
+            ],
+            "details": {
+                "Width": "328 mm",
+                "Height": "2306 mm",
+                "Depth": "165 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.102.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_102/models/4.16.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-201/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_201/images/4.16.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.201.10.png"
+                },
+                {
+                    "filename": "4.16.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_201/images/4.16.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "294 mm",
+                "Height": "2389 mm",
+                "Depth": "148 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.201.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_201/models/4.16.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-202/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_202/images/4.16.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.202.10.png"
+                },
+                {
+                    "filename": "4.16.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_202/images/4.16.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "295 mm",
+                "Height": "2396 mm",
+                "Depth": "148 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.202.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_202/models/4.16.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.16.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-16-301/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.16.301.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_301/images/4.16.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.301.10.png"
+                },
+                {
+                    "filename": "4.16.301.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_16_301/images/4.16.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.16.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "272 mm",
+                "Height": "2207 mm",
+                "Depth": "136 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.16.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.16.301.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_16_301/models/4.16.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.22.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-101/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.22.101.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_101/images/4.22.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.101.10.png"
+                },
+                {
+                    "filename": "4.22.101.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_101/images/4.22.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "334 mm",
+                "Height": "2305 mm",
+                "Depth": "88 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.22.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.101.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_22_101/models/4.22.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.22.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-102/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.22.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_102/images/4.22.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.102.10.png"
+                },
+                {
+                    "filename": "4.22.102.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_102/images/4.22.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.102.10.png"
+                }
+            ],
+            "details": {
+                "Width": "333 mm",
+                "Height": "2304 mm",
+                "Depth": "88 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.22.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.102.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_22_102/models/4.22.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.22.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-201/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.22.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_201/images/4.22.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.201.10.png"
+                },
+                {
+                    "filename": "4.22.201.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_201/images/4.22.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "2348 mm",
+                "Depth": "62 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.22.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.201.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_22_201/models/4.22.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column shaft 4.22.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-22-202/",
+            "code": null,
+            "category": "kolonos-liemenys",
+            "images": [
+                {
+                    "filename": "4.22.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_202/images/4.22.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.202.10.png"
+                },
+                {
+                    "filename": "4.22.202.10.png",
+                    "local_path": "data/column-shaft/Column_shaft_4_22_202/images/4.22.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.22.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "2343 mm",
+                "Depth": "62 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.22.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.22.202.obj",
+                "local_path": "data/column-shaft/Column_shaft_4_22_202/models/4.22.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

@@ -1,0 +1,2426 @@
+{
+    "products": [
+        {
+            "name": "Ceiling rose 1.56.001",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-001/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.001.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.001.100.png"
+                },
+                {
+                    "filename": "1.56.001.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.001.20.png"
+                },
+                {
+                    "filename": "1.56.001.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.001.100.png"
+                },
+                {
+                    "filename": "1.56.001.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.001.20.png"
+                },
+                {
+                    "filename": "1.56.001.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.001.41.png"
+                },
+                {
+                    "filename": "1.56.001.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_001/images/1.56.001.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.001.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "693 mm",
+                "Thickness": "60 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.001.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_001/models/1.56.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-002/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.002.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.002.100.png"
+                },
+                {
+                    "filename": "1.56.002.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.002.20.png"
+                },
+                {
+                    "filename": "1.56.002.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.002.100.png"
+                },
+                {
+                    "filename": "1.56.002.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.002.20.png"
+                },
+                {
+                    "filename": "1.56.002.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.002.41.png"
+                },
+                {
+                    "filename": "1.56.002.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_002/images/1.56.002.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.002.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "520 mm",
+                "Thickness": "37 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.002.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_002/models/1.56.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-003/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.003.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.003.100.png"
+                },
+                {
+                    "filename": "1.56.003.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.003.20.png"
+                },
+                {
+                    "filename": "1.56.003.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.003.100.png"
+                },
+                {
+                    "filename": "1.56.003.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.003.20.png"
+                },
+                {
+                    "filename": "1.56.003.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.003.41.png"
+                },
+                {
+                    "filename": "1.56.003.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_003/images/1.56.003.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.003.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "518 mm",
+                "Thickness": "35 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.003.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_003/models/1.56.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-004/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.004.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.004.100.png"
+                },
+                {
+                    "filename": "1.56.004.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.004.20.png"
+                },
+                {
+                    "filename": "1.56.004.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.004.100.png"
+                },
+                {
+                    "filename": "1.56.004.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.004.20.png"
+                },
+                {
+                    "filename": "1.56.004.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.004.41.png"
+                },
+                {
+                    "filename": "1.56.004.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_004/images/1.56.004.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.004.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "436 mm",
+                "Thickness": "31 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.004.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_004/models/1.56.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-005/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.005.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.005.100.png"
+                },
+                {
+                    "filename": "1.56.005.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.005.20.png"
+                },
+                {
+                    "filename": "1.56.005.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.005.100.png"
+                },
+                {
+                    "filename": "1.56.005.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.005.20.png"
+                },
+                {
+                    "filename": "1.56.005.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.005.41.png"
+                },
+                {
+                    "filename": "1.56.005.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_005/images/1.56.005.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.005.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "655 mm",
+                "Thickness": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.005.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_005/models/1.56.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.006",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-006/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.006.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.006.100.png"
+                },
+                {
+                    "filename": "1.56.006.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.006.20.png"
+                },
+                {
+                    "filename": "1.56.006.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.006.100.png"
+                },
+                {
+                    "filename": "1.56.006.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.006.20.png"
+                },
+                {
+                    "filename": "1.56.006.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.006.41.png"
+                },
+                {
+                    "filename": "1.56.006.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_006/images/1.56.006.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.006.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "330 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.006.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.006.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_006/models/1.56.006.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.007",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-007/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.007.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.007.100.png"
+                },
+                {
+                    "filename": "1.56.007.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.007.20.png"
+                },
+                {
+                    "filename": "1.56.007.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.007.100.png"
+                },
+                {
+                    "filename": "1.56.007.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.007.20.png"
+                },
+                {
+                    "filename": "1.56.007.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.007.41.png"
+                },
+                {
+                    "filename": "1.56.007.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_007/images/1.56.007.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.007.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "400 mm",
+                "Thickness": "60 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.007.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.007.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_007/models/1.56.007.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.009",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-009/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.009.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.009.100.png"
+                },
+                {
+                    "filename": "1.56.009.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.009.20.png"
+                },
+                {
+                    "filename": "1.56.009.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.009.100.png"
+                },
+                {
+                    "filename": "1.56.009.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.009.20.png"
+                },
+                {
+                    "filename": "1.56.009.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.009.41.png"
+                },
+                {
+                    "filename": "1.56.009.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_009/images/1.56.009.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.009.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "292 mm",
+                "Thickness": "34 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.009.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.009.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_009/models/1.56.009.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-010/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.010.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.010.100.png"
+                },
+                {
+                    "filename": "1.56.010.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.010.20.png"
+                },
+                {
+                    "filename": "1.56.010.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.010.100.png"
+                },
+                {
+                    "filename": "1.56.010.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.010.20.png"
+                },
+                {
+                    "filename": "1.56.010.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.010.41.png"
+                },
+                {
+                    "filename": "1.56.010.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_010/images/1.56.010.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.010.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "193 mm",
+                "Thickness": "34 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.010.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_010/models/1.56.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.011",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-011/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.011.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.011.100.png"
+                },
+                {
+                    "filename": "1.56.011.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.011.20.png"
+                },
+                {
+                    "filename": "1.56.011.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.011.100.png"
+                },
+                {
+                    "filename": "1.56.011.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.011.20.png"
+                },
+                {
+                    "filename": "1.56.011.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.011.41.png"
+                },
+                {
+                    "filename": "1.56.011.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_011/images/1.56.011.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.011.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "195 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.011.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.011.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_011/models/1.56.011.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.013",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-013/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.013.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.013.100.png"
+                },
+                {
+                    "filename": "1.56.013.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.013.20.png"
+                },
+                {
+                    "filename": "1.56.013.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.013.100.png"
+                },
+                {
+                    "filename": "1.56.013.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.013.20.png"
+                },
+                {
+                    "filename": "1.56.013.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.013.41.png"
+                },
+                {
+                    "filename": "1.56.013.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_013/images/1.56.013.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.013.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "258 mm",
+                "Thickness": "32 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.013.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.013.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_013/models/1.56.013.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.014",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-014/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.014.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.014.100.png"
+                },
+                {
+                    "filename": "1.56.014.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.014.20.png"
+                },
+                {
+                    "filename": "1.56.014.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.014.100.png"
+                },
+                {
+                    "filename": "1.56.014.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.014.20.png"
+                },
+                {
+                    "filename": "1.56.014.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.014.41.png"
+                },
+                {
+                    "filename": "1.56.014.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_014/images/1.56.014.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.014.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "338 mm",
+                "Thickness": "57 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.014.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.014.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_014/models/1.56.014.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.015",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-015/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.015.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.015.100.png"
+                },
+                {
+                    "filename": "1.56.015.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.015.20.png"
+                },
+                {
+                    "filename": "1.56.015.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.015.100.png"
+                },
+                {
+                    "filename": "1.56.015.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.015.20.png"
+                },
+                {
+                    "filename": "1.56.015.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.015.41.png"
+                },
+                {
+                    "filename": "1.56.015.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_015/images/1.56.015.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.015.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "555 mm",
+                "Thickness": "62 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.015.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.015.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_015/models/1.56.015.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.016",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-016/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.016.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.016.100.png"
+                },
+                {
+                    "filename": "1.56.016.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.016.20.png"
+                },
+                {
+                    "filename": "1.56.016.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.016.100.png"
+                },
+                {
+                    "filename": "1.56.016.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.016.20.png"
+                },
+                {
+                    "filename": "1.56.016.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.016.41.png"
+                },
+                {
+                    "filename": "1.56.016.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_016/images/1.56.016.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.016.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "480 mm",
+                "Thickness": "47 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.016.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.016.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_016/models/1.56.016.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.018",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-018/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.018.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.018.100.png"
+                },
+                {
+                    "filename": "1.56.018.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.018.20.png"
+                },
+                {
+                    "filename": "1.56.018.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.018.100.png"
+                },
+                {
+                    "filename": "1.56.018.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.018.20.png"
+                },
+                {
+                    "filename": "1.56.018.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.018.41.png"
+                },
+                {
+                    "filename": "1.56.018.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_018/images/1.56.018.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.018.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "743 mm",
+                "Thickness": "40 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.018.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.018.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_018/models/1.56.018.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.020",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-020/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.020.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.020.100.png"
+                },
+                {
+                    "filename": "1.56.020.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.020.20.png"
+                },
+                {
+                    "filename": "1.56.020.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.020.100.png"
+                },
+                {
+                    "filename": "1.56.020.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.020.20.png"
+                },
+                {
+                    "filename": "1.56.020.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.020.41.png"
+                },
+                {
+                    "filename": "1.56.020.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_020/images/1.56.020.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.020.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "470 mm",
+                "Thickness": "41 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.020.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.020.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_020/models/1.56.020.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.021",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-021/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.021.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.021.100.png"
+                },
+                {
+                    "filename": "1.56.021.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.021.20.png"
+                },
+                {
+                    "filename": "1.56.021.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.021.100.png"
+                },
+                {
+                    "filename": "1.56.021.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.021.20.png"
+                },
+                {
+                    "filename": "1.56.021.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.021.41.png"
+                },
+                {
+                    "filename": "1.56.021.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_021/images/1.56.021.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.021.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "487 mm",
+                "Thickness": "59 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.021.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.021.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_021/models/1.56.021.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.022",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-022/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.022.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.022.100.png"
+                },
+                {
+                    "filename": "1.56.022.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.022.20.png"
+                },
+                {
+                    "filename": "1.56.022.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.022.100.png"
+                },
+                {
+                    "filename": "1.56.022.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.022.20.png"
+                },
+                {
+                    "filename": "1.56.022.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.022.41.png"
+                },
+                {
+                    "filename": "1.56.022.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_022/images/1.56.022.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.022.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "523 mm",
+                "Thickness": "52 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.022.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.022.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_022/models/1.56.022.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.023",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-023/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.023.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.023.100.png"
+                },
+                {
+                    "filename": "1.56.023.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.023.20.png"
+                },
+                {
+                    "filename": "1.56.023.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.023.100.png"
+                },
+                {
+                    "filename": "1.56.023.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.023.20.png"
+                },
+                {
+                    "filename": "1.56.023.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.023.41.png"
+                },
+                {
+                    "filename": "1.56.023.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_023/images/1.56.023.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.023.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "589 mm",
+                "Thickness": "55 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.023.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.023.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_023/models/1.56.023.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.025",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-025/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.025.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.025.100.png"
+                },
+                {
+                    "filename": "1.56.025.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.025.20.png"
+                },
+                {
+                    "filename": "1.56.025.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.025.100.png"
+                },
+                {
+                    "filename": "1.56.025.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.025.20.png"
+                },
+                {
+                    "filename": "1.56.025.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.025.41.png"
+                },
+                {
+                    "filename": "1.56.025.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_025/images/1.56.025.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.025.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "819 mm",
+                "Thickness": "65 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.025.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.025.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_025/models/1.56.025.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.026",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-026/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.026.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.026.100.png"
+                },
+                {
+                    "filename": "1.56.026.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.026.20.png"
+                },
+                {
+                    "filename": "1.56.026.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.026.100.png"
+                },
+                {
+                    "filename": "1.56.026.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.026.20.png"
+                },
+                {
+                    "filename": "1.56.026.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.026.41.png"
+                },
+                {
+                    "filename": "1.56.026.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_026/images/1.56.026.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.026.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "768 mm",
+                "Thickness": "52 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.026.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.026.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_026/models/1.56.026.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.027",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-027/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.027.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.027.100.png"
+                },
+                {
+                    "filename": "1.56.027.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.027.20.png"
+                },
+                {
+                    "filename": "1.56.027.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.027.100.png"
+                },
+                {
+                    "filename": "1.56.027.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.027.20.png"
+                },
+                {
+                    "filename": "1.56.027.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.027.41.png"
+                },
+                {
+                    "filename": "1.56.027.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_027/images/1.56.027.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.027.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "382 mm",
+                "Thickness": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.027.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.027.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_027/models/1.56.027.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.029",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-029/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.029.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.029.100.png"
+                },
+                {
+                    "filename": "1.56.029.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.029.20.png"
+                },
+                {
+                    "filename": "1.56.029.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.029.100.png"
+                },
+                {
+                    "filename": "1.56.029.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.029.20.png"
+                },
+                {
+                    "filename": "1.56.029.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.029.41.png"
+                },
+                {
+                    "filename": "1.56.029.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_029/images/1.56.029.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.029.41.png"
+                }
+            ],
+            "details": {
+                "Width": "767 mm",
+                "Height": "529 mm",
+                "Thickness": "47 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.029.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.029.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_029/models/1.56.029.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.030",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-030/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.030.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.030.100.png"
+                },
+                {
+                    "filename": "1.56.030.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.030.20.png"
+                },
+                {
+                    "filename": "1.56.030.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.030.100.png"
+                },
+                {
+                    "filename": "1.56.030.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.030.20.png"
+                },
+                {
+                    "filename": "1.56.030.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.030.41.png"
+                },
+                {
+                    "filename": "1.56.030.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_030/images/1.56.030.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.030.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "394 mm",
+                "Thickness": "37 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.030.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.030.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_030/models/1.56.030.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.031",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-031/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.031.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.031.100.png"
+                },
+                {
+                    "filename": "1.56.031.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.031.20.png"
+                },
+                {
+                    "filename": "1.56.031.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.031.100.png"
+                },
+                {
+                    "filename": "1.56.031.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.031.20.png"
+                },
+                {
+                    "filename": "1.56.031.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.031.41.png"
+                },
+                {
+                    "filename": "1.56.031.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_031/images/1.56.031.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.031.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "614 mm",
+                "Thickness": "50 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.031.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.031.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_031/models/1.56.031.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.032",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-032/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.032.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.032.100.png"
+                },
+                {
+                    "filename": "1.56.032.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.032.20.png"
+                },
+                {
+                    "filename": "1.56.032.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.032.100.png"
+                },
+                {
+                    "filename": "1.56.032.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.032.20.png"
+                },
+                {
+                    "filename": "1.56.032.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.032.41.png"
+                },
+                {
+                    "filename": "1.56.032.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_032/images/1.56.032.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.032.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "319 mm",
+                "Thickness": "37 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.032.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.032.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_032/models/1.56.032.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.034",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-034/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.034.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.034.100.png"
+                },
+                {
+                    "filename": "1.56.034.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.034.20.png"
+                },
+                {
+                    "filename": "1.56.034.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.034.100.png"
+                },
+                {
+                    "filename": "1.56.034.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.034.20.png"
+                },
+                {
+                    "filename": "1.56.034.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.034.41.png"
+                },
+                {
+                    "filename": "1.56.034.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_034/images/1.56.034.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.034.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "510 mm",
+                "Thickness": "50 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.034.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.034.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_034/models/1.56.034.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.035",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-035/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.035.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.035.100.png"
+                },
+                {
+                    "filename": "1.56.035.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.035.20.png"
+                },
+                {
+                    "filename": "1.56.035.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.035.100.png"
+                },
+                {
+                    "filename": "1.56.035.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.035.20.png"
+                },
+                {
+                    "filename": "1.56.035.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.035.41.png"
+                },
+                {
+                    "filename": "1.56.035.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_035/images/1.56.035.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.035.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "484 mm",
+                "Thickness": "44 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.035.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.035.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_035/models/1.56.035.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.036",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-036/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.036.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.036.100.png"
+                },
+                {
+                    "filename": "1.56.036.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.036.20.png"
+                },
+                {
+                    "filename": "1.56.036.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.036.100.png"
+                },
+                {
+                    "filename": "1.56.036.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.036.20.png"
+                },
+                {
+                    "filename": "1.56.036.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.036.41.png"
+                },
+                {
+                    "filename": "1.56.036.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_036/images/1.56.036.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.036.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "886 mm",
+                "Thickness": "62 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.036.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.036.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_036/models/1.56.036.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.037",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-037/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.037.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.037.100.png"
+                },
+                {
+                    "filename": "1.56.037.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.037.20.png"
+                },
+                {
+                    "filename": "1.56.037.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.037.100.png"
+                },
+                {
+                    "filename": "1.56.037.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.037.20.png"
+                },
+                {
+                    "filename": "1.56.037.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.037.41.png"
+                },
+                {
+                    "filename": "1.56.037.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_037/images/1.56.037.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.037.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "330 mm",
+                "Thickness": "32 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.037.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.037.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_037/models/1.56.037.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.039",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-039/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.039.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.039.100.png"
+                },
+                {
+                    "filename": "1.56.039.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.039.20.png"
+                },
+                {
+                    "filename": "1.56.039.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.039.100.png"
+                },
+                {
+                    "filename": "1.56.039.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.039.20.png"
+                },
+                {
+                    "filename": "1.56.039.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.039.41.png"
+                },
+                {
+                    "filename": "1.56.039.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_039/images/1.56.039.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.039.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "659 mm",
+                "Thickness": "67 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.039.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.039.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_039/models/1.56.039.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.040",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-040/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.040.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.040.100.png"
+                },
+                {
+                    "filename": "1.56.040.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.040.20.png"
+                },
+                {
+                    "filename": "1.56.040.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.040.100.png"
+                },
+                {
+                    "filename": "1.56.040.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.040.20.png"
+                },
+                {
+                    "filename": "1.56.040.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.040.41.png"
+                },
+                {
+                    "filename": "1.56.040.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_040/images/1.56.040.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.040.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "705 mm",
+                "Thickness": "50 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.040.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.040.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_040/models/1.56.040.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.041",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-041/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.041.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.041.100.png"
+                },
+                {
+                    "filename": "1.56.041.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.041.20.png"
+                },
+                {
+                    "filename": "1.56.041.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.041.100.png"
+                },
+                {
+                    "filename": "1.56.041.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.041.20.png"
+                },
+                {
+                    "filename": "1.56.041.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.041.41.png"
+                },
+                {
+                    "filename": "1.56.041.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_041/images/1.56.041.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.041.41.png"
+                }
+            ],
+            "details": {
+                "Width": "785 mm",
+                "Height": "544 mm",
+                "Thickness": "51 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.041.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.041.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_041/models/1.56.041.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.043",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-043/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.043.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_043/images/1.56.043.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.043.100.png"
+                },
+                {
+                    "filename": "1.56.043.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_043/images/1.56.043.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.043.100.png"
+                },
+                {
+                    "filename": "1.56.043.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_043/images/1.56.043.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.043.41.png"
+                },
+                {
+                    "filename": "1.56.043.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_043/images/1.56.043.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.043.41.png"
+                }
+            ],
+            "details": {
+                "Width": "585 mm",
+                "Height": "313 mm",
+                "Thickness": "35 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.043.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.043.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_043/models/1.56.043.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.044",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-044/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.044.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.044.100.png"
+                },
+                {
+                    "filename": "1.56.044.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.044.20.png"
+                },
+                {
+                    "filename": "1.56.044.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.044.100.png"
+                },
+                {
+                    "filename": "1.56.044.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.044.20.png"
+                },
+                {
+                    "filename": "1.56.044.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.044.41.png"
+                },
+                {
+                    "filename": "1.56.044.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_044/images/1.56.044.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.044.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "620 mm",
+                "Thickness": "41 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.044.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.044.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_044/models/1.56.044.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.047",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-047/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.047.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_047/images/1.56.047.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.047.100.png"
+                },
+                {
+                    "filename": "1.56.047.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_047/images/1.56.047.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.047.100.png"
+                },
+                {
+                    "filename": "1.56.047.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_047/images/1.56.047.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.047.41.png"
+                },
+                {
+                    "filename": "1.56.047.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_047/images/1.56.047.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.047.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "408 mm",
+                "Thickness": "24 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.047.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.047.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_047/models/1.56.047.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.049",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-049/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.049.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_049/images/1.56.049.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.049.100.png"
+                },
+                {
+                    "filename": "1.56.049.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_049/images/1.56.049.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.049.100.png"
+                },
+                {
+                    "filename": "1.56.049.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_049/images/1.56.049.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.049.41.png"
+                },
+                {
+                    "filename": "1.56.049.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_049/images/1.56.049.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.049.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "344 mm",
+                "Thickness": "40 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.049.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.049.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_049/models/1.56.049.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.050",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-050/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.050.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_050/images/1.56.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.050.100.png"
+                },
+                {
+                    "filename": "1.56.050.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_050/images/1.56.050.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.050.100.png"
+                },
+                {
+                    "filename": "1.56.050.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_050/images/1.56.050.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.050.41.png"
+                },
+                {
+                    "filename": "1.56.050.41.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_050/images/1.56.050.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.56.050.41.png"
+                }
+            ],
+            "details": {
+                "Diameter": "403 mm",
+                "Thickness": "38 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.050.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.050.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_050/models/1.56.050.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.054",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-054/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.054.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_054/images/1.56.054.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.054.100.png"
+                },
+                {
+                    "filename": "1.56.054.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_054/images/1.56.054.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.054.100.png"
+                }
+            ],
+            "details": {
+                "Diameter": "706 mm",
+                "Thickness": "69 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.054.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.054.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_054/models/1.56.054.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.501",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-501/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.501.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_501/images/1.56.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.501.100.png"
+                },
+                {
+                    "filename": "1.56.501.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_501/images/1.56.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.501.100.png"
+                }
+            ],
+            "details": {
+                "Diameter": "319 mm",
+                "Thickness": "58 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.501.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.501.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_501/models/1.56.501.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.502",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-502/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.502.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_502/images/1.56.502.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.502.100.png"
+                },
+                {
+                    "filename": "1.56.502.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_502/images/1.56.502.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.502.100.png"
+                }
+            ],
+            "details": {
+                "Diameter": "596 mm",
+                "Thickness": "59 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.502.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.502.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_502/models/1.56.502.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.503",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-503/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.503.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_503/images/1.56.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.503.100.png"
+                },
+                {
+                    "filename": "1.56.503.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_503/images/1.56.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.503.100.png"
+                }
+            ],
+            "details": {
+                "Diameter": "912 mm",
+                "Thickness": "41 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.503.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.503.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_503/models/1.56.503.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.511",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-511/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.511.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_511/images/1.56.511.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.511.100.png"
+                },
+                {
+                    "filename": "1.56.511.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_511/images/1.56.511.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.511.20.png"
+                },
+                {
+                    "filename": "1.56.511.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_511/images/1.56.511.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.511.100.png"
+                },
+                {
+                    "filename": "1.56.511.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_511/images/1.56.511.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.511.20.png"
+                }
+            ],
+            "details": {
+                "Height": "83 mm",
+                "Diameter": "86 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.511.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.511.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_511/models/1.56.511.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.512",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-512/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.512.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_512/images/1.56.512.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.512.100.png"
+                },
+                {
+                    "filename": "1.56.512.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_512/images/1.56.512.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.512.20.png"
+                },
+                {
+                    "filename": "1.56.512.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_512/images/1.56.512.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.512.100.png"
+                },
+                {
+                    "filename": "1.56.512.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_512/images/1.56.512.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.512.20.png"
+                }
+            ],
+            "details": {
+                "Height": "124 mm",
+                "Diameter": "123 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.512.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.512.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_512/models/1.56.512.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.702",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-702/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.702.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_702/images/1.56.702.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.702.100.png"
+                },
+                {
+                    "filename": "1.56.702.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_702/images/1.56.702.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.702.100.png"
+                }
+            ],
+            "details": {
+                "Diameter": "478 mm",
+                "Thickness": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.702.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.702.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_702/models/1.56.702.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-801/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.801.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.801.100.png"
+                },
+                {
+                    "filename": "1.56.801.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.801.20.png"
+                },
+                {
+                    "filename": "1.56.801.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.801.30.png"
+                },
+                {
+                    "filename": "1.56.801.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.801.31.png"
+                },
+                {
+                    "filename": "1.56.801.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.801.100.png"
+                },
+                {
+                    "filename": "1.56.801.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.801.20.png"
+                },
+                {
+                    "filename": "1.56.801.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.801.30.png"
+                },
+                {
+                    "filename": "1.56.801.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_801/images/1.56.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.801.31.png"
+                }
+            ],
+            "details": {
+                "Diameter": "350 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.801.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_801/models/1.56.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.802",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-802/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.802.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.802.100.png"
+                },
+                {
+                    "filename": "1.56.802.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.802.20.png"
+                },
+                {
+                    "filename": "1.56.802.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.802.30.png"
+                },
+                {
+                    "filename": "1.56.802.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.802.31.png"
+                },
+                {
+                    "filename": "1.56.802.32.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.802.32.png"
+                },
+                {
+                    "filename": "1.56.802.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.802.100.png"
+                },
+                {
+                    "filename": "1.56.802.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.802.20.png"
+                },
+                {
+                    "filename": "1.56.802.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.802.30.png"
+                },
+                {
+                    "filename": "1.56.802.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.802.31.png"
+                },
+                {
+                    "filename": "1.56.802.32.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_802/images/1.56.802.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.802.32.png"
+                }
+            ],
+            "details": {
+                "Diameter": "700 mm",
+                "Thickness": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.802.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.802.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_802/models/1.56.802.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-803/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.803.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.803.100.png"
+                },
+                {
+                    "filename": "1.56.803.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.803.20.png"
+                },
+                {
+                    "filename": "1.56.803.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.803.30.png"
+                },
+                {
+                    "filename": "1.56.803.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.803.31.png"
+                },
+                {
+                    "filename": "1.56.803.32.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.803.32.png"
+                },
+                {
+                    "filename": "1.56.803.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.803.100.png"
+                },
+                {
+                    "filename": "1.56.803.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.803.20.png"
+                },
+                {
+                    "filename": "1.56.803.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.803.30.png"
+                },
+                {
+                    "filename": "1.56.803.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.803.31.png"
+                },
+                {
+                    "filename": "1.56.803.32.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_803/images/1.56.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.803.32.png"
+                }
+            ],
+            "details": {
+                "Diameter": "450 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.803.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_803/models/1.56.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.804",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-804/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.804.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.804.100.png"
+                },
+                {
+                    "filename": "1.56.804.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.804.20.png"
+                },
+                {
+                    "filename": "1.56.804.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.804.30.png"
+                },
+                {
+                    "filename": "1.56.804.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.804.31.png"
+                },
+                {
+                    "filename": "1.56.804.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.804.100.png"
+                },
+                {
+                    "filename": "1.56.804.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.804.20.png"
+                },
+                {
+                    "filename": "1.56.804.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.804.30.png"
+                },
+                {
+                    "filename": "1.56.804.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_804/images/1.56.804.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.804.31.png"
+                }
+            ],
+            "details": {
+                "Diameter": "901 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.804.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.804.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_804/models/1.56.804.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.805",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-805/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.805.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.805.100.png"
+                },
+                {
+                    "filename": "1.56.805.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.805.20.png"
+                },
+                {
+                    "filename": "1.56.805.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.805.30.png"
+                },
+                {
+                    "filename": "1.56.805.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.805.31.png"
+                },
+                {
+                    "filename": "1.56.805.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.805.100.png"
+                },
+                {
+                    "filename": "1.56.805.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.805.20.png"
+                },
+                {
+                    "filename": "1.56.805.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.805.30.png"
+                },
+                {
+                    "filename": "1.56.805.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_805/images/1.56.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.805.31.png"
+                }
+            ],
+            "details": {
+                "Diameter": "380 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.805.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.805.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_805/models/1.56.805.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ceiling rose 1.56.806",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ceiling-roses/1-56-806/",
+            "code": null,
+            "category": "rozetes",
+            "images": [
+                {
+                    "filename": "1.56.806.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.806.100.png"
+                },
+                {
+                    "filename": "1.56.806.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.806.20.png"
+                },
+                {
+                    "filename": "1.56.806.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.806.30.png"
+                },
+                {
+                    "filename": "1.56.806.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.806.31.png"
+                },
+                {
+                    "filename": "1.56.806.100.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.56.806.100.png"
+                },
+                {
+                    "filename": "1.56.806.20.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.56.806.20.png"
+                },
+                {
+                    "filename": "1.56.806.30.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.56.806.30.png"
+                },
+                {
+                    "filename": "1.56.806.31.png",
+                    "local_path": "data/misc/Ceiling_rose_1_56_806/images/1.56.806.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.56.806.31.png"
+                }
+            ],
+            "details": {
+                "Diameter": "760 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.56.806.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.56.806.obj",
+                "local_path": "data/misc/Ceiling_rose_1_56_806/models/1.56.806.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

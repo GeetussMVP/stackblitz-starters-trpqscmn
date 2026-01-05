@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "name": "Column",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/columns/1-30-101/",
+            "code": null,
+            "category": "kolonos",
+            "images": [],
+            "details": {
+                "Width": "318 mm",
+                "Height": "2692 mm",
+                "Depth": "318 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.30.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.101.obj",
+                "local_path": "data/column/Column/models/1.30.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/columns/1-30-102/",
+            "code": null,
+            "category": "kolonos",
+            "images": [],
+            "details": {
+                "Width": "224 mm",
+                "Height": "2693 mm",
+                "Depth": "224 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.30.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.102.obj",
+                "local_path": "data/column/Column/models/1.30.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Column",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/columns/1-30-103/",
+            "code": null,
+            "category": "kolonos",
+            "images": [],
+            "details": {
+                "Width": "269 mm",
+                "Height": "2220 mm",
+                "Depth": "269 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.30.103.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.30.103.obj",
+                "local_path": "data/column/Column/models/1.30.103.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "name": "Pediment 1.63.001",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pediments/1-63-001/",
+            "code": null,
+            "category": "pediment",
+            "images": [
+                {
+                    "filename": "1.63.001.10.png",
+                    "local_path": "data/pediment/Pediment_1_63_001/images/1.63.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.001.10.png"
+                },
+                {
+                    "filename": "1.63.001.10.png",
+                    "local_path": "data/pediment/Pediment_1_63_001/images/1.63.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.001.10.png"
+                },
+                {
+                    "filename": "1.63.001.40.png",
+                    "local_path": "data/pediment/Pediment_1_63_001/images/1.63.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.001.40.png"
+                },
+                {
+                    "filename": "1.63.001.40.png",
+                    "local_path": "data/pediment/Pediment_1_63_001/images/1.63.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.001.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1280 mm",
+                "Height": "146 mm",
+                "Thickness": "57 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.63.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.001.obj",
+                "local_path": "data/pediment/Pediment_1_63_001/models/1.63.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pediment 1.63.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pediments/1-63-002/",
+            "code": null,
+            "category": "pediment",
+            "images": [
+                {
+                    "filename": "1.63.002.10.png",
+                    "local_path": "data/pediment/Pediment_1_63_002/images/1.63.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.002.10.png"
+                },
+                {
+                    "filename": "1.63.002.10.png",
+                    "local_path": "data/pediment/Pediment_1_63_002/images/1.63.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.63.002.10.png"
+                },
+                {
+                    "filename": "1.63.002.40.png",
+                    "local_path": "data/pediment/Pediment_1_63_002/images/1.63.002.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.002.40.png"
+                },
+                {
+                    "filename": "1.63.002.40.png",
+                    "local_path": "data/pediment/Pediment_1_63_002/images/1.63.002.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.63.002.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "1280 mm",
+                "Height": "146 mm",
+                "Thickness": "57 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.63.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.63.002.obj",
+                "local_path": "data/pediment/Pediment_1_63_002/models/1.63.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pediment 4.89.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/pediments-facade/4-89-001/",
+            "code": null,
+            "category": "pediment",
+            "images": [
+                {
+                    "filename": "4.89.001.100.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.89.001.100.png"
+                },
+                {
+                    "filename": "4.89.001.20.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.89.001.20.png"
+                },
+                {
+                    "filename": "4.89.001.30.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/4.89.001.30.png"
+                },
+                {
+                    "filename": "4.89.001.100.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.89.001.100.png"
+                },
+                {
+                    "filename": "4.89.001.20.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.89.001.20.png"
+                },
+                {
+                    "filename": "4.89.001.30.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/4.89.001.30.png"
+                },
+                {
+                    "filename": "4.89.001.40.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.89.001.40.png"
+                },
+                {
+                    "filename": "4.89.001.40.png",
+                    "local_path": "data/pediment/Pediment_4_89_001/images/4.89.001.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/4.89.001.40.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "902 mm",
+                "Height": "510 mm",
+                "Thickness": "54 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.89.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.89.001.obj",
+                "local_path": "data/pediment/Pediment_4_89_001/models/4.89.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

@@ -1,0 +1,1194 @@
+{
+    "products": [
+        {
+            "name": "Ornament 1.60.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-003/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.003.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_003/images/1.60.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.003.100.png"
+                },
+                {
+                    "filename": "1.60.003.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_003/images/1.60.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.003.100.png"
+                }
+            ],
+            "details": {
+                "Width": "26 mm",
+                "Height": "34 mm",
+                "Thickness": "13 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.003.obj",
+                "local_path": "data/ornament/Ornament_1_60_003/models/1.60.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-004/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.004.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_004/images/1.60.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.004.100.png"
+                },
+                {
+                    "filename": "1.60.004.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_004/images/1.60.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.004.100.png"
+                }
+            ],
+            "details": {
+                "Width": "37 mm",
+                "Height": "54 mm",
+                "Thickness": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.004.obj",
+                "local_path": "data/ornament/Ornament_1_60_004/models/1.60.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-005/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.005.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_005/images/1.60.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.005.100.png"
+                },
+                {
+                    "filename": "1.60.005.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_005/images/1.60.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.005.100.png"
+                }
+            ],
+            "details": {
+                "Width": "69 mm",
+                "Height": "86 mm",
+                "Thickness": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.005.obj",
+                "local_path": "data/ornament/Ornament_1_60_005/models/1.60.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.006",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-006/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.006.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_006/images/1.60.006.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.006.100.png"
+                },
+                {
+                    "filename": "1.60.006.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_006/images/1.60.006.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.006.100.png"
+                }
+            ],
+            "details": {
+                "Width": "59 mm",
+                "Height": "59 mm",
+                "Thickness": "10 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.006.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.006.obj",
+                "local_path": "data/ornament/Ornament_1_60_006/models/1.60.006.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.007",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-007/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.007.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_007/images/1.60.007.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.007.100.png"
+                },
+                {
+                    "filename": "1.60.007.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_007/images/1.60.007.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.007.100.png"
+                }
+            ],
+            "details": {
+                "Width": "97 mm",
+                "Height": "155 mm",
+                "Thickness": "18 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.007.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.007.obj",
+                "local_path": "data/ornament/Ornament_1_60_007/models/1.60.007.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.008",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-008/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.008.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_008/images/1.60.008.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.008.100.png"
+                },
+                {
+                    "filename": "1.60.008.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_008/images/1.60.008.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.008.100.png"
+                }
+            ],
+            "details": {
+                "Width": "28 mm",
+                "Height": "82 mm",
+                "Thickness": "9 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.008.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.008.obj",
+                "local_path": "data/ornament/Ornament_1_60_008/models/1.60.008.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.009",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-009/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.009.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_009/images/1.60.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.009.100.png"
+                },
+                {
+                    "filename": "1.60.009.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_009/images/1.60.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.009.100.png"
+                }
+            ],
+            "details": {
+                "Width": "61 mm",
+                "Height": "136 mm",
+                "Thickness": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.009.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.009.obj",
+                "local_path": "data/ornament/Ornament_1_60_009/models/1.60.009.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-010/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.010.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_010/images/1.60.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.010.100.png"
+                },
+                {
+                    "filename": "1.60.010.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_010/images/1.60.010.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.010.100.png"
+                }
+            ],
+            "details": {
+                "Width": "67 mm",
+                "Height": "165 mm",
+                "Thickness": "10 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.010.obj",
+                "local_path": "data/ornament/Ornament_1_60_010/models/1.60.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.011",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-011/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.011.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_011/images/1.60.011.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.011.100.png"
+                },
+                {
+                    "filename": "1.60.011.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_011/images/1.60.011.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.011.100.png"
+                }
+            ],
+            "details": {
+                "Width": "142 mm",
+                "Height": "282 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.011.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.011.obj",
+                "local_path": "data/ornament/Ornament_1_60_011/models/1.60.011.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.015",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-015/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.015.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_015/images/1.60.015.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.015.100.png"
+                },
+                {
+                    "filename": "1.60.015.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_015/images/1.60.015.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.015.100.png"
+                }
+            ],
+            "details": {
+                "Width": "51 mm",
+                "Height": "119 mm",
+                "Thickness": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.015.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.015.obj",
+                "local_path": "data/ornament/Ornament_1_60_015/models/1.60.015.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.017",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-017/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.017.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_017/images/1.60.017.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.017.100.png"
+                },
+                {
+                    "filename": "1.60.017.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_017/images/1.60.017.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.017.100.png"
+                }
+            ],
+            "details": {
+                "Width": "90 mm",
+                "Height": "90 mm",
+                "Thickness": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.017.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.017.obj",
+                "local_path": "data/ornament/Ornament_1_60_017/models/1.60.017.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.019",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-019/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.019.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_019/images/1.60.019.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.019.100.png"
+                },
+                {
+                    "filename": "1.60.019.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_019/images/1.60.019.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.019.100.png"
+                }
+            ],
+            "details": {
+                "Width": "88 mm",
+                "Height": "53 mm",
+                "Thickness": "17 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.019.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.019.obj",
+                "local_path": "data/ornament/Ornament_1_60_019/models/1.60.019.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.020",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-020/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.020.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_020/images/1.60.020.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.020.100.png"
+                },
+                {
+                    "filename": "1.60.020.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_020/images/1.60.020.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.020.100.png"
+                }
+            ],
+            "details": {
+                "Width": "51 mm",
+                "Height": "155 mm",
+                "Thickness": "7 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.020.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.020.obj",
+                "local_path": "data/ornament/Ornament_1_60_020/models/1.60.020.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.021",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-021/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.021.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_021/images/1.60.021.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.021.100.png"
+                },
+                {
+                    "filename": "1.60.021.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_021/images/1.60.021.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.021.100.png"
+                }
+            ],
+            "details": {
+                "Width": "817 mm",
+                "Height": "230 mm",
+                "Thickness": "44 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.021.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.021.obj",
+                "local_path": "data/ornament/Ornament_1_60_021/models/1.60.021.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.022",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-022/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.022.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_022/images/1.60.022.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.022.100.png"
+                },
+                {
+                    "filename": "1.60.022.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_022/images/1.60.022.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.022.100.png"
+                }
+            ],
+            "details": {
+                "Width": "895 mm",
+                "Height": "318 mm",
+                "Thickness": "50 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.022.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.022.obj",
+                "local_path": "data/ornament/Ornament_1_60_022/models/1.60.022.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.023",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-023/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.023.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_023/images/1.60.023.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.023.100.png"
+                },
+                {
+                    "filename": "1.60.023.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_023/images/1.60.023.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.023.100.png"
+                }
+            ],
+            "details": {
+                "Width": "296 mm",
+                "Height": "158 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.023.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.023.obj",
+                "local_path": "data/ornament/Ornament_1_60_023/models/1.60.023.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.024",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-024/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.024.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_024/images/1.60.024.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.024.100.png"
+                },
+                {
+                    "filename": "1.60.024.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_024/images/1.60.024.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.024.100.png"
+                }
+            ],
+            "details": {
+                "Width": "236 mm",
+                "Height": "191 mm",
+                "Thickness": "24 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.024.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.024.obj",
+                "local_path": "data/ornament/Ornament_1_60_024/models/1.60.024.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.025",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-025/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.025.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_025/images/1.60.025.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.025.100.png"
+                },
+                {
+                    "filename": "1.60.025.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_025/images/1.60.025.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.025.100.png"
+                }
+            ],
+            "details": {
+                "Width": "385 mm",
+                "Height": "209 mm",
+                "Thickness": "32 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.025.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.025.obj",
+                "local_path": "data/ornament/Ornament_1_60_025/models/1.60.025.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.027",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-027/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.027.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_027/images/1.60.027.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.027.100.png"
+                },
+                {
+                    "filename": "1.60.027.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_027/images/1.60.027.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.027.100.png"
+                }
+            ],
+            "details": {
+                "Width": "269 mm",
+                "Height": "152 mm",
+                "Thickness": "31 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.027.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.027.obj",
+                "local_path": "data/ornament/Ornament_1_60_027/models/1.60.027.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.028",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-028/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.028.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_028/images/1.60.028.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.028.100.png"
+                },
+                {
+                    "filename": "1.60.028.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_028/images/1.60.028.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.028.100.png"
+                }
+            ],
+            "details": {
+                "Width": "408 mm",
+                "Height": "120 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.028.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.028.obj",
+                "local_path": "data/ornament/Ornament_1_60_028/models/1.60.028.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.030",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-030/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.030.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_030/images/1.60.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.030.100.png"
+                },
+                {
+                    "filename": "1.60.030.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_030/images/1.60.030.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.030.100.png"
+                }
+            ],
+            "details": {
+                "Width": "285 mm",
+                "Height": "154 mm",
+                "Thickness": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.030.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.030.obj",
+                "local_path": "data/ornament/Ornament_1_60_030/models/1.60.030.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.031",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-031/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.031.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_031/images/1.60.031.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.031.100.png"
+                },
+                {
+                    "filename": "1.60.031.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_031/images/1.60.031.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.031.100.png"
+                }
+            ],
+            "details": {
+                "Width": "232 mm",
+                "Height": "141 mm",
+                "Thickness": "28 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.031.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.031.obj",
+                "local_path": "data/ornament/Ornament_1_60_031/models/1.60.031.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.032",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-032/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.032.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.032.100.png"
+                },
+                {
+                    "filename": "1.60.032.20.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.60.032.20.png"
+                },
+                {
+                    "filename": "1.60.032.30.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.60.032.30.png"
+                },
+                {
+                    "filename": "1.60.032.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.032.100.png"
+                },
+                {
+                    "filename": "1.60.032.20.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.60.032.20.png"
+                },
+                {
+                    "filename": "1.60.032.30.png",
+                    "local_path": "data/ornament/Ornament_1_60_032/images/1.60.032.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.60.032.30.png"
+                }
+            ],
+            "details": {
+                "Width": "604 mm",
+                "Height": "189 mm",
+                "Thickness": "50 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.032.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.032.obj",
+                "local_path": "data/ornament/Ornament_1_60_032/models/1.60.032.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.034",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-034/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.034.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_034/images/1.60.034.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.034.100.png"
+                },
+                {
+                    "filename": "1.60.034.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_034/images/1.60.034.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.034.100.png"
+                }
+            ],
+            "details": {
+                "Width": "263 mm",
+                "Height": "95 mm",
+                "Thickness": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.034.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.034.obj",
+                "local_path": "data/ornament/Ornament_1_60_034/models/1.60.034.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.035",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-035/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.035.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_035/images/1.60.035.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.035.100.png"
+                },
+                {
+                    "filename": "1.60.035.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_035/images/1.60.035.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.035.100.png"
+                }
+            ],
+            "details": {
+                "Width": "76 mm",
+                "Height": "142 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.035.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.035.obj",
+                "local_path": "data/ornament/Ornament_1_60_035/models/1.60.035.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.036",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-036/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.036.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_036/images/1.60.036.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.036.100.png"
+                },
+                {
+                    "filename": "1.60.036.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_036/images/1.60.036.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.036.100.png"
+                }
+            ],
+            "details": {
+                "Width": "789 mm",
+                "Height": "359 mm",
+                "Thickness": "49 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.036.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.036.obj",
+                "local_path": "data/ornament/Ornament_1_60_036/models/1.60.036.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.037",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-037/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.037.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_037/images/1.60.037.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.037.100.png"
+                },
+                {
+                    "filename": "1.60.037.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_037/images/1.60.037.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.037.100.png"
+                }
+            ],
+            "details": {
+                "Width": "264 mm",
+                "Height": "297 mm",
+                "Thickness": "21 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.037.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.037.obj",
+                "local_path": "data/ornament/Ornament_1_60_037/models/1.60.037.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.038",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-038/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.038.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_038/images/1.60.038.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.038.100.png"
+                },
+                {
+                    "filename": "1.60.038.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_038/images/1.60.038.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.038.100.png"
+                }
+            ],
+            "details": {
+                "Width": "120 mm",
+                "Height": "230 mm",
+                "Thickness": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.038.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.038.obj",
+                "local_path": "data/ornament/Ornament_1_60_038/models/1.60.038.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.108",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-108/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.108.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_108/images/1.60.108.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.108.100.png"
+                },
+                {
+                    "filename": "1.60.108.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_108/images/1.60.108.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.108.100.png"
+                }
+            ],
+            "details": {
+                "Width": "27 mm",
+                "Height": "82 mm",
+                "Thickness": "7 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.108.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.108.obj",
+                "local_path": "data/ornament/Ornament_1_60_108/models/1.60.108.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.109",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-109/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.109.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_109/images/1.60.109.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.109.100.png"
+                },
+                {
+                    "filename": "1.60.109.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_109/images/1.60.109.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.109.100.png"
+                }
+            ],
+            "details": {
+                "Width": "62 mm",
+                "Height": "136 mm",
+                "Thickness": "13 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.109.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.109.obj",
+                "local_path": "data/ornament/Ornament_1_60_109/models/1.60.109.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.110",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-110/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.110.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_110/images/1.60.110.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.110.100.png"
+                },
+                {
+                    "filename": "1.60.110.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_110/images/1.60.110.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.110.100.png"
+                }
+            ],
+            "details": {
+                "Width": "67 mm",
+                "Height": "165 mm",
+                "Thickness": "10 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.110.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.110.obj",
+                "local_path": "data/ornament/Ornament_1_60_110/models/1.60.110.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.111",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-111/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.111.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_111/images/1.60.111.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.111.100.png"
+                },
+                {
+                    "filename": "1.60.111.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_111/images/1.60.111.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.111.100.png"
+                }
+            ],
+            "details": {
+                "Width": "142 mm",
+                "Height": "282 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.111.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.111.obj",
+                "local_path": "data/ornament/Ornament_1_60_111/models/1.60.111.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.120",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-120/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.120.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_120/images/1.60.120.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.120.100.png"
+                },
+                {
+                    "filename": "1.60.120.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_120/images/1.60.120.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.120.100.png"
+                }
+            ],
+            "details": {
+                "Width": "51 mm",
+                "Height": "155 mm",
+                "Thickness": "7 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.120.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.120.obj",
+                "local_path": "data/ornament/Ornament_1_60_120/models/1.60.120.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.123",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-123/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.123.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_123/images/1.60.123.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.123.100.png"
+                },
+                {
+                    "filename": "1.60.123.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_123/images/1.60.123.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.123.100.png"
+                }
+            ],
+            "details": {
+                "Width": "296 mm",
+                "Height": "158 mm",
+                "Thickness": "30 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.123.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.123.obj",
+                "local_path": "data/ornament/Ornament_1_60_123/models/1.60.123.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.135",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-135/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.135.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_135/images/1.60.135.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.135.100.png"
+                },
+                {
+                    "filename": "1.60.135.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_135/images/1.60.135.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.135.100.png"
+                }
+            ],
+            "details": {
+                "Width": "76 mm",
+                "Height": "142 mm",
+                "Thickness": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.135.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.135.obj",
+                "local_path": "data/ornament/Ornament_1_60_135/models/1.60.135.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.501",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-501/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.501.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_501/images/1.60.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.501.100.png"
+                },
+                {
+                    "filename": "1.60.501.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_501/images/1.60.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.501.100.png"
+                }
+            ],
+            "details": {
+                "Width": "170 mm",
+                "Height": "165 mm",
+                "Thickness": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.501.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.501.obj",
+                "local_path": "data/ornament/Ornament_1_60_501/models/1.60.501.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 1.60.503",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-60-503/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "1.60.503.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_503/images/1.60.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.503.100.png"
+                },
+                {
+                    "filename": "1.60.503.100.png",
+                    "local_path": "data/ornament/Ornament_1_60_503/images/1.60.503.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.60.503.100.png"
+                }
+            ],
+            "details": {
+                "Width": "91 mm",
+                "Height": "91 mm",
+                "Thickness": "28 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.60.503.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.60.503.obj",
+                "local_path": "data/ornament/Ornament_1_60_503/models/1.60.503.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 4.99.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "4.99.001.100.png",
+                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
+                },
+                {
+                    "filename": "4.99.001.100.png",
+                    "local_path": "data/ornament/Ornament_4_99_001/images/4.99.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.001.100.png"
+                }
+            ],
+            "details": {
+                "Width": "458 mm",
+                "Height": "180 mm",
+                "Thickness": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.99.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.001.obj",
+                "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ornament 4.99.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
+            "code": null,
+            "category": "ornamentai",
+            "images": [
+                {
+                    "filename": "4.99.002.100.png",
+                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
+                },
+                {
+                    "filename": "4.99.002.100.png",
+                    "local_path": "data/ornament/Ornament_4_99_002/images/4.99.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.99.002.100.png"
+                }
+            ],
+            "details": {
+                "Width": "52 mm",
+                "Height": "165 mm",
+                "Thickness": "28 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.99.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.99.002.obj",
+                "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

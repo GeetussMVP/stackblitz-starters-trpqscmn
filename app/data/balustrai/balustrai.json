@@ -1,0 +1,562 @@
+{
+    "products": [
+        {
+            "name": "Pyramidal balustrade cap 4.76.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.76.101.10.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png"
+                },
+                {
+                    "filename": "4.76.101.20.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.101.20.png"
+                },
+                {
+                    "filename": "4.76.101.10.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.101.10.png"
+                },
+                {
+                    "filename": "4.76.101.20.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/images/4.76.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.101.20.png"
+                }
+            ],
+            "details": {
+                "Width": "269 mm",
+                "Height": "82 mm",
+                "Depth": "269 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.76.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.101.obj",
+                "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_101/models/4.76.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Pyramidal balustrade cap 4.76.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-76-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.76.201.10.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png"
+                },
+                {
+                    "filename": "4.76.201.20.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.201.20.png"
+                },
+                {
+                    "filename": "4.76.201.10.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.76.201.10.png"
+                },
+                {
+                    "filename": "4.76.201.20.png",
+                    "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/images/4.76.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.76.201.20.png"
+                }
+            ],
+            "details": {
+                "Width": "219 mm",
+                "Height": "70 mm",
+                "Depth": "219 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.76.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.76.201.obj",
+                "local_path": "data/balustrade/Pyramidal_balustrade_cap_4_76_201/models/4.76.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ball shaped balustrade cap 4.77.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.77.101.10.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png"
+                },
+                {
+                    "filename": "4.77.101.20.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.101.20.png"
+                },
+                {
+                    "filename": "4.77.101.10.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.101.10.png"
+                },
+                {
+                    "filename": "4.77.101.20.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/images/4.77.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.101.20.png"
+                }
+            ],
+            "details": {
+                "Height": "230 mm",
+                "Diameter": "179 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.77.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.101.obj",
+                "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_101/models/4.77.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Ball shaped balustrade cap 4.77.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-77-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.77.201.10.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png"
+                },
+                {
+                    "filename": "4.77.201.20.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.201.20.png"
+                },
+                {
+                    "filename": "4.77.201.10.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.77.201.10.png"
+                },
+                {
+                    "filename": "4.77.201.20.png",
+                    "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/images/4.77.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.77.201.20.png"
+                }
+            ],
+            "details": {
+                "Height": "195 mm",
+                "Diameter": "149 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.77.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.77.201.obj",
+                "local_path": "data/balustrade/Ball_shaped_balustrade_cap_4_77_201/models/4.77.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade base 4.74.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.74.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png"
+                },
+                {
+                    "filename": "4.74.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png"
+                },
+                {
+                    "filename": "4.74.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png"
+                },
+                {
+                    "filename": "4.74.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png"
+                }
+            ],
+            "details": {
+                "Width": "3000 mm",
+                "Height": "100 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.74.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
+                "local_path": "data/balustrade/Balustrade_base_4_74_101/models/4.74.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade base 4.74.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.74.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png"
+                },
+                {
+                    "filename": "4.74.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png"
+                },
+                {
+                    "filename": "4.74.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png"
+                },
+                {
+                    "filename": "4.74.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png"
+                }
+            ],
+            "details": {
+                "Width": "3000 mm",
+                "Height": "89 mm",
+                "Depth": "140 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.74.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
+                "local_path": "data/balustrade/Balustrade_base_4_74_201/models/4.74.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade handrail 4.72.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.72.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
+                },
+                {
+                    "filename": "4.72.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
+                },
+                {
+                    "filename": "4.72.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
+                },
+                {
+                    "filename": "4.72.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "3000 mm",
+                "Width": "189 mm",
+                "Height": "111 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.72.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
+                "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade handrail 4.72.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.72.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
+                },
+                {
+                    "filename": "4.72.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
+                },
+                {
+                    "filename": "4.72.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
+                },
+                {
+                    "filename": "4.72.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "3000 mm",
+                "Width": "152 mm",
+                "Height": "102 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.72.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
+                "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Baluster 4.71.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.71.101.10.png",
+                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png"
+                },
+                {
+                    "filename": "4.71.101.20.png",
+                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.101.20.png"
+                },
+                {
+                    "filename": "4.71.101.10.png",
+                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.101.10.png"
+                },
+                {
+                    "filename": "4.71.101.20.png",
+                    "local_path": "data/balustrade/Baluster_4_71_101/images/4.71.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.101.20.png"
+                }
+            ],
+            "details": {
+                "Width": "120 mm",
+                "Height": "784 mm",
+                "Depth": "120 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.71.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.101.obj",
+                "local_path": "data/balustrade/Baluster_4_71_101/models/4.71.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Baluster 4.71.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balusters-balustrades/4-71-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.71.201.10.png",
+                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png"
+                },
+                {
+                    "filename": "4.71.201.20.png",
+                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.201.20.png"
+                },
+                {
+                    "filename": "4.71.201.10.png",
+                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.71.201.10.png"
+                },
+                {
+                    "filename": "4.71.201.20.png",
+                    "local_path": "data/balustrade/Baluster_4_71_201/images/4.71.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.71.201.20.png"
+                }
+            ],
+            "details": {
+                "Width": "90 mm",
+                "Height": "790 mm",
+                "Depth": "90 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.71.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.71.201.obj",
+                "local_path": "data/balustrade/Baluster_4_71_201/models/4.71.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade handrail 4.72.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.72.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
+                },
+                {
+                    "filename": "4.72.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
+                },
+                {
+                    "filename": "4.72.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.101.10.png"
+                },
+                {
+                    "filename": "4.72.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_101/images/4.72.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.101.20.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "3000 mm",
+                "Width": "189 mm",
+                "Height": "111 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.72.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.101.obj",
+                "local_path": "data/balustrade/Balustrade_handrail_4_72_101/models/4.72.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade handrail 4.72.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-handrails-balustrades/4-72-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.72.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
+                },
+                {
+                    "filename": "4.72.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
+                },
+                {
+                    "filename": "4.72.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.72.201.10.png"
+                },
+                {
+                    "filename": "4.72.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_handrail_4_72_201/images/4.72.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.72.201.20.png"
+                }
+            ],
+            "details": {
+                "Ilgis": "3000 mm",
+                "Width": "152 mm",
+                "Height": "102 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.72.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.72.201.obj",
+                "local_path": "data/balustrade/Balustrade_handrail_4_72_201/models/4.72.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade base 4.74.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-101/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.74.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png"
+                },
+                {
+                    "filename": "4.74.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png"
+                },
+                {
+                    "filename": "4.74.101.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.101.10.png"
+                },
+                {
+                    "filename": "4.74.101.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_101/images/4.74.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.101.20.png"
+                }
+            ],
+            "details": {
+                "Width": "3000 mm",
+                "Height": "100 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.74.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.101.obj",
+                "local_path": "data/balustrade/Balustrade_base_4_74_101/models/4.74.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Balustrade base 4.74.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/balustrade-bases-balustrades/4-74-201/",
+            "code": null,
+            "category": "balustrai",
+            "images": [
+                {
+                    "filename": "4.74.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png"
+                },
+                {
+                    "filename": "4.74.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png"
+                },
+                {
+                    "filename": "4.74.201.10.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.74.201.10.png"
+                },
+                {
+                    "filename": "4.74.201.20.png",
+                    "local_path": "data/balustrade/Balustrade_base_4_74_201/images/4.74.201.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/4.74.201.20.png"
+                }
+            ],
+            "details": {
+                "Width": "3000 mm",
+                "Height": "89 mm",
+                "Depth": "140 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.74.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.74.201.obj",
+                "local_path": "data/balustrade/Balustrade_base_4_74_201/models/4.74.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

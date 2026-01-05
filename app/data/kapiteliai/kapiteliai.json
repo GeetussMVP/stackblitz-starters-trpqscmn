@@ -1,0 +1,1248 @@
+{
+    "products": [
+        {
+            "name": "Capital 1.11.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-002/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.002.10.png",
+                    "local_path": "data/capital/Capital_1_11_002/images/1.11.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.002.10.png"
+                },
+                {
+                    "filename": "1.11.002.10.png",
+                    "local_path": "data/capital/Capital_1_11_002/images/1.11.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "355 mm",
+                "Height": "270 mm",
+                "Depth": "355 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.002.obj",
+                "local_path": "data/capital/Capital_1_11_002/models/1.11.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-003/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.003.10.png",
+                    "local_path": "data/capital/Capital_1_11_003/images/1.11.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.003.10.png"
+                },
+                {
+                    "filename": "1.11.003.10.png",
+                    "local_path": "data/capital/Capital_1_11_003/images/1.11.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "392 mm",
+                "Height": "170 mm",
+                "Depth": "392 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.003.obj",
+                "local_path": "data/capital/Capital_1_11_003/models/1.11.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-004/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.004.10.png",
+                    "local_path": "data/capital/Capital_1_11_004/images/1.11.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.004.10.png"
+                },
+                {
+                    "filename": "1.11.004.10.png",
+                    "local_path": "data/capital/Capital_1_11_004/images/1.11.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "438 mm",
+                "Height": "174 mm",
+                "Depth": "358 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.004.obj",
+                "local_path": "data/capital/Capital_1_11_004/models/1.11.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-005/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.005.10.png",
+                    "local_path": "data/capital/Capital_1_11_005/images/1.11.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.005.10.png"
+                },
+                {
+                    "filename": "1.11.005.10.png",
+                    "local_path": "data/capital/Capital_1_11_005/images/1.11.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "269 mm",
+                "Height": "151 mm",
+                "Depth": "269 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.005.obj",
+                "local_path": "data/capital/Capital_1_11_005/models/1.11.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.008",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-008/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.008.10.png",
+                    "local_path": "data/capital/Capital_1_11_008/images/1.11.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.008.10.png"
+                },
+                {
+                    "filename": "1.11.008.10.png",
+                    "local_path": "data/capital/Capital_1_11_008/images/1.11.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.008.10.png"
+                }
+            ],
+            "details": {
+                "Width": "216 mm",
+                "Height": "106 mm",
+                "Depth": "216 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.008.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.008.obj",
+                "local_path": "data/capital/Capital_1_11_008/models/1.11.008.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.009",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-009/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.009.100.png",
+                    "local_path": "data/capital/Capital_1_11_009/images/1.11.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.11.009.100.png"
+                },
+                {
+                    "filename": "1.11.009.100.png",
+                    "local_path": "data/capital/Capital_1_11_009/images/1.11.009.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.11.009.100.png"
+                }
+            ],
+            "details": {
+                "Width": "234 mm",
+                "Height": "92 mm",
+                "Depth": "188 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.009.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.009.obj",
+                "local_path": "data/capital/Capital_1_11_009/models/1.11.009.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.11.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-010/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.11.010.10.png",
+                    "local_path": "data/capital/Capital_1_11_010/images/1.11.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.010.10.png"
+                },
+                {
+                    "filename": "1.11.010.10.png",
+                    "local_path": "data/capital/Capital_1_11_010/images/1.11.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.010.10.png"
+                }
+            ],
+            "details": {
+                "Width": "224 mm",
+                "Height": "175 mm",
+                "Depth": "224 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.010.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.010.obj",
+                "local_path": "data/capital/Capital_1_11_010/models/1.11.010.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-002/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.002.10.png",
+                    "local_path": "data/capital/Capital_1_15_002/images/1.15.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.002.10.png"
+                },
+                {
+                    "filename": "1.15.002.10.png",
+                    "local_path": "data/capital/Capital_1_15_002/images/1.15.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "356 mm",
+                "Height": "270 mm",
+                "Depth": "177 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.002.obj",
+                "local_path": "data/capital/Capital_1_15_002/models/1.15.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-003/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.003.10.png",
+                    "local_path": "data/capital/Capital_1_15_003/images/1.15.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.003.10.png"
+                },
+                {
+                    "filename": "1.15.003.10.png",
+                    "local_path": "data/capital/Capital_1_15_003/images/1.15.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "390 mm",
+                "Height": "170 mm",
+                "Depth": "195 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.003.obj",
+                "local_path": "data/capital/Capital_1_15_003/models/1.15.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-004/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.004.10.png",
+                    "local_path": "data/capital/Capital_1_15_004/images/1.15.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.004.10.png"
+                },
+                {
+                    "filename": "1.15.004.10.png",
+                    "local_path": "data/capital/Capital_1_15_004/images/1.15.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "438 mm",
+                "Height": "174 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.004.obj",
+                "local_path": "data/capital/Capital_1_15_004/models/1.15.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-005/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.005.10.png",
+                    "local_path": "data/capital/Capital_1_15_005/images/1.15.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.005.10.png"
+                },
+                {
+                    "filename": "1.15.005.10.png",
+                    "local_path": "data/capital/Capital_1_15_005/images/1.15.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "271 mm",
+                "Height": "151 mm",
+                "Depth": "135 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.005.obj",
+                "local_path": "data/capital/Capital_1_15_005/models/1.15.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.008",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-008/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.008.10.png",
+                    "local_path": "data/capital/Capital_1_15_008/images/1.15.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.008.10.png"
+                },
+                {
+                    "filename": "1.15.008.10.png",
+                    "local_path": "data/capital/Capital_1_15_008/images/1.15.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.008.10.png"
+                }
+            ],
+            "details": {
+                "Width": "216 mm",
+                "Height": "105 mm",
+                "Depth": "108 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.008.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.008.obj",
+                "local_path": "data/capital/Capital_1_15_008/models/1.15.008.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.009",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-009/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.009.10.png",
+                    "local_path": "data/capital/Capital_1_15_009/images/1.15.009.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.009.10.png"
+                },
+                {
+                    "filename": "1.15.009.10.png",
+                    "local_path": "data/capital/Capital_1_15_009/images/1.15.009.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.009.10.png"
+                }
+            ],
+            "details": {
+                "Width": "237 mm",
+                "Height": "94 mm",
+                "Depth": "92 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.009.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.009.obj",
+                "local_path": "data/capital/Capital_1_15_009/models/1.15.009.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.15.010",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-010/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.15.010.10.png",
+                    "local_path": "data/capital/Capital_1_15_010/images/1.15.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.010.10.png"
+                },
+                {
+                    "filename": "1.15.010.10.png",
+                    "local_path": "data/capital/Capital_1_15_010/images/1.15.010.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.010.10.png"
+                }
+            ],
+            "details": {
+                "Width": "224 mm",
+                "Height": "175 mm",
+                "Depth": "115 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.001",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-001/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.001.10.png",
+                    "local_path": "data/capital/Capital_1_21_001/images/1.21.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.001.10.png"
+                },
+                {
+                    "filename": "1.21.001.10.png",
+                    "local_path": "data/capital/Capital_1_21_001/images/1.21.001.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.001.10.png"
+                }
+            ],
+            "details": {
+                "Width": "232 mm",
+                "Height": "150 mm",
+                "Depth": "68 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.002",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-002/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.002.10.png",
+                    "local_path": "data/capital/Capital_1_21_002/images/1.21.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.002.10.png"
+                },
+                {
+                    "filename": "1.21.002.10.png",
+                    "local_path": "data/capital/Capital_1_21_002/images/1.21.002.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.002.10.png"
+                }
+            ],
+            "details": {
+                "Width": "419 mm",
+                "Height": "346 mm",
+                "Depth": "112 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.003",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-003/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.003.10.png",
+                    "local_path": "data/capital/Capital_1_21_003/images/1.21.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.003.10.png"
+                },
+                {
+                    "filename": "1.21.003.10.png",
+                    "local_path": "data/capital/Capital_1_21_003/images/1.21.003.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.003.10.png"
+                }
+            ],
+            "details": {
+                "Width": "354 mm",
+                "Height": "220 mm",
+                "Depth": "97 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.004",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-004/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.004.10.png",
+                    "local_path": "data/capital/Capital_1_21_004/images/1.21.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.004.10.png"
+                },
+                {
+                    "filename": "1.21.004.10.png",
+                    "local_path": "data/capital/Capital_1_21_004/images/1.21.004.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.004.10.png"
+                }
+            ],
+            "details": {
+                "Width": "403 mm",
+                "Height": "178 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.21.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.004.obj",
+                "local_path": "data/capital/Capital_1_21_004/models/1.21.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.005",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-005/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.005.10.png",
+                    "local_path": "data/capital/Capital_1_21_005/images/1.21.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.005.10.png"
+                },
+                {
+                    "filename": "1.21.005.10.png",
+                    "local_path": "data/capital/Capital_1_21_005/images/1.21.005.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.005.10.png"
+                }
+            ],
+            "details": {
+                "Width": "602 mm",
+                "Height": "180 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.21.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.005.obj",
+                "local_path": "data/capital/Capital_1_21_005/models/1.21.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.006",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-006/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.006.10.png",
+                    "local_path": "data/capital/Capital_1_21_006/images/1.21.006.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.006.10.png"
+                },
+                {
+                    "filename": "1.21.006.10.png",
+                    "local_path": "data/capital/Capital_1_21_006/images/1.21.006.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.006.10.png"
+                }
+            ],
+            "details": {
+                "Width": "470 mm",
+                "Height": "181 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.21.006.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.006.obj",
+                "local_path": "data/capital/Capital_1_21_006/models/1.21.006.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.007",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-007/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.007.10.png",
+                    "local_path": "data/capital/Capital_1_21_007/images/1.21.007.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.007.10.png"
+                },
+                {
+                    "filename": "1.21.007.10.png",
+                    "local_path": "data/capital/Capital_1_21_007/images/1.21.007.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.007.10.png"
+                }
+            ],
+            "details": {
+                "Width": "345 mm",
+                "Height": "219 mm",
+                "Depth": "95 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.21.007.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.007.obj",
+                "local_path": "data/capital/Capital_1_21_007/models/1.21.007.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 1.21.008",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-21-008/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "1.21.008.10.png",
+                    "local_path": "data/capital/Capital_1_21_008/images/1.21.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.008.10.png"
+                },
+                {
+                    "filename": "1.21.008.10.png",
+                    "local_path": "data/capital/Capital_1_21_008/images/1.21.008.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.21.008.10.png"
+                }
+            ],
+            "details": {
+                "Width": "152 mm",
+                "Height": "98 mm",
+                "Depth": "45 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.21.008.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.21.008.obj",
+                "local_path": "data/capital/Capital_1_21_008/models/1.21.008.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-101/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.101.10.png",
+                    "local_path": "data/capital/Capital_4_11_101/images/4.11.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.101.10.png"
+                },
+                {
+                    "filename": "4.11.101.10.png",
+                    "local_path": "data/capital/Capital_4_11_101/images/4.11.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "408 mm",
+                "Height": "180 mm",
+                "Depth": "408 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.101.obj",
+                "local_path": "data/capital/Capital_4_11_101/models/4.11.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-102/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.102.10.png",
+                    "local_path": "data/capital/Capital_4_11_102/images/4.11.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.102.10.png"
+                },
+                {
+                    "filename": "4.11.102.10.png",
+                    "local_path": "data/capital/Capital_4_11_102/images/4.11.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.102.10.png"
+                }
+            ],
+            "details": {
+                "Width": "544 mm",
+                "Height": "240 mm",
+                "Depth": "544 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.102.obj",
+                "local_path": "data/capital/Capital_4_11_102/models/4.11.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-201/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.201.10.png",
+                    "local_path": "data/capital/Capital_4_11_201/images/4.11.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.201.10.png"
+                },
+                {
+                    "filename": "4.11.201.10.png",
+                    "local_path": "data/capital/Capital_4_11_201/images/4.11.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "429 mm",
+                "Height": "164 mm",
+                "Depth": "360 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.201.obj",
+                "local_path": "data/capital/Capital_4_11_201/models/4.11.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-202/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.202.10.png",
+                    "local_path": "data/capital/Capital_4_11_202/images/4.11.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.202.10.png"
+                },
+                {
+                    "filename": "4.11.202.10.png",
+                    "local_path": "data/capital/Capital_4_11_202/images/4.11.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "635 mm",
+                "Height": "240 mm",
+                "Depth": "536 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.202.obj",
+                "local_path": "data/capital/Capital_4_11_202/models/4.11.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-301/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.301.10.png",
+                    "local_path": "data/capital/Capital_4_11_301/images/4.11.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.301.10.png"
+                },
+                {
+                    "filename": "4.11.301.10.png",
+                    "local_path": "data/capital/Capital_4_11_301/images/4.11.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "396 mm",
+                "Height": "313 mm",
+                "Depth": "396 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.301.obj",
+                "local_path": "data/capital/Capital_4_11_301/models/4.11.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.11.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-11-302/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.11.302.10.png",
+                    "local_path": "data/capital/Capital_4_11_302/images/4.11.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.302.10.png"
+                },
+                {
+                    "filename": "4.11.302.10.png",
+                    "local_path": "data/capital/Capital_4_11_302/images/4.11.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.11.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "652 mm",
+                "Height": "510 mm",
+                "Depth": "652 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.11.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.11.302.obj",
+                "local_path": "data/capital/Capital_4_11_302/models/4.11.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-101/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.101.10.png",
+                    "local_path": "data/capital/Capital_4_15_101/images/4.15.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.101.10.png"
+                },
+                {
+                    "filename": "4.15.101.10.png",
+                    "local_path": "data/capital/Capital_4_15_101/images/4.15.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "408 mm",
+                "Height": "181 mm",
+                "Depth": "203 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.101.obj",
+                "local_path": "data/capital/Capital_4_15_101/models/4.15.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.102",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-102/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.102.10.png",
+                    "local_path": "data/capital/Capital_4_15_102/images/4.15.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.102.10.png"
+                },
+                {
+                    "filename": "4.15.102.10.png",
+                    "local_path": "data/capital/Capital_4_15_102/images/4.15.102.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.102.10.png"
+                }
+            ],
+            "details": {
+                "Width": "543 mm",
+                "Height": "240 mm",
+                "Depth": "272 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.102.obj",
+                "local_path": "data/capital/Capital_4_15_102/models/4.15.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-201/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.201.10.png",
+                    "local_path": "data/capital/Capital_4_15_201/images/4.15.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.201.10.png"
+                },
+                {
+                    "filename": "4.15.201.10.png",
+                    "local_path": "data/capital/Capital_4_15_201/images/4.15.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "434 mm",
+                "Height": "161 mm",
+                "Depth": "180 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.201.obj",
+                "local_path": "data/capital/Capital_4_15_201/models/4.15.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.202",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-202/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.202.10.png",
+                    "local_path": "data/capital/Capital_4_15_202/images/4.15.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.202.10.png"
+                },
+                {
+                    "filename": "4.15.202.10.png",
+                    "local_path": "data/capital/Capital_4_15_202/images/4.15.202.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.202.10.png"
+                }
+            ],
+            "details": {
+                "Width": "635 mm",
+                "Height": "240 mm",
+                "Depth": "269 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.202.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.202.obj",
+                "local_path": "data/capital/Capital_4_15_202/models/4.15.202.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-301/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.301.10.png",
+                    "local_path": "data/capital/Capital_4_15_301/images/4.15.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.301.10.png"
+                },
+                {
+                    "filename": "4.15.301.10.png",
+                    "local_path": "data/capital/Capital_4_15_301/images/4.15.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "397 mm",
+                "Height": "313 mm",
+                "Depth": "198 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.301.obj",
+                "local_path": "data/capital/Capital_4_15_301/models/4.15.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.15.302",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-15-302/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.15.302.10.png",
+                    "local_path": "data/capital/Capital_4_15_302/images/4.15.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.302.10.png"
+                },
+                {
+                    "filename": "4.15.302.10.png",
+                    "local_path": "data/capital/Capital_4_15_302/images/4.15.302.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.15.302.10.png"
+                }
+            ],
+            "details": {
+                "Width": "644 mm",
+                "Height": "514 mm",
+                "Depth": "327 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.15.302.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.15.302.obj",
+                "local_path": "data/capital/Capital_4_15_302/models/4.15.302.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.21.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-101/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.21.101.10.png",
+                    "local_path": "data/capital/Capital_4_21_101/images/4.21.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.101.10.png"
+                },
+                {
+                    "filename": "4.21.101.10.png",
+                    "local_path": "data/capital/Capital_4_21_101/images/4.21.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "406 mm",
+                "Height": "178 mm",
+                "Depth": "124 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.21.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.101.obj",
+                "local_path": "data/capital/Capital_4_21_101/models/4.21.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.21.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-201/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.21.201.10.png",
+                    "local_path": "data/capital/Capital_4_21_201/images/4.21.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.201.10.png"
+                },
+                {
+                    "filename": "4.21.201.10.png",
+                    "local_path": "data/capital/Capital_4_21_201/images/4.21.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "444 mm",
+                "Height": "167 mm",
+                "Depth": "98 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.21.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.201.obj",
+                "local_path": "data/capital/Capital_4_21_201/models/4.21.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.21.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-21-301/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.21.301.10.png",
+                    "local_path": "data/capital/Capital_4_21_301/images/4.21.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.301.10.png"
+                },
+                {
+                    "filename": "4.21.301.10.png",
+                    "local_path": "data/capital/Capital_4_21_301/images/4.21.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.21.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "417 mm",
+                "Height": "312 mm",
+                "Depth": "151 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.21.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.21.301.obj",
+                "local_path": "data/capital/Capital_4_21_301/models/4.21.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.45.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-201/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.45.201.10.png",
+                    "local_path": "data/capital/Capital_4_45_201/images/4.45.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.201.10.png"
+                },
+                {
+                    "filename": "4.45.201.10.png",
+                    "local_path": "data/capital/Capital_4_45_201/images/4.45.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "293 mm",
+                "Height": "116 mm",
+                "Depth": "122 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.45.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.201.obj",
+                "local_path": "data/capital/Capital_4_45_201/models/4.45.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.45.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-45-301/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.45.301.10.png",
+                    "local_path": "data/capital/Capital_4_45_301/images/4.45.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.301.10.png"
+                },
+                {
+                    "filename": "4.45.301.10.png",
+                    "local_path": "data/capital/Capital_4_45_301/images/4.45.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.45.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "262 mm",
+                "Height": "208 mm",
+                "Depth": "133 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.45.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.45.301.obj",
+                "local_path": "data/capital/Capital_4_45_301/models/4.45.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.51.101",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-101/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.51.101.10.png",
+                    "local_path": "data/capital/Capital_4_51_101/images/4.51.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.101.10.png"
+                },
+                {
+                    "filename": "4.51.101.10.png",
+                    "local_path": "data/capital/Capital_4_51_101/images/4.51.101.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.101.10.png"
+                }
+            ],
+            "details": {
+                "Width": "260 mm",
+                "Height": "125 mm",
+                "Depth": "80 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.51.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.101.obj",
+                "local_path": "data/capital/Capital_4_51_101/models/4.51.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.51.201",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-201/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.51.201.10.png",
+                    "local_path": "data/capital/Capital_4_51_201/images/4.51.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.201.10.png"
+                },
+                {
+                    "filename": "4.51.201.10.png",
+                    "local_path": "data/capital/Capital_4_51_201/images/4.51.201.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.201.10.png"
+                }
+            ],
+            "details": {
+                "Width": "305 mm",
+                "Height": "115 mm",
+                "Depth": "67 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.51.201.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.201.obj",
+                "local_path": "data/capital/Capital_4_51_201/models/4.51.201.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Capital 4.51.301",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-51-301/",
+            "code": null,
+            "category": "kapiteliai",
+            "images": [
+                {
+                    "filename": "4.51.301.10.png",
+                    "local_path": "data/capital/Capital_4_51_301/images/4.51.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.301.10.png"
+                },
+                {
+                    "filename": "4.51.301.10.png",
+                    "local_path": "data/capital/Capital_4_51_301/images/4.51.301.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/4.51.301.10.png"
+                }
+            ],
+            "details": {
+                "Width": "269 mm",
+                "Height": "205 mm",
+                "Depth": "99 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.51.301.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.51.301.obj",
+                "local_path": "data/capital/Capital_4_51_301/models/4.51.301.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

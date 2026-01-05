@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "name": "Niche 0-1.61.101-1.61.110",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-101-1-61-110/",
+            "code": null,
+            "category": "nisos",
+            "images": [
+
+                {
+                    "filename": "0-1.61.101-1.61.110.10.png",
+                    "local_path": "data/niche/Niche/images/0-1.61.101-1.61.110.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/0-1.61.101-1.61.110.10.png",
+                    "product_code": "0-1.61.101-1.61.110.10"
+                }
+            ],
+            "details": {
+                "Width": "418 mm",
+                "Height": "758 mm",
+                "Thickness": "230 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Niche 0-1.61.102-1.61.120",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-102-1-61-120/",
+            "code": null,
+            "category": "nisos",
+            "images": [
+                {
+                    "filename": "0-1.61.102-1.61.120.10.png",
+                    "local_path": "data/niche/Niche/images/0-1.61.102-1.61.120.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/0-1.61.102-1.61.120.10.png",
+                    "product_code": "0-1.61.102-1.61.120.10"
+                }
+            ],
+            "details": {
+                "Width": "655 mm",
+                "Height": "1135 mm",
+                "Thickness": "290 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": null,
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}

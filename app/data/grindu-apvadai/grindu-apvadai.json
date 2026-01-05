@@ -1,0 +1,2226 @@
+{
+    "products": [{
+            "name": "Grindu Apvadas 1.53.101",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-101/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.101.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
+                },
+                {
+                    "filename": "1.53.101.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
+                },
+                {
+                    "filename": "1.53.101.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
+                },
+                {
+                    "filename": "1.53.101.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
+                },
+                {
+                    "filename": "1.53.101.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
+                },
+                {
+                    "filename": "1.53.101.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
+                },
+                {
+                    "filename": "1.53.101.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
+                },
+                {
+                    "filename": "1.53.101.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
+                },
+                {
+                    "filename": "1.53.101.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101/images/1.53.101.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "110 mm",
+                "Width on floor": "27 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_101/models/1.53.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.102",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-102/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.102.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
+                },
+                {
+                    "filename": "1.53.102.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
+                },
+                {
+                    "filename": "1.53.102.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
+                },
+                {
+                    "filename": "1.53.102.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
+                },
+                {
+                    "filename": "1.53.102.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
+                },
+                {
+                    "filename": "1.53.102.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
+                },
+                {
+                    "filename": "1.53.102.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
+                },
+                {
+                    "filename": "1.53.102.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
+                },
+                {
+                    "filename": "1.53.102.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102/images/1.53.102.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "150 mm",
+                "Width on floor": "22 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_102/models/1.53.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.103",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-103/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.103.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
+                },
+                {
+                    "filename": "1.53.103.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
+                },
+                {
+                    "filename": "1.53.103.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
+                },
+                {
+                    "filename": "1.53.103.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
+                },
+                {
+                    "filename": "1.53.103.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
+                },
+                {
+                    "filename": "1.53.103.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
+                },
+                {
+                    "filename": "1.53.103.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
+                },
+                {
+                    "filename": "1.53.103.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
+                },
+                {
+                    "filename": "1.53.103.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103/images/1.53.103.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "109 mm",
+                "Width on floor": "14 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.103.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_103/models/1.53.103.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.104",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-104/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.104.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
+                },
+                {
+                    "filename": "1.53.104.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
+                },
+                {
+                    "filename": "1.53.104.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
+                },
+                {
+                    "filename": "1.53.104.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
+                },
+                {
+                    "filename": "1.53.104.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
+                },
+                {
+                    "filename": "1.53.104.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
+                },
+                {
+                    "filename": "1.53.104.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
+                },
+                {
+                    "filename": "1.53.104.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
+                },
+                {
+                    "filename": "1.53.104.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104/images/1.53.104.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "120 mm",
+                "Width on floor": "26 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.104.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_104/models/1.53.104.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.105",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-105/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.105.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
+                },
+                {
+                    "filename": "1.53.105.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
+                },
+                {
+                    "filename": "1.53.105.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
+                },
+                {
+                    "filename": "1.53.105.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
+                },
+                {
+                    "filename": "1.53.105.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
+                },
+                {
+                    "filename": "1.53.105.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
+                },
+                {
+                    "filename": "1.53.105.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
+                },
+                {
+                    "filename": "1.53.105.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
+                },
+                {
+                    "filename": "1.53.105.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105/images/1.53.105.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "160 mm",
+                "Width on floor": "25 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.105.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_105/models/1.53.105.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.106",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-106/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.106.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
+                },
+                {
+                    "filename": "1.53.106.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
+                },
+                {
+                    "filename": "1.53.106.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
+                },
+                {
+                    "filename": "1.53.106.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
+                },
+                {
+                    "filename": "1.53.106.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
+                },
+                {
+                    "filename": "1.53.106.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
+                },
+                {
+                    "filename": "1.53.106.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
+                },
+                {
+                    "filename": "1.53.106.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
+                },
+                {
+                    "filename": "1.53.106.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106/images/1.53.106.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "70 mm",
+                "Width on floor": "17 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.106.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_106/models/1.53.106.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.107",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-107/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.107.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
+                },
+                {
+                    "filename": "1.53.107.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
+                },
+                {
+                    "filename": "1.53.107.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
+                },
+                {
+                    "filename": "1.53.107.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
+                },
+                {
+                    "filename": "1.53.107.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
+                },
+                {
+                    "filename": "1.53.107.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
+                },
+                {
+                    "filename": "1.53.107.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
+                },
+                {
+                    "filename": "1.53.107.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
+                },
+                {
+                    "filename": "1.53.107.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107/images/1.53.107.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "80 mm",
+                "Width on floor": "22 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.107.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_107/models/1.53.107.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.108",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-108/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.108.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
+                },
+                {
+                    "filename": "1.53.108.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
+                },
+                {
+                    "filename": "1.53.108.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
+                },
+                {
+                    "filename": "1.53.108.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
+                },
+                {
+                    "filename": "1.53.108.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
+                },
+                {
+                    "filename": "1.53.108.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
+                },
+                {
+                    "filename": "1.53.108.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108/images/1.53.108.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "120 mm",
+                "Width on floor": "14 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.108.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_108/models/1.53.108.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.109",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-109/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.109.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
+                },
+                {
+                    "filename": "1.53.109.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
+                },
+                {
+                    "filename": "1.53.109.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
+                },
+                {
+                    "filename": "1.53.109.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
+                },
+                {
+                    "filename": "1.53.109.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
+                },
+                {
+                    "filename": "1.53.109.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
+                },
+                {
+                    "filename": "1.53.109.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
+                },
+                {
+                    "filename": "1.53.109.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
+                },
+                {
+                    "filename": "1.53.109.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109/images/1.53.109.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "98 mm",
+                "Width on floor": "16 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.109.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_109/models/1.53.109.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.110",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-110/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.110.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
+                },
+                {
+                    "filename": "1.53.110.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
+                },
+                {
+                    "filename": "1.53.110.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
+                },
+                {
+                    "filename": "1.53.110.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
+                },
+                {
+                    "filename": "1.53.110.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110/images/1.53.110.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "138 mm",
+                "Width on floor": "19 mm",
+                "Convex bending radius": "500 mm",
+                "Concave bending radius": "500 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.110.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_110/models/1.53.110.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.111",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-111/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.111.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
+                },
+                {
+                    "filename": "1.53.111.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
+                },
+                {
+                    "filename": "1.53.111.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
+                },
+                {
+                    "filename": "1.53.111.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
+                },
+                {
+                    "filename": "1.53.111.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
+                },
+                {
+                    "filename": "1.53.111.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
+                },
+                {
+                    "filename": "1.53.111.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111/images/1.53.111.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "65 mm",
+                "Width on floor": "20 mm",
+                "Convex bending radius": "550 mm",
+                "Concave bending radius": "550 mm",
+                "Arch bending radius": "1500 mm"
+            },
+            "flexible_analog_exists": true,
+            "model": {
+                "filename": "1.53.111.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_111/models/1.53.111.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.501",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-501/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.501.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.501.100.png"
+                },
+                {
+                    "filename": "1.53.501.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.501.100.png"
+                },
+                {
+                    "filename": "1.53.501.40.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.53.501.40.png"
+                },
+                {
+                    "filename": "1.53.501.40.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_501/images/1.53.501.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/1.53.501.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "139 mm",
+                "Width on floor": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.501.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.501.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_501/models/1.53.501.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.807",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/1-53-807/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.807.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.807.100.png"
+                },
+                {
+                    "filename": "1.53.807.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.807.20.png"
+                },
+                {
+                    "filename": "1.53.807.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.807.30.png"
+                },
+                {
+                    "filename": "1.53.807.31.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.31.png"
+                },
+                {
+                    "filename": "1.53.807.32.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.32.png"
+                },
+                {
+                    "filename": "1.53.807.33.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.33.png"
+                },
+                {
+                    "filename": "1.53.807.34.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.34.png"
+                },
+                {
+                    "filename": "1.53.807.35.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.35.png"
+                },
+                {
+                    "filename": "1.53.807.36.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.36.png"
+                },
+                {
+                    "filename": "1.53.807.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.807.100.png"
+                },
+                {
+                    "filename": "1.53.807.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.807.20.png"
+                },
+                {
+                    "filename": "1.53.807.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.807.30.png"
+                },
+                {
+                    "filename": "1.53.807.31.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.31.png"
+                },
+                {
+                    "filename": "1.53.807.32.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.32.png"
+                },
+                {
+                    "filename": "1.53.807.33.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.33.png"
+                },
+                {
+                    "filename": "1.53.807.34.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.34.png"
+                },
+                {
+                    "filename": "1.53.807.35.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.35.png"
+                },
+                {
+                    "filename": "1.53.807.36.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/1.53.807.36.png"
+                },
+                {
+                    "filename": "1.53.807.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.807.41.png"
+                },
+                {
+                    "filename": "1.53.807.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_807/images/1.53.807.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.807.41.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "160 mm",
+                "Width on floor": "53 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.807.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.807.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_807/models/1.53.807.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.801",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-801/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.801.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.801.100.png"
+                },
+                {
+                    "filename": "6.53.801.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.801.20.png"
+                },
+                {
+                    "filename": "6.53.801.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.801.30.png"
+                },
+                {
+                    "filename": "6.53.801.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.31.png"
+                },
+                {
+                    "filename": "6.53.801.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.32.png"
+                },
+                {
+                    "filename": "6.53.801.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.801.100.png"
+                },
+                {
+                    "filename": "6.53.801.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.801.20.png"
+                },
+                {
+                    "filename": "6.53.801.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.801.30.png"
+                },
+                {
+                    "filename": "6.53.801.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.31.png"
+                },
+                {
+                    "filename": "6.53.801.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.801.32.png"
+                },
+                {
+                    "filename": "6.53.801.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.801.40.png"
+                },
+                {
+                    "filename": "6.53.801.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_801/images/6.53.801.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.801.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "60 mm",
+                "Width on floor": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.801.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.801.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_801/models/6.53.801.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.802",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-802/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.802.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.802.100.png"
+                },
+                {
+                    "filename": "6.53.802.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.802.20.png"
+                },
+                {
+                    "filename": "6.53.802.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.802.30.png"
+                },
+                {
+                    "filename": "6.53.802.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.31.png"
+                },
+                {
+                    "filename": "6.53.802.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.32.png"
+                },
+                {
+                    "filename": "6.53.802.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.33.png"
+                },
+                {
+                    "filename": "6.53.802.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.34.png"
+                },
+                {
+                    "filename": "6.53.802.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.35.png"
+                },
+                {
+                    "filename": "6.53.802.36.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.36.png"
+                },
+                {
+                    "filename": "6.53.802.37.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.37.png"
+                },
+                {
+                    "filename": "6.53.802.38.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.38.png"
+                },
+                {
+                    "filename": "6.53.802.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.802.100.png"
+                },
+                {
+                    "filename": "6.53.802.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.802.20.png"
+                },
+                {
+                    "filename": "6.53.802.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.802.30.png"
+                },
+                {
+                    "filename": "6.53.802.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.31.png"
+                },
+                {
+                    "filename": "6.53.802.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.32.png"
+                },
+                {
+                    "filename": "6.53.802.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.33.png"
+                },
+                {
+                    "filename": "6.53.802.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.34.png"
+                },
+                {
+                    "filename": "6.53.802.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.35.png"
+                },
+                {
+                    "filename": "6.53.802.36.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.36.png"
+                },
+                {
+                    "filename": "6.53.802.37.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.37.png"
+                },
+                {
+                    "filename": "6.53.802.38.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.802.38.png"
+                },
+                {
+                    "filename": "6.53.802.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.802.40.png"
+                },
+                {
+                    "filename": "6.53.802.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_802/images/6.53.802.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.802.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "160 mm",
+                "Width on floor": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.802.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.802.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_802/models/6.53.802.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.803",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-803/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.803.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.803.100.png"
+                },
+                {
+                    "filename": "6.53.803.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.803.20.png"
+                },
+                {
+                    "filename": "6.53.803.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.803.30.png"
+                },
+                {
+                    "filename": "6.53.803.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.31.png"
+                },
+                {
+                    "filename": "6.53.803.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.32.png"
+                },
+                {
+                    "filename": "6.53.803.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.33.png"
+                },
+                {
+                    "filename": "6.53.803.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.803.100.png"
+                },
+                {
+                    "filename": "6.53.803.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.803.20.png"
+                },
+                {
+                    "filename": "6.53.803.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.803.30.png"
+                },
+                {
+                    "filename": "6.53.803.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.31.png"
+                },
+                {
+                    "filename": "6.53.803.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.32.png"
+                },
+                {
+                    "filename": "6.53.803.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.803.33.png"
+                },
+                {
+                    "filename": "6.53.803.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.803.40.png"
+                },
+                {
+                    "filename": "6.53.803.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_803/images/6.53.803.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.803.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "100 mm",
+                "Width on floor": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.803.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.803.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_803/models/6.53.803.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.804",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-804/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.804.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.804.100.png"
+                },
+                {
+                    "filename": "6.53.804.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.804.20.png"
+                },
+                {
+                    "filename": "6.53.804.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.804.30.png"
+                },
+                {
+                    "filename": "6.53.804.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.31.png"
+                },
+                {
+                    "filename": "6.53.804.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.32.png"
+                },
+                {
+                    "filename": "6.53.804.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.33.png"
+                },
+                {
+                    "filename": "6.53.804.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.34.png"
+                },
+                {
+                    "filename": "6.53.804.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.35.png"
+                },
+                {
+                    "filename": "6.53.804.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.804.100.png"
+                },
+                {
+                    "filename": "6.53.804.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.804.20.png"
+                },
+                {
+                    "filename": "6.53.804.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.804.30.png"
+                },
+                {
+                    "filename": "6.53.804.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.31.png"
+                },
+                {
+                    "filename": "6.53.804.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.32.png"
+                },
+                {
+                    "filename": "6.53.804.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.33.png"
+                },
+                {
+                    "filename": "6.53.804.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.34.png"
+                },
+                {
+                    "filename": "6.53.804.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.804.35.png"
+                },
+                {
+                    "filename": "6.53.804.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.804.40.png"
+                },
+                {
+                    "filename": "6.53.804.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_804/images/6.53.804.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.804.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "150 mm",
+                "Width on floor": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.804.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.804.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_804/models/6.53.804.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.805",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-805/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.805.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.805.100.png"
+                },
+                {
+                    "filename": "6.53.805.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.805.20.png"
+                },
+                {
+                    "filename": "6.53.805.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.805.30.png"
+                },
+                {
+                    "filename": "6.53.805.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.805.31.png"
+                },
+                {
+                    "filename": "6.53.805.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.805.100.png"
+                },
+                {
+                    "filename": "6.53.805.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.805.20.png"
+                },
+                {
+                    "filename": "6.53.805.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.805.30.png"
+                },
+                {
+                    "filename": "6.53.805.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.805.31.png"
+                },
+                {
+                    "filename": "6.53.805.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.805.40.png"
+                },
+                {
+                    "filename": "6.53.805.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_805/images/6.53.805.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.805.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "200 mm",
+                "Width on floor": "15 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.805.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.805.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_805/models/6.53.805.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.806",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-806/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.806.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.806.100.png"
+                },
+                {
+                    "filename": "6.53.806.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.806.20.png"
+                },
+                {
+                    "filename": "6.53.806.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.806.30.png"
+                },
+                {
+                    "filename": "6.53.806.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.806.100.png"
+                },
+                {
+                    "filename": "6.53.806.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.806.20.png"
+                },
+                {
+                    "filename": "6.53.806.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.806.30.png"
+                },
+                {
+                    "filename": "6.53.806.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.806.40.png"
+                },
+                {
+                    "filename": "6.53.806.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_806/images/6.53.806.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.806.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "150 mm",
+                "Width on floor": "12 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.806.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.806.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_806/models/6.53.806.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 6.53.808",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings/6-53-808/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "6.53.808.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.808.100.png"
+                },
+                {
+                    "filename": "6.53.808.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.808.20.png"
+                },
+                {
+                    "filename": "6.53.808.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.808.30.png"
+                },
+                {
+                    "filename": "6.53.808.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.31.png"
+                },
+                {
+                    "filename": "6.53.808.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.32.png"
+                },
+                {
+                    "filename": "6.53.808.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.33.png"
+                },
+                {
+                    "filename": "6.53.808.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.34.png"
+                },
+                {
+                    "filename": "6.53.808.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.35.png"
+                },
+                {
+                    "filename": "6.53.808.36.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.36.png"
+                },
+                {
+                    "filename": "6.53.808.37.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.37.png"
+                },
+                {
+                    "filename": "6.53.808.38.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.38.png"
+                },
+                {
+                    "filename": "6.53.808.100.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/6.53.808.100.png"
+                },
+                {
+                    "filename": "6.53.808.20.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/6.53.808.20.png"
+                },
+                {
+                    "filename": "6.53.808.30.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/6.53.808.30.png"
+                },
+                {
+                    "filename": "6.53.808.31.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.31.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.31.png"
+                },
+                {
+                    "filename": "6.53.808.32.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.32.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.32.png"
+                },
+                {
+                    "filename": "6.53.808.33.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.33.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.33.png"
+                },
+                {
+                    "filename": "6.53.808.34.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.34.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.34.png"
+                },
+                {
+                    "filename": "6.53.808.35.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.35.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.35.png"
+                },
+                {
+                    "filename": "6.53.808.36.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.36.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.36.png"
+                },
+                {
+                    "filename": "6.53.808.37.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.37.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.37.png"
+                },
+                {
+                    "filename": "6.53.808.38.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.38.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/39/6.53.808.38.png"
+                },
+                {
+                    "filename": "6.53.808.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.808.40.png"
+                },
+                {
+                    "filename": "6.53.808.40.png",
+                    "local_path": "data/moulding/Floor_moulding_6_53_808/images/6.53.808.40.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/40/6.53.808.40.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "160 mm",
+                "Width on floor": "23 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "6.53.808.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/6.53.808.obj",
+                "local_path": "data/moulding/Floor_moulding_6_53_808/models/6.53.808.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.101 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-101-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.101.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
+                },
+                {
+                    "filename": "1.53.101.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
+                },
+                {
+                    "filename": "1.53.101.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
+                },
+                {
+                    "filename": "1.53.101.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.101.600.png"
+                },
+                {
+                    "filename": "1.53.101.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.101.20.png"
+                },
+                {
+                    "filename": "1.53.101.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.101.30.png"
+                },
+                {
+                    "filename": "1.53.101.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
+                },
+                {
+                    "filename": "1.53.101.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.101.41.png"
+                },
+                {
+                    "filename": "1.53.101.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/images/1.53.101.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.101.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "110 mm",
+                "Width on floor": "27 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.101.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.101.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_101_flexible_/models/1.53.101.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.102 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-102-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.102.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
+                },
+                {
+                    "filename": "1.53.102.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
+                },
+                {
+                    "filename": "1.53.102.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
+                },
+                {
+                    "filename": "1.53.102.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.102.600.png"
+                },
+                {
+                    "filename": "1.53.102.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.102.20.png"
+                },
+                {
+                    "filename": "1.53.102.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.102.30.png"
+                },
+                {
+                    "filename": "1.53.102.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
+                },
+                {
+                    "filename": "1.53.102.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.102.41.png"
+                },
+                {
+                    "filename": "1.53.102.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/images/1.53.102.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.102.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "150 mm",
+                "Width on floor": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.102.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.102.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_102_flexible_/models/1.53.102.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.103 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-103-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.103.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
+                },
+                {
+                    "filename": "1.53.103.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
+                },
+                {
+                    "filename": "1.53.103.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
+                },
+                {
+                    "filename": "1.53.103.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.103.600.png"
+                },
+                {
+                    "filename": "1.53.103.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.103.20.png"
+                },
+                {
+                    "filename": "1.53.103.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.103.30.png"
+                },
+                {
+                    "filename": "1.53.103.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
+                },
+                {
+                    "filename": "1.53.103.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.103.41.png"
+                },
+                {
+                    "filename": "1.53.103.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/images/1.53.103.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.103.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "109 mm",
+                "Width on floor": "14 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.103.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.103.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_103_flexible_/models/1.53.103.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.104 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-104-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.104.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
+                },
+                {
+                    "filename": "1.53.104.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
+                },
+                {
+                    "filename": "1.53.104.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
+                },
+                {
+                    "filename": "1.53.104.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.104.600.png"
+                },
+                {
+                    "filename": "1.53.104.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.104.20.png"
+                },
+                {
+                    "filename": "1.53.104.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.104.30.png"
+                },
+                {
+                    "filename": "1.53.104.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
+                },
+                {
+                    "filename": "1.53.104.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.104.41.png"
+                },
+                {
+                    "filename": "1.53.104.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/images/1.53.104.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.104.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "120 mm",
+                "Width on floor": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.104.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.104.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_104_flexible_/models/1.53.104.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.105 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-105-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.105.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
+                },
+                {
+                    "filename": "1.53.105.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
+                },
+                {
+                    "filename": "1.53.105.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
+                },
+                {
+                    "filename": "1.53.105.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.105.600.png"
+                },
+                {
+                    "filename": "1.53.105.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.105.20.png"
+                },
+                {
+                    "filename": "1.53.105.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.105.30.png"
+                },
+                {
+                    "filename": "1.53.105.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
+                },
+                {
+                    "filename": "1.53.105.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.105.41.png"
+                },
+                {
+                    "filename": "1.53.105.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/images/1.53.105.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.105.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "160 mm",
+                "Width on floor": "25 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.105.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.105.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_105_flexible_/models/1.53.105.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.106 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-106-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.106.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
+                },
+                {
+                    "filename": "1.53.106.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
+                },
+                {
+                    "filename": "1.53.106.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
+                },
+                {
+                    "filename": "1.53.106.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.106.600.png"
+                },
+                {
+                    "filename": "1.53.106.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.106.20.png"
+                },
+                {
+                    "filename": "1.53.106.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.106.30.png"
+                },
+                {
+                    "filename": "1.53.106.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
+                },
+                {
+                    "filename": "1.53.106.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.106.41.png"
+                },
+                {
+                    "filename": "1.53.106.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/images/1.53.106.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.106.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "70 mm",
+                "Width on floor": "17 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.106.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.106.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_106_flexible_/models/1.53.106.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.107 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-107-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.107.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
+                },
+                {
+                    "filename": "1.53.107.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
+                },
+                {
+                    "filename": "1.53.107.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
+                },
+                {
+                    "filename": "1.53.107.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.107.600.png"
+                },
+                {
+                    "filename": "1.53.107.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.107.20.png"
+                },
+                {
+                    "filename": "1.53.107.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.107.30.png"
+                },
+                {
+                    "filename": "1.53.107.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
+                },
+                {
+                    "filename": "1.53.107.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.107.41.png"
+                },
+                {
+                    "filename": "1.53.107.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/images/1.53.107.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.107.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "80 mm",
+                "Width on floor": "22 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.107.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.107.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_107_flexible_/models/1.53.107.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.108 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-108-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.108.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
+                },
+                {
+                    "filename": "1.53.108.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
+                },
+                {
+                    "filename": "1.53.108.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.108.600.png"
+                },
+                {
+                    "filename": "1.53.108.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.108.20.png"
+                },
+                {
+                    "filename": "1.53.108.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
+                },
+                {
+                    "filename": "1.53.108.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.108.41.png"
+                },
+                {
+                    "filename": "1.53.108.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/images/1.53.108.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.108.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "120 mm",
+                "Width on floor": "14 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.108.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.108.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_108_flexible_/models/1.53.108.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.109 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-109-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.109.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
+                },
+                {
+                    "filename": "1.53.109.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
+                },
+                {
+                    "filename": "1.53.109.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
+                },
+                {
+                    "filename": "1.53.109.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.109.600.png"
+                },
+                {
+                    "filename": "1.53.109.20.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.20.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/20/1.53.109.20.png"
+                },
+                {
+                    "filename": "1.53.109.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.109.30.png"
+                },
+                {
+                    "filename": "1.53.109.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
+                },
+                {
+                    "filename": "1.53.109.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.109.41.png"
+                },
+                {
+                    "filename": "1.53.109.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/images/1.53.109.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.109.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "98 mm",
+                "Width on floor": "16 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.109.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.109.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_109_flexible_/models/1.53.109.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.110 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-110-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.110.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
+                },
+                {
+                    "filename": "1.53.110.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.110.600.png"
+                },
+                {
+                    "filename": "1.53.110.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
+                },
+                {
+                    "filename": "1.53.110.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.110.41.png"
+                },
+                {
+                    "filename": "1.53.110.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/images/1.53.110.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.110.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "138 mm",
+                "Width on floor": "19 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.110.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.110.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_110_flexible_/models/1.53.110.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        },
+        {
+            "name": "Grindu Apvadas 1.53.111 (flexible)",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/floor-mouldings-flexible/1-53-111-f/",
+            "code": null,
+            "category": "grindjuostes",
+            "images": [
+                {
+                    "filename": "1.53.111.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
+                },
+                {
+                    "filename": "1.53.111.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
+                },
+                {
+                    "filename": "1.53.111.600.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.600.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/600/1.53.111.600.png"
+                },
+                {
+                    "filename": "1.53.111.30.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.30.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/30/1.53.111.30.png"
+                },
+                {
+                    "filename": "1.53.111.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
+                },
+                {
+                    "filename": "1.53.111.41.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.41.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/41/1.53.111.41.png"
+                },
+                {
+                    "filename": "1.53.111.100.png",
+                    "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/images/1.53.111.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.53.111.100.png"
+                }
+            ],
+            "details": {
+                "Work piece length": "2000 mm",
+                "The height on the wall": "65 mm",
+                "Width on floor": "20 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.53.111.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.53.111.obj",
+                "local_path": "data/moulding/Floor_moulding_1_53_111_flexible_/models/1.53.111.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment"
+        }
+    ]
+}
