@@ -3,7 +3,7 @@
         {
             "name": "Flat post cap 4.73.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-101/",
-            "code": null,
+            "code": "4.73.101",
             "category": "postcap",
             "images": [
                 {
@@ -40,12 +40,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 39.78,
+            "price_gbp": "34.29",
+            "reviews": []
         },
         {
             "name": "Flat post cap 4.73.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/post-cap-balustrades/4-73-201/",
-            "code": null,
+            "code": "4.73.201",
             "category": "postcap",
             "images": [
                 {
@@ -82,7 +84,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 36.46,
+            "price_gbp": "31.43",
+            "reviews": []
         }
     ]
 }

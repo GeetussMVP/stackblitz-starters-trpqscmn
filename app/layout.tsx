@@ -10,7 +10,7 @@ import "@mantine/carousel/styles.css";
 import { AuthProvider } from "./contexts/AuthContext";
 import { BusinessAuthProvider } from "./contexts/BusinessAuthContext";
 import { CartProvider } from "./contexts/CartContext";
-import SmoothScroll from "./components/SmoothScroll/SmoothScroll"; // 👈 ADD THIS
+import SmoothScroll from "./components/SmoothScroll/SmoothScroll";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -27,9 +27,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Lietuvos gipsas – Interjero dekoratoriai",
+  title: "Interjero ir Fasado Dekoratoriai – Interjero dekoratoriai",
   description:
-    "Lietuvos gipsas – profesionalūs interjero dekoratoriai, siūlome aukštos kokybės gipso sprendimus jūsų namams ir verslui.",
+    "Interjero ir Fasado Dekoratoriai – profesionalūs interjero dekoratoriai, siūlome aukštos kokybės gipso sprendimus jūsų namams ir verslui.",
   icons: "/favicon.ico",
 };
 
@@ -39,9 +39,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="lt" className={inter.variable}>
-      <body className="font-inter antialiased relative min-h-screen flex flex-col">
-        <SmoothScroll /> {/* ✅ SMOOTH SCROLL EVERYWHERE */}
+    <html lang="lt">
+      <body className={`${inter.variable} font-inter antialiased relative min-h-screen flex flex-col`}>
+        <SmoothScroll />
 
         <AuthProvider>
           <BusinessAuthProvider>

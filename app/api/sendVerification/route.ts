@@ -51,7 +51,7 @@ export async function POST(req: Request) {
             </a>
           </p>
           <p>Jei nesikreipėte dėl paskyros kūrimo — ignoruokite šį laišką.</p>
-          <p style="margin-top:30px;">Pagarbiai,<br><b>Lietuvos Gipsas</b></p>
+          <p style="margin-top:30px;">Pagarbiai,<br><b>Interjero ir Fasado Dekoratoriai</b></p>
         </div>
       `,
     });

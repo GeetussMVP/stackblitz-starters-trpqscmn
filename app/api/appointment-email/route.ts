@@ -160,7 +160,7 @@ export default async function handler(
               </div>
               
               <div class="footer">
-                <p>Su pagarba,<br/>Lietuvos Gipsas Komanda</p>
+                <p>Su pagarba,<br/>Interjero ir Fasado Dekoratoriai Komanda</p>
               </div>
             </div>
           </div>

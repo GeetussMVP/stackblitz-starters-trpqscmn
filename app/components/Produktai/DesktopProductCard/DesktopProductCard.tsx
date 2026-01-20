@@ -30,11 +30,16 @@ const DesktopCard: React.FC<DesktopCardProps> = ({
   const close3DViewer = () => setShow3DViewer(false);
 
   const handleMoreInfo = () => {
-    
-    if (product.url && product.code) {
+    if (product.code && product.category) {
+      // Convert dots to dashes in the product code for URL
+      const urlFriendlyCode = product.code.replace(/\./g, '-');
+      const productUrl = `/produktai/${product.category}/${urlFriendlyCode}`;
+      router.push(productUrl);
+    } else if (product.url) {
+      // Fallback to product.url if available
       router.push(product.url);
     } else {
-      console.warn("Product missing URL or code - using expand fallback");
+      console.warn("Product missing code/category or URL - using expand fallback");
       onToggleExpand();
     }
   };

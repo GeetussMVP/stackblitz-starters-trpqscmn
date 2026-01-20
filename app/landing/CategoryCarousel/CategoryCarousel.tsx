@@ -41,8 +41,8 @@ const CategoryCarousel = () => {
     },
     {
       title: "sienu Plokštės",
-      image: "/images/landing/sienu-plokstes.webp",
-      href: "/produktai/sienu-plokstes",
+      image: "/images/landing/sienu-paneles.webp",
+      href: "/produktai/sienu-paneles",
     },
     {
       title: "Statulėlės",

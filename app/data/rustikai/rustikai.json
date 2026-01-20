@@ -1,0 +1,169 @@
+{
+    "products": [
+        {
+            "name": "Bossage 4.86.001",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-001/",
+            "code": "4.86.001",
+            "category": "rustikos",
+            "images": [
+                {
+                    "filename": "4.86.001.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_001/images/4.86.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.001.100.png"
+                },
+                {
+                    "filename": "4.86.001.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_001/images/4.86.001.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.001.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "555 mm",
+                "Aukštis": "290 mm",
+                "Storis": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.86.001.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.001.obj",
+                "local_path": "data/bossage/Bossage_4_86_001/models/4.86.001.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "41.14",
+            "price": 47.72,
+            "reviews": []
+        },
+        {
+            "name": "Bossage 4.86.002",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-002/",
+            "code": "4.86.002",
+            "category": "rustikos",
+            "images": [
+                {
+                    "filename": "4.86.002.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_002/images/4.86.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.002.100.png"
+                },
+                {
+                    "filename": "4.86.002.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_002/images/4.86.002.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.002.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "548 mm",
+                "Aukštis": "216 mm",
+                "Storis": "37 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.86.002.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.002.obj",
+                "local_path": "data/bossage/Bossage_4_86_002/models/4.86.002.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "28.80",
+            "price": 33.41,
+            "reviews": []
+        },
+        {
+            "name": "Bossage 4.86.003",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-003/",
+            "code": "4.86.003",
+            "category": "rustikos",
+            "images": [
+                {
+                    "filename": "4.86.003.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_003/images/4.86.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.003.100.png"
+                },
+                {
+                    "filename": "4.86.003.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_003/images/4.86.003.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.003.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "373 mm",
+                "Aukštis": "249 mm",
+                "Storis": "40 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.86.003.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.003.obj",
+                "local_path": "data/bossage/Bossage_4_86_003/models/4.86.003.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "25.14",
+            "price": 29.16,
+            "reviews": []
+        },
+        {
+            "name": "Bossage 4.86.004",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-004/",
+            "code": "4.86.004",
+            "category": "rustikos",
+            "images": [
+                {
+                    "filename": "4.86.004.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_004/images/4.86.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.004.100.png"
+                },
+                {
+                    "filename": "4.86.004.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_004/images/4.86.004.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.004.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "250 mm",
+                "Aukštis": "250 mm",
+                "Storis": "40 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.86.004.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.004.obj",
+                "local_path": "data/bossage/Bossage_4_86_004/models/4.86.004.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "18.29",
+            "price": 21.22,
+            "reviews": []
+        },
+        {
+            "name": "Bossage 4.86.005",
+            "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-005/",
+            "code": "4.86.005",
+            "category": "rustikos",
+            "images": [
+                {
+                    "filename": "4.86.005.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_005/images/4.86.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.005.100.png"
+                },
+                {
+                    "filename": "4.86.005.100.png",
+                    "local_path": "data/bossage/Bossage_4_86_005/images/4.86.005.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/4.86.005.100.png"
+                }
+            ],
+            "details": {
+                "Plotis": "360 mm",
+                "Aukštis": "290 mm",
+                "Storis": "42 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "4.86.005.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/4.86.005.obj",
+                "local_path": "data/bossage/Bossage_4_86_005/models/4.86.005.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "29.26",
+            "price": 33.94,
+            "reviews": []
+        }
+    ]
+}

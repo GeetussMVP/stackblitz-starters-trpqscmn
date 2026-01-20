@@ -1,23 +1,62 @@
-"use client";
+import { LubiniaiApvadaiTemplate } from '../../lubu-apvadai/LubiniaiApvadaiTemplate/template';
 
-import React from "react";
-import MainContent from "@/app/components/Produktai/MainContent/MainContent";
-import type { PageData } from "@/app/components/Produktai/Types/types";
+export { generateMetadata } from './meta';
 
-const PageData: PageData = {
-  title: "Sienų apvadai",
-  dataFile: "sienu-apvadai/sienu-apvadai.json",
-  baseUrl: "/produktai/sienu-apvadai",
-  R2FolderName: "sienu-apvadai",
-  FilterPanelCategories: ["Kaina", "Medžiaga", "Stilius"],
-  imageSuffixes: ["100", "20", "30", "40", "600"],
-  maxImages: 2,
+const productData = require('@/app/data/tinkas-ir-glaistai/tinkas-ir-glaistai.json').products;
+
+const getProduct = async (productCode: string) => {
+  return productData.find((product: any) =>
+    product.code === productCode
+  );
 };
 
-export default function SienuApvadaiPage() {
+const getStructuredData = (product: any) => {
+  const canonicalUrl = `https://www.dekoratoriai.lt/produktai/tinkas-ir-glaistai/${product.code}`;
+  const description = `${product.name} - Premium interior decoration product with high-quality gypsum molding.`;
+
+  const productSchema = {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    name: product.name,
+    description,
+    image: product.images[0]?.url || '',
+    url: canonicalUrl,
+    brand: {
+      "@type": "Brand",
+      name: "Interjero ir Fasado Dekoratoriai"
+    },
+    sku: product.code,
+    mpn: product.code,
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "EUR",
+      availability: "https://schema.org/InStock"
+    }
+  };
+
+  return [productSchema];
+};
+
+export default async function Page() {
+  const product = await getProduct('sienu-apvadai');
+
+  if (!product) {
+    return <div>Product not found</div>;
+  }
+
+  const structuredData = getStructuredData(product);
+
   return (
-    <div className="w-full min-h-screen">
-      <MainContent PageData={PageData} />
-    </div>
+    <>
+      {structuredData.map((schema, i) => (
+        <script
+          key={i}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
+      <LubiniaiApvadaiTemplate product={product} />
+    </>
   );
 }

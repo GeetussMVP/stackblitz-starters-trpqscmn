@@ -3,7 +3,7 @@
         {
             "name": "Niche 0-1.61.101-1.61.110",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-101-1-61-110/",
-            "code": null,
+            "code": "0-1.61.101-1.61.110",
             "category": "nisos",
             "images": [
                 {
@@ -21,12 +21,13 @@
             "model": null,
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Niche 0-1.61.102-1.61.120",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/niches/0-1-61-102-1-61-120/",
-            "code": null,
+            "code": "0-1.61.102-1.61.120",
             "category": "nisos",
             "images": [
                 {
@@ -44,7 +45,8 @@
             "model": null,
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         }
     ]
 }

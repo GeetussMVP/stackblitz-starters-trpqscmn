@@ -3,7 +3,7 @@
         {
             "name": "Platband 1.54.003",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-003/",
-            "code": null,
+            "code": "1.54.003",
             "category": "platband",
             "images": [
                 {
@@ -30,12 +30,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 26.66,
+            "price_gbp": "22.98",
+            "reviews": []
         },
         {
             "name": "Platband 1.54.004",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-004/",
-            "code": null,
+            "code": "1.54.004",
             "category": "platband",
             "images": [
                 {
@@ -62,12 +64,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 44.75,
+            "price_gbp": "38.58",
+            "reviews": []
         },
         {
             "name": "Platband 1.54.014",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-014/",
-            "code": null,
+            "code": "1.54.014",
             "category": "platband",
             "images": [
                 {
@@ -94,12 +98,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 53.39,
+            "price_gbp": "46.03",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-001/",
-            "code": null,
+            "code": "4.84.001",
             "category": "platband",
             "images": [
                 {
@@ -135,12 +141,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 70.13,
+            "price_gbp": "60.46",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-002/",
-            "code": null,
+            "code": "4.84.002",
             "category": "platband",
             "images": [
                 {
@@ -176,12 +184,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 56.41,
+            "price_gbp": "48.63",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.003",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-003/",
-            "code": null,
+            "code": "4.84.003",
             "category": "platband",
             "images": [
                 {
@@ -207,12 +217,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 50.31,
+            "price_gbp": "43.37",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.004",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-004/",
-            "code": null,
+            "code": "4.84.004",
             "category": "platband",
             "images": [
                 {
@@ -238,12 +250,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 39.64,
+            "price_gbp": "34.17",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.005",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-005/",
-            "code": null,
+            "code": "4.84.005",
             "category": "platband",
             "images": [
                 {
@@ -269,12 +283,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 36.59,
+            "price_gbp": "31.54",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.006",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-006/",
-            "code": null,
+            "code": "4.84.006",
             "category": "platband",
             "images": [
                 {
@@ -300,12 +316,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 60.98,
+            "price_gbp": "52.57",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.051",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-051/",
-            "code": null,
+            "code": "4.84.051",
             "category": "platband",
             "images": [
                 {
@@ -331,12 +349,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 79.27,
+            "price_gbp": "68.34",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.052",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-052/",
-            "code": null,
+            "code": "4.84.052",
             "category": "platband",
             "images": [
                 {
@@ -362,12 +382,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 48.79,
+            "price_gbp": "42.06",
+            "reviews": []
         },
         {
             "name": "Platband 4.84.053",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/architrave-window-framing/4-84-053/",
-            "code": null,
+            "code": "4.84.053",
             "category": "platband",
             "images": [
                 {
@@ -393,7 +415,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 45.74,
+            "price_gbp": "39.43",
+            "reviews": []
         }
     ]
 }

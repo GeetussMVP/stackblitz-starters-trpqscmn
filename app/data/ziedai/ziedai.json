@@ -1,0 +1,205 @@
+{
+    "products": [
+        {
+            "name": "Ring 1.11.100",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-100/",
+            "code": "1.11.100",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.11.100.10.png",
+                    "local_path": "data/ring/Ring_1_11_100/images/1.11.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.100.10.png"
+                },
+                {
+                    "filename": "1.11.100.10.png",
+                    "local_path": "data/ring/Ring_1_11_100/images/1.11.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.100.10.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "279 mm",
+                "Plotis": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.100.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.100.obj",
+                "local_path": "data/ring/Ring_1_11_100/models/1.11.100.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 5.77,
+            "price_gbp": "4.97",
+            "reviews": []
+        },
+        {
+            "name": "Ring 1.11.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-200/",
+            "code": "1.11.200",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.11.200.10.png",
+                    "local_path": "data/ring/Ring_1_11_200/images/1.11.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.200.10.png"
+                },
+                {
+                    "filename": "1.11.200.10.png",
+                    "local_path": "data/ring/Ring_1_11_200/images/1.11.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.200.10.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "279 mm",
+                "Plotis": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.200.obj",
+                "local_path": "data/ring/Ring_1_11_200/models/1.11.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 5.77,
+            "price_gbp": "4.97",
+            "reviews": []
+        },
+        {
+            "name": "Ring 1.11.300",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-11-300/",
+            "code": "1.11.300",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.11.300.10.png",
+                    "local_path": "data/ring/Ring_1_11_300/images/1.11.300.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.300.10.png"
+                },
+                {
+                    "filename": "1.11.300.10.png",
+                    "local_path": "data/ring/Ring_1_11_300/images/1.11.300.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.11.300.10.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "297 mm",
+                "Plotis": "44 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.11.300.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.11.300.obj",
+                "local_path": "data/ring/Ring_1_11_300/models/1.11.300.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 8.42,
+            "price_gbp": "7.26",
+            "reviews": []
+        },
+        {
+            "name": "Ring 1.15.100",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-100/",
+            "code": "1.15.100",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.15.100.10.png",
+                    "local_path": "data/ring/Ring_1_15_100/images/1.15.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.100.10.png"
+                },
+                {
+                    "filename": "1.15.100.10.png",
+                    "local_path": "data/ring/Ring_1_15_100/images/1.15.100.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.100.10.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "279 mm",
+                "Ilgis": "138 mm",
+                "Plotis": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.100.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.100.obj",
+                "local_path": "data/ring/Ring_1_15_100/models/1.15.100.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 2.9,
+            "price_gbp": "2.50",
+            "reviews": []
+        },
+        {
+            "name": "Ring 1.15.200",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-200/",
+            "code": "1.15.200",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.15.200.10.png",
+                    "local_path": "data/ring/Ring_1_15_200/images/1.15.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.200.10.png"
+                },
+                {
+                    "filename": "1.15.200.10.png",
+                    "local_path": "data/ring/Ring_1_15_200/images/1.15.200.10.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/10/1.15.200.10.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "279 mm",
+                "Ilgis": "138 mm",
+                "Plotis": "26 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.200.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.200.obj",
+                "local_path": "data/ring/Ring_1_15_200/models/1.15.200.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 2.9,
+            "price_gbp": "2.50",
+            "reviews": []
+        },
+        {
+            "name": "Ring 1.15.300",
+            "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-15-300/",
+            "code": "1.15.300",
+            "category": "ziedai",
+            "images": [
+                {
+                    "filename": "1.15.300.100.png",
+                    "local_path": "data/ring/Ring_1_15_300/images/1.15.300.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.15.300.100.png"
+                },
+                {
+                    "filename": "1.15.300.100.png",
+                    "local_path": "data/ring/Ring_1_15_300/images/1.15.300.100.png",
+                    "url": "https://gaudidecor.eu/cron/catalog/data/images/100/1.15.300.100.png"
+                }
+            ],
+            "details": {
+                "Skersmuo": "297 mm",
+                "Ilgis": "147 mm",
+                "Plotis": "45 mm"
+            },
+            "flexible_analog_exists": false,
+            "model": {
+                "filename": "1.15.300.obj",
+                "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.15.300.obj",
+                "local_path": "data/ring/Ring_1_15_300/models/1.15.300.obj"
+            },
+            "mounting_instructions": "There is no instruction at the moment",
+            "sudetis": "Poliuretanas",
+            "price": 4.29,
+            "price_gbp": "3.70",
+            "reviews": []
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow admin/auth pages
+Disallow: /api/
+Disallow: /prisijungti
+Disallow: /verify
+Disallow: /verslo-registracija
+Disallow: /krepselis
+
+# Disallow internal/development files
+Disallow: /vilnius/
+
+# Sitemap location
+Sitemap: https://www.dekoratoriai.lt/sitemap.xml

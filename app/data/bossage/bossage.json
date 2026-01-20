@@ -3,7 +3,7 @@
         {
             "name": "Bossage 4.86.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-001/",
-            "code": null,
+            "code": "4.86.001",
             "category": "rustika",
             "images": [
                 {
@@ -30,12 +30,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 47.72,
+            "price_gbp": "41.14",
+            "reviews": []
         },
         {
             "name": "Bossage 4.86.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-002/",
-            "code": null,
+            "code": "4.86.002",
             "category": "rustika",
             "images": [
                 {
@@ -62,12 +64,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.41,
+            "price_gbp": "28.80",
+            "reviews": []
         },
         {
             "name": "Bossage 4.86.003",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-003/",
-            "code": null,
+            "code": "4.86.003",
             "category": "rustika",
             "images": [
                 {
@@ -94,12 +98,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.16,
+            "price_gbp": "25.14",
+            "reviews": []
         },
         {
             "name": "Bossage 4.86.004",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-004/",
-            "code": null,
+            "code": "4.86.004",
             "category": "rustika",
             "images": [
                 {
@@ -126,12 +132,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 21.22,
+            "price_gbp": "18.29",
+            "reviews": []
         },
         {
             "name": "Bossage 4.86.005",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/bossages-facade/4-86-005/",
-            "code": null,
+            "code": "4.86.005",
             "category": "rustika",
             "images": [
                 {
@@ -158,7 +166,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.94,
+            "price_gbp": "29.26",
+            "reviews": []
         }
     ]
 }

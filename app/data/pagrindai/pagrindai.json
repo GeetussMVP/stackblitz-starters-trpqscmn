@@ -3,7 +3,7 @@
         {
             "name": "Base 1.13.100",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-100/",
-            "code": null,
+            "code": "1.13.100",
             "category": "pagrindai",
             "images": [
                 {
@@ -30,12 +30,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 247.56,
+            "price_gbp": "213.41",
+            "reviews": []
         },
         {
             "name": "Base 1.13.200",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-200/",
-            "code": null,
+            "code": "1.13.200",
             "category": "pagrindai",
             "images": [
                 {
@@ -62,12 +64,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 122.93,
+            "price_gbp": "105.97",
+            "reviews": []
         },
         {
             "name": "Base 1.13.500",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-500/",
-            "code": null,
+            "code": "1.13.500",
             "category": "pagrindai",
             "images": [
                 {
@@ -94,12 +98,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 95.41,
+            "price_gbp": "82.25",
+            "reviews": []
         },
         {
             "name": "Base 1.13.700",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-700/",
-            "code": null,
+            "code": "1.13.700",
             "category": "pagrindai",
             "images": [
                 {
@@ -126,12 +132,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 83.44,
+            "price_gbp": "71.93",
+            "reviews": []
         },
         {
             "name": "Base 1.13.900",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-13-900/",
-            "code": null,
+            "code": "1.13.900",
             "category": "pagrindai",
             "images": [
                 {
@@ -158,12 +166,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 85.11,
+            "price_gbp": "73.37",
+            "reviews": []
         },
         {
             "name": "Base 1.17.100",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-100/",
-            "code": null,
+            "code": "1.17.100",
             "category": "pagrindai",
             "images": [
                 {
@@ -190,12 +200,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 110.06,
+            "price_gbp": "94.88",
+            "reviews": []
         },
         {
             "name": "Base 1.17.200",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-200/",
-            "code": null,
+            "code": "1.17.200",
             "category": "pagrindai",
             "images": [
                 {
@@ -222,12 +234,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 47.7,
+            "price_gbp": "41.12",
+            "reviews": []
         },
         {
             "name": "Base 1.17.500",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-500/",
-            "code": null,
+            "code": "1.17.500",
             "category": "pagrindai",
             "images": [
                 {
@@ -254,12 +268,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 42.79,
+            "price_gbp": "36.89",
+            "reviews": []
         },
         {
             "name": "Base 1.17.600",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-600/",
-            "code": null,
+            "code": "1.17.600",
             "category": "pagrindai",
             "images": [
                 {
@@ -286,12 +302,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 80.24,
+            "price_gbp": "69.17",
+            "reviews": []
         },
         {
             "name": "Base 1.17.700",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-700/",
-            "code": null,
+            "code": "1.17.700",
             "category": "pagrindai",
             "images": [
                 {
@@ -318,12 +336,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 41.7,
+            "price_gbp": "35.95",
+            "reviews": []
         },
         {
             "name": "Base 1.17.900",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-17-900/",
-            "code": null,
+            "code": "1.17.900",
             "category": "pagrindai",
             "images": [
                 {
@@ -350,12 +370,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 42.58,
+            "price_gbp": "36.71",
+            "reviews": []
         },
         {
             "name": "Base 1.23.100",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-100/",
-            "code": null,
+            "code": "1.23.100",
             "category": "pagrindai",
             "images": [
                 {
@@ -382,12 +404,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 39.32,
+            "price_gbp": "33.90",
+            "reviews": []
         },
         {
             "name": "Base 1.23.200",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-200/",
-            "code": null,
+            "code": "1.23.200",
             "category": "pagrindai",
             "images": [
                 {
@@ -414,12 +438,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 56.27,
+            "price_gbp": "48.51",
+            "reviews": []
         },
         {
             "name": "Base 1.23.300",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-300/",
-            "code": null,
+            "code": "1.23.300",
             "category": "pagrindai",
             "images": [
                 {
@@ -446,12 +472,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 44.34,
+            "price_gbp": "38.22",
+            "reviews": []
         },
         {
             "name": "Base 1.23.400",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-400/",
-            "code": null,
+            "code": "1.23.400",
             "category": "pagrindai",
             "images": [
                 {
@@ -478,12 +506,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 60.06,
+            "price_gbp": "51.78",
+            "reviews": []
         },
         {
             "name": "Base 1.23.500",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-500/",
-            "code": null,
+            "code": "1.23.500",
             "category": "pagrindai",
             "images": [
                 {
@@ -510,12 +540,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 43.12,
+            "price_gbp": "37.17",
+            "reviews": []
         },
         {
             "name": "Base 1.23.600",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/composed-elements/1-23-600/",
-            "code": null,
+            "code": "1.23.600",
             "category": "pagrindai",
             "images": [
                 {
@@ -542,12 +574,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 32.5,
+            "price_gbp": "28.02",
+            "reviews": []
         },
         {
             "name": "Base 1.54.010",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-010/",
-            "code": null,
+            "code": "1.54.010",
             "category": "pagrindai",
             "images": [
                 {
@@ -573,12 +607,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 18.49,
+            "price_gbp": "15.94",
+            "reviews": []
         },
         {
             "name": "Base 1.54.030",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-030/",
-            "code": null,
+            "code": "1.54.030",
             "category": "pagrindai",
             "images": [
                 {
@@ -604,12 +640,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.3,
+            "price_gbp": "14.91",
+            "reviews": []
         },
         {
             "name": "Base 1.54.030",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-030-2/",
-            "code": null,
+            "code": "1.54.030",
             "category": "pagrindai",
             "images": [
                 {
@@ -635,12 +673,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.3,
+            "price_gbp": "14.91",
+            "reviews": []
         },
         {
             "name": "Base 1.54.040",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-040/",
-            "code": null,
+            "code": "1.54.040",
             "category": "pagrindai",
             "images": [
                 {
@@ -666,12 +706,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.040",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-040-2/",
-            "code": null,
+            "code": "1.54.040",
             "category": "pagrindai",
             "images": [
                 {
@@ -697,12 +738,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.050",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-050/",
-            "code": null,
+            "code": "1.54.050",
             "category": "pagrindai",
             "images": [
                 {
@@ -724,12 +766,13 @@
             "model": null,
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.050",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-050-2/",
-            "code": null,
+            "code": "1.54.050",
             "category": "pagrindai",
             "images": [
                 {
@@ -751,12 +794,13 @@
             "model": null,
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.060",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-060/",
-            "code": null,
+            "code": "1.54.060",
             "category": "pagrindai",
             "images": [
                 {
@@ -782,12 +826,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.060",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-060-2/",
-            "code": null,
+            "code": "1.54.060",
             "category": "pagrindai",
             "images": [
                 {
@@ -813,12 +858,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.070",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/arch-frames/1-54-070/",
-            "code": null,
+            "code": "1.54.070",
             "category": "pagrindai",
             "images": [
                 {
@@ -844,12 +890,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 1.54.070",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/door-frames/1-54-070-2/",
-            "code": null,
+            "code": "1.54.070",
             "category": "pagrindai",
             "images": [
                 {
@@ -875,12 +922,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Base 4.13.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-001/",
-            "code": null,
+            "code": "4.13.001",
             "category": "pagrindai",
             "images": [
                 {
@@ -907,12 +955,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 164.38,
+            "price_gbp": "141.71",
+            "reviews": []
         },
         {
             "name": "Base 4.13.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-002/",
-            "code": null,
+            "code": "4.13.002",
             "category": "pagrindai",
             "images": [
                 {
@@ -939,12 +989,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 201.5,
+            "price_gbp": "173.71",
+            "reviews": []
         },
         {
             "name": "Base 4.13.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-101/",
-            "code": null,
+            "code": "4.13.101",
             "category": "pagrindai",
             "images": [
                 {
@@ -971,12 +1023,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 148.48,
+            "price_gbp": "128.00",
+            "reviews": []
         },
         {
             "name": "Base 4.13.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-201/",
-            "code": null,
+            "code": "4.13.201",
             "category": "pagrindai",
             "images": [
                 {
@@ -1003,12 +1057,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 148.48,
+            "price_gbp": "128.00",
+            "reviews": []
         },
         {
             "name": "Base 4.13.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-202/",
-            "code": null,
+            "code": "4.13.202",
             "category": "pagrindai",
             "images": [
                 {
@@ -1035,12 +1091,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 106.06,
+            "price_gbp": "91.43",
+            "reviews": []
         },
         {
             "name": "Base 4.13.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-301/",
-            "code": null,
+            "code": "4.13.301",
             "category": "pagrindai",
             "images": [
                 {
@@ -1067,12 +1125,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 79.54,
+            "price_gbp": "68.57",
+            "reviews": []
         },
         {
             "name": "Base 4.13.302",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-13-302/",
-            "code": null,
+            "code": "4.13.302",
             "category": "pagrindai",
             "images": [
                 {
@@ -1099,12 +1159,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 148.48,
+            "price_gbp": "128.00",
+            "reviews": []
         },
         {
             "name": "Base 4.17.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-001/",
-            "code": null,
+            "code": "4.17.001",
             "category": "pagrindai",
             "images": [
                 {
@@ -1131,12 +1193,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 82.2,
+            "price_gbp": "70.86",
+            "reviews": []
         },
         {
             "name": "Base 4.17.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-002/",
-            "code": null,
+            "code": "4.17.002",
             "category": "pagrindai",
             "images": [
                 {
@@ -1163,12 +1227,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 100.76,
+            "price_gbp": "86.86",
+            "reviews": []
         },
         {
             "name": "Base 4.17.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-101/",
-            "code": null,
+            "code": "4.17.101",
             "category": "pagrindai",
             "images": [
                 {
@@ -1195,12 +1261,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 58.34,
+            "price_gbp": "50.29",
+            "reviews": []
         },
         {
             "name": "Base 4.17.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-201/",
-            "code": null,
+            "code": "4.17.201",
             "category": "pagrindai",
             "images": [
                 {
@@ -1227,12 +1295,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 58.34,
+            "price_gbp": "50.29",
+            "reviews": []
         },
         {
             "name": "Base 4.17.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-202/",
-            "code": null,
+            "code": "4.17.202",
             "category": "pagrindai",
             "images": [
                 {
@@ -1259,12 +1329,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 53.02,
+            "price_gbp": "45.71",
+            "reviews": []
         },
         {
             "name": "Base 4.17.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-301/",
-            "code": null,
+            "code": "4.17.301",
             "category": "pagrindai",
             "images": [
                 {
@@ -1291,12 +1363,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 49.72,
+            "price_gbp": "42.86",
+            "reviews": []
         },
         {
             "name": "Base 4.17.302",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-17-302/",
-            "code": null,
+            "code": "4.17.302",
             "category": "pagrindai",
             "images": [
                 {
@@ -1323,12 +1397,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 46.4,
+            "price_gbp": "40.00",
+            "reviews": []
         },
         {
             "name": "Base 4.23.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-101/",
-            "code": null,
+            "code": "4.23.101",
             "category": "pagrindai",
             "images": [
                 {
@@ -1355,12 +1431,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 46.4,
+            "price_gbp": "40.00",
+            "reviews": []
         },
         {
             "name": "Base 4.23.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-201/",
-            "code": null,
+            "code": "4.23.201",
             "category": "pagrindai",
             "images": [
                 {
@@ -1387,12 +1465,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 46.4,
+            "price_gbp": "40.00",
+            "reviews": []
         },
         {
             "name": "Base 4.23.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-23-301/",
-            "code": null,
+            "code": "4.23.301",
             "category": "pagrindai",
             "images": [
                 {
@@ -1419,12 +1499,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 49.72,
+            "price_gbp": "42.86",
+            "reviews": []
         },
         {
             "name": "Base 4.47.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-201/",
-            "code": null,
+            "code": "4.47.201",
             "category": "pagrindai",
             "images": [
                 {
@@ -1451,12 +1533,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 32.48,
+            "price_gbp": "28.00",
+            "reviews": []
         },
         {
             "name": "Base 4.47.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-202/",
-            "code": null,
+            "code": "4.47.202",
             "category": "pagrindai",
             "images": [
                 {
@@ -1483,12 +1567,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 32.48,
+            "price_gbp": "28.00",
+            "reviews": []
         },
         {
             "name": "Base 4.47.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-301/",
-            "code": null,
+            "code": "4.47.301",
             "category": "pagrindai",
             "images": [
                 {
@@ -1515,12 +1601,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 37.12,
+            "price_gbp": "32.00",
+            "reviews": []
         },
         {
             "name": "Base 4.47.302",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-47-302/",
-            "code": null,
+            "code": "4.47.302",
             "category": "pagrindai",
             "images": [
                 {
@@ -1547,12 +1635,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 37.12,
+            "price_gbp": "32.00",
+            "reviews": []
         },
         {
             "name": "Base 4.53.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-101/",
-            "code": null,
+            "code": "4.53.101",
             "category": "pagrindai",
             "images": [
                 {
@@ -1579,12 +1669,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 27.84,
+            "price_gbp": "24.00",
+            "reviews": []
         },
         {
             "name": "Base 4.53.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-201/",
-            "code": null,
+            "code": "4.53.201",
             "category": "pagrindai",
             "images": [
                 {
@@ -1611,12 +1703,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 27.84,
+            "price_gbp": "24.00",
+            "reviews": []
         },
         {
             "name": "Base 4.53.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-301/",
-            "code": null,
+            "code": "4.53.301",
             "category": "pagrindai",
             "images": [
                 {
@@ -1643,12 +1737,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 23.2,
+            "price_gbp": "20.00",
+            "reviews": []
         },
         {
             "name": "Base 4.53.302",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/composed-elements-facade/4-53-302/",
-            "code": null,
+            "code": "4.53.302",
             "category": "pagrindai",
             "images": [
                 {
@@ -1675,7 +1771,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 23.2,
+            "price_gbp": "20.00",
+            "reviews": []
         }
     ]
 }

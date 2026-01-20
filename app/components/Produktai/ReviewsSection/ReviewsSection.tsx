@@ -1,0 +1,188 @@
+'use client';
+
+import React, { useEffect, useState } from 'react';
+import { Star, MessageCircle, ThumbsUp } from 'lucide-react';
+
+/**
+ * IMPORTANT:
+ * Adjust this import path to match the category JSON
+ * (example below uses apvadu-kampai.json)
+ */
+import productData from '@/app/data/apvadu-kampai/apvadu-kampai.json';
+
+interface Review {
+  reviewId: string;
+  customerName: string;
+  rating: number;
+  title: string;
+  comment: string;
+  date: string;
+  verified: boolean;
+  helpful: number;
+}
+
+interface ReviewsSectionProps {
+  productCode: string;
+}
+
+const ReviewsSection: React.FC<ReviewsSectionProps> = ({ productCode }) => {
+  const [reviews, setReviews] = useState<Review[]>([]);
+  const [sortBy, setSortBy] = useState<
+    'newest' | 'oldest' | 'highest' | 'lowest' | 'helpful'
+  >('newest');
+
+  /* ================= LOAD REVIEWS FROM JSON ================= */
+  useEffect(() => {
+    if (!productCode) return;
+
+    const product = productData.products.find(
+      (p: any) => p.code === productCode
+    );
+
+    setReviews(product?.reviews ?? []);
+  }, [productCode]);
+
+  /* ================= DERIVED DATA ================= */
+  const averageRating =
+    reviews.length > 0
+      ? reviews.reduce((sum, r) => sum + r.rating, 0) / reviews.length
+      : 0;
+
+  const sortedReviews = [...reviews].sort((a, b) => {
+    switch (sortBy) {
+      case 'newest':
+        return new Date(b.date).getTime() - new Date(a.date).getTime();
+      case 'oldest':
+        return new Date(a.date).getTime() - new Date(b.date).getTime();
+      case 'highest':
+        return b.rating - a.rating;
+      case 'lowest':
+        return a.rating - b.rating;
+      case 'helpful':
+        return b.helpful - a.helpful;
+      default:
+        return 0;
+    }
+  });
+
+  const formatDate = (dateString: string) =>
+    new Date(dateString).toLocaleDateString('lt-LT', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    });
+
+  const renderStarRating = (rating: number, size = 18) => (
+    <div className="flex">
+      {[1, 2, 3, 4, 5].map((star) => (
+        <Star
+          key={star}
+          size={size}
+          className={star <= rating ? 'text-teal-500' : 'text-gray-300'}
+          fill={star <= rating ? 'currentColor' : 'none'}
+        />
+      ))}
+    </div>
+  );
+
+  /* ================= EMPTY STATE ================= */
+  if (reviews.length === 0) {
+    return (
+      <section className="py-12 bg-white border-t border-gray-200">
+        <div className="container mx-auto px-4 max-w-6xl text-center">
+          <h2 className="text-2xl font-bold mb-3">Klientų atsiliepimai</h2>
+          <p className="text-gray-600 mb-6">
+            Kol kas nėra atsiliepimų apie šį produktą.
+          </p>
+          <button className="bg-slate-800 text-white py-2.5 px-6 rounded-lg hover:bg-slate-700 transition-colors inline-flex items-center gap-2 text-sm">
+            <MessageCircle size={16} />
+            Būkite pirmas parašęs atsiliepimą
+          </button>
+        </div>
+      </section>
+    );
+  }
+
+  /* ================= RENDER ================= */
+  return (
+    <section className="py-12 bg-gray-50 border-t border-gray-200">
+      <div className="container mx-auto px-4 max-w-6xl">
+        <h2 className="text-2xl font-bold mb-6 text-center">
+          Klientų atsiliepimai
+        </h2>
+
+        {/* Average Rating */}
+        <div className="flex items-center justify-center gap-3 mb-6">
+          {renderStarRating(Math.round(averageRating), 22)}
+          <span className="text-xl font-semibold">
+            {averageRating.toFixed(1)}
+          </span>
+          <span className="text-gray-500 text-sm">
+            ({reviews.length} atsiliepimai)
+          </span>
+        </div>
+
+        {/* Controls */}
+        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mb-8 max-w-4xl mx-auto">
+          <div className="flex items-center gap-3">
+            <label className="text-sm text-gray-600 font-medium">
+              Rūšiuoti:
+            </label>
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value as any)}
+              className="border border-gray-300 rounded-lg px-3 py-1.5 text-sm"
+            >
+              <option value="newest">Naujausi</option>
+              <option value="oldest">Seniausi</option>
+              <option value="highest">Aukščiausias</option>
+              <option value="lowest">Žemiausias</option>
+              <option value="helpful">Naudingiausi</option>
+            </select>
+          </div>
+
+          <button className="bg-slate-800 text-white py-2 px-5 rounded-lg hover:bg-slate-700 transition-colors inline-flex items-center gap-2 text-sm">
+            <MessageCircle size={16} />
+            Parašyti atsiliepimą
+          </button>
+        </div>
+
+        {/* Reviews List */}
+        <div className="max-w-4xl mx-auto space-y-4">
+          {sortedReviews.map((review) => (
+            <div
+              key={review.reviewId}
+              className="bg-white rounded-lg p-5 shadow-sm border border-gray-200"
+            >
+              <div className="flex justify-between mb-2">
+                <div>
+                  <strong>{review.customerName}</strong>
+                  {review.verified && (
+                    <span className="ml-2 text-xs bg-green-100 text-green-800 px-2 py-0.5 rounded-full">
+                      Patvirtintas
+                    </span>
+                  )}
+                  <div className="text-xs text-gray-500">
+                    {formatDate(review.date)}
+                  </div>
+                </div>
+                <div className="text-right">
+                  {renderStarRating(review.rating, 16)}
+                  <div className="flex items-center gap-1 text-xs text-gray-500 justify-end">
+                    <ThumbsUp size={12} />
+                    {review.helpful}
+                  </div>
+                </div>
+              </div>
+
+              <h4 className="font-semibold mb-1">{review.title}</h4>
+              <p className="text-sm text-gray-700">{review.comment}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default ReviewsSection;

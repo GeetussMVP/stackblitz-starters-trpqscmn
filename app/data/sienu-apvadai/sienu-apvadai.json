@@ -3,7 +3,7 @@
         {
             "name": "Sienos Apvadas 1.51.301",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-301/",
-            "code": null,
+            "code": "1.51.301",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -53,9 +53,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "42 mm",
                 "Plotis": "16 mm"
@@ -68,12 +68,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.88,
+            "price_gbp": "13.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.302",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-302/",
-            "code": null,
+            "code": "1.51.302",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -123,9 +125,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "60 mm",
                 "Plotis": "25 mm"
@@ -138,12 +140,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 24.38,
+            "price_gbp": "21.02",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.303",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-303/",
-            "code": null,
+            "code": "1.51.303",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -193,9 +197,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "82 mm",
                 "Plotis": "19 mm"
@@ -208,12 +212,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 23.19,
+            "price_gbp": "19.99",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.304",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-304/",
-            "code": null,
+            "code": "1.51.304",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -253,9 +259,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "51 mm",
                 "Plotis": "24 mm"
@@ -268,12 +274,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 20.57,
+            "price_gbp": "17.73",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.305",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-305/",
-            "code": null,
+            "code": "1.51.305",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -323,9 +331,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "28 mm",
                 "Plotis": "15 mm"
@@ -338,12 +346,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.72,
+            "price_gbp": "12.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.306",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-306/",
-            "code": null,
+            "code": "1.51.306",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -393,9 +403,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "31 mm",
                 "Plotis": "10 mm"
@@ -408,12 +418,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.88,
+            "price_gbp": "13.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.307",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-307/",
-            "code": null,
+            "code": "1.51.307",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -463,9 +475,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "95 mm",
                 "Plotis": "25 mm"
@@ -478,12 +490,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.308",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-308/",
-            "code": null,
+            "code": "1.51.308",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -533,9 +547,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "41 mm",
                 "Plotis": "20 mm"
@@ -548,12 +562,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.310",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-310/",
-            "code": null,
+            "code": "1.51.310",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -603,9 +619,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "96 mm",
                 "Plotis": "19 mm"
@@ -618,12 +634,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 31.46,
+            "price_gbp": "27.12",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.312",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-312/",
-            "code": null,
+            "code": "1.51.312",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -673,9 +691,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "40 mm",
                 "Plotis": "18 mm"
@@ -688,12 +706,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.314",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-314/",
-            "code": null,
+            "code": "1.51.314",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -743,9 +763,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "66 mm",
                 "Plotis": "19 mm"
@@ -758,12 +778,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.315",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-315/",
-            "code": null,
+            "code": "1.51.315",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -813,9 +835,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "75 mm",
                 "Plotis": "22 mm"
@@ -828,12 +850,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 27.43,
+            "price_gbp": "23.65",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.316",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-316/",
-            "code": null,
+            "code": "1.51.316",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -883,9 +907,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "90 mm",
                 "Plotis": "19 mm"
@@ -898,12 +922,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.317",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-317/",
-            "code": null,
+            "code": "1.51.317",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -953,9 +979,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "101 mm",
                 "Plotis": "20 mm"
@@ -968,12 +994,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 25.5,
+            "price_gbp": "21.98",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.321",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-321/",
-            "code": null,
+            "code": "1.51.321",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1023,9 +1051,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "19 mm",
                 "Plotis": "9 mm"
@@ -1038,12 +1066,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.98,
+            "price_gbp": "12.91",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.322",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-322/",
-            "code": null,
+            "code": "1.51.322",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1093,9 +1123,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "25 mm",
                 "Plotis": "12 mm"
@@ -1108,12 +1138,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.24,
+            "price_gbp": "14.86",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.323",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-323/",
-            "code": null,
+            "code": "1.51.323",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1163,9 +1195,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "32 mm",
                 "Plotis": "10 mm"
@@ -1178,12 +1210,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.36,
+            "price_gbp": "14.10",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.327",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-327/",
-            "code": null,
+            "code": "1.51.327",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1233,9 +1267,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "80 mm",
                 "Plotis": "21 mm"
@@ -1248,12 +1282,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 28.14,
+            "price_gbp": "24.26",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.337",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-337/",
-            "code": null,
+            "code": "1.51.337",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1303,9 +1339,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "78 mm",
                 "Plotis": "12 mm"
@@ -1318,12 +1354,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.338",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-338/",
-            "code": null,
+            "code": "1.51.338",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1373,9 +1411,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "40 mm",
                 "Plotis": "9 mm"
@@ -1388,12 +1426,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.25,
+            "price_gbp": "13.15",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.342",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-342/",
-            "code": null,
+            "code": "1.51.342",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1443,9 +1483,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "75 mm",
                 "Plotis": "15 mm"
@@ -1458,12 +1498,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.343",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-343/",
-            "code": null,
+            "code": "1.51.343",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1513,9 +1555,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "75 mm",
                 "Plotis": "12 mm"
@@ -1528,12 +1570,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 20.95,
+            "price_gbp": "18.06",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.344",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-344/",
-            "code": null,
+            "code": "1.51.344",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1583,9 +1627,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "91 mm",
                 "Plotis": "18 mm"
@@ -1598,12 +1642,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 19.87,
+            "price_gbp": "17.13",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.345",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-345/",
-            "code": null,
+            "code": "1.51.345",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1653,9 +1699,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "94 mm",
                 "Plotis": "22 mm"
@@ -1668,12 +1714,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.12,
+            "price_gbp": "28.55",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.346",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-346/",
-            "code": null,
+            "code": "1.51.346",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1723,9 +1771,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "34 mm",
                 "Plotis": "16 mm"
@@ -1738,12 +1786,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.81,
+            "price_gbp": "13.63",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.347",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-347/",
-            "code": null,
+            "code": "1.51.347",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1793,9 +1843,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "91 mm",
                 "Plotis": "27 mm"
@@ -1808,12 +1858,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 24.85,
+            "price_gbp": "21.42",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.348",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-348/",
-            "code": null,
+            "code": "1.51.348",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1863,9 +1915,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "49 mm",
                 "Plotis": "25 mm"
@@ -1878,12 +1930,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 19.04,
+            "price_gbp": "16.41",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.353",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-353/",
-            "code": null,
+            "code": "1.51.353",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -1933,9 +1987,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "26 mm",
                 "Plotis": "16 mm"
@@ -1948,12 +2002,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.354",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-354/",
-            "code": null,
+            "code": "1.51.354",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2003,9 +2059,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "68 mm",
                 "Plotis": "26 mm"
@@ -2018,12 +2074,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.355",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-355/",
-            "code": null,
+            "code": "1.51.355",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2073,9 +2131,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "102 mm",
                 "Plotis": "38 mm"
@@ -2088,12 +2146,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.12,
+            "price_gbp": "28.55",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.356",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-356/",
-            "code": null,
+            "code": "1.51.356",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2143,9 +2203,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "47 mm",
                 "Plotis": "9 mm"
@@ -2158,12 +2218,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.14,
+            "price_gbp": "14.78",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.357",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-357/",
-            "code": null,
+            "code": "1.51.357",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2213,9 +2275,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "48 mm",
                 "Plotis": "12 mm"
@@ -2228,12 +2290,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.14,
+            "price_gbp": "14.78",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.360",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-360/",
-            "code": null,
+            "code": "1.51.360",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2273,9 +2337,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "72 mm",
                 "Plotis": "17 mm"
@@ -2288,12 +2352,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.362",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-362/",
-            "code": null,
+            "code": "1.51.362",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2333,9 +2399,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "500 mm",
-                "Concave bending radius": "500 mm",
-                "Arch bending radius": "2000 mm",
+                "Convex bending Spindulys": "500 mm",
+                "Concave bending Spindulys": "500 mm",
+                "Arkos Lenkimo Spindulys": "2000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "46 mm",
                 "Plotis": "10 mm"
@@ -2348,12 +2414,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.363",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-363/",
-            "code": null,
+            "code": "1.51.363",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2393,9 +2461,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "70 mm",
                 "Plotis": "13 mm"
@@ -2408,12 +2476,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.367",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-367/",
-            "code": null,
+            "code": "1.51.367",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2453,9 +2523,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "124 mm",
                 "Plotis": "24 mm"
@@ -2468,12 +2538,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.370",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-370/",
-            "code": null,
+            "code": "1.51.370",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2513,9 +2585,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "75 mm",
                 "Plotis": "15 mm"
@@ -2528,12 +2600,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 26.66,
+            "price_gbp": "22.98",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.374",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-374/",
-            "code": null,
+            "code": "1.51.374",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2573,9 +2647,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "3000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "3000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "101 mm",
                 "Plotis": "9 mm"
@@ -2588,12 +2662,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 26.48,
+            "price_gbp": "22.83",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.375",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-375/",
-            "code": null,
+            "code": "1.51.375",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2643,9 +2719,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "41 mm",
                 "Plotis": "20 mm"
@@ -2658,12 +2734,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.377",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-377/",
-            "code": null,
+            "code": "1.51.377",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2713,9 +2791,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "52 mm",
                 "Plotis": "17 mm"
@@ -2728,12 +2806,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.378",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-378/",
-            "code": null,
+            "code": "1.51.378",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2783,9 +2863,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "22 mm",
                 "Plotis": "10 mm"
@@ -2798,12 +2878,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.48,
+            "price_gbp": "14.21",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.379",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-379/",
-            "code": null,
+            "code": "1.51.379",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2853,9 +2935,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "1000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "1000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "30 mm",
                 "Plotis": "13 mm"
@@ -2868,12 +2950,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.42,
+            "price_gbp": "13.29",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.381",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-381/",
-            "code": null,
+            "code": "1.51.381",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2923,9 +3007,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "3500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "3500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "193 mm",
                 "Plotis": "24 mm"
@@ -2938,12 +3022,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 49.67,
+            "price_gbp": "42.82",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.383",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-383/",
-            "code": null,
+            "code": "1.51.383",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -2993,9 +3079,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "3000 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "3000 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "75 mm",
                 "Plotis": "23 mm"
@@ -3008,12 +3094,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 21.53,
+            "price_gbp": "18.56",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.384",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-384/",
-            "code": null,
+            "code": "1.51.384",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3043,9 +3131,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "2500 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "2500 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "47 mm",
                 "Plotis": "8 mm"
@@ -3058,12 +3146,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.22,
+            "price_gbp": "12.26",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.388",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-388/",
-            "code": null,
+            "code": "1.51.388",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3096,12 +3186,13 @@
             "model": null,
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.400",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-400/",
-            "code": null,
+            "code": "1.51.400",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3151,9 +3242,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "45 mm",
                 "Plotis": "16 mm"
@@ -3166,12 +3257,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 18.29,
+            "price_gbp": "15.77",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.401",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-401/",
-            "code": null,
+            "code": "1.51.401",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3221,9 +3314,9 @@
                 }
             ],
             "details": {
-                "Convex bending radius": "550 mm",
-                "Concave bending radius": "550 mm",
-                "Arch bending radius": "550 mm",
+                "Convex bending Spindulys": "550 mm",
+                "Concave bending Spindulys": "550 mm",
+                "Arkos Lenkimo Spindulys": "550 mm",
                 "Ilgis": "2000 mm",
                 "Aukštis": "23 mm",
                 "Plotis": "12 mm"
@@ -3236,12 +3329,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.98,
+            "price_gbp": "12.91",
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.501",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-501/",
-            "code": null,
+            "code": "1.51.501",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3278,12 +3373,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.502",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-502/",
-            "code": null,
+            "code": "1.51.502",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3320,12 +3416,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.503",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-503/",
-            "code": null,
+            "code": "1.51.503",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3362,12 +3459,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.504",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-504/",
-            "code": null,
+            "code": "1.51.504",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3404,12 +3502,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.510",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-510/",
-            "code": null,
+            "code": "1.51.510",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3446,12 +3545,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.513",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-513/",
-            "code": null,
+            "code": "1.51.513",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3488,12 +3588,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.518",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-518/",
-            "code": null,
+            "code": "1.51.518",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3530,12 +3631,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.605",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-605/",
-            "code": null,
+            "code": "1.51.605",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3592,12 +3694,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.606",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-606/",
-            "code": null,
+            "code": "1.51.606",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3654,12 +3757,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.803",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-803/",
-            "code": null,
+            "code": "1.51.803",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3736,12 +3840,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.804",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-804/",
-            "code": null,
+            "code": "1.51.804",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3818,12 +3923,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.805",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-805/",
-            "code": null,
+            "code": "1.51.805",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3890,12 +3996,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.806",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-806/",
-            "code": null,
+            "code": "1.51.806",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -3952,12 +4059,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.807",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-807/",
-            "code": null,
+            "code": "1.51.807",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4024,12 +4132,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.811",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-811/",
-            "code": null,
+            "code": "1.51.811",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4116,12 +4225,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.817",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-817/",
-            "code": null,
+            "code": "1.51.817",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4188,12 +4298,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.818",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-818/",
-            "code": null,
+            "code": "1.51.818",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4240,12 +4351,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 1.51.819",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/1-51-819/",
-            "code": null,
+            "code": "1.51.819",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4302,12 +4414,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.801",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-801/",
-            "code": null,
+            "code": "6.51.801",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4384,12 +4497,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.802",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-802/",
-            "code": null,
+            "code": "6.51.802",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4456,12 +4570,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.808",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-808/",
-            "code": null,
+            "code": "6.51.808",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4548,12 +4663,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.809",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-809/",
-            "code": null,
+            "code": "6.51.809",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4700,12 +4816,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.810",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-810/",
-            "code": null,
+            "code": "6.51.810",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4842,12 +4959,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.812",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-812/",
-            "code": null,
+            "code": "6.51.812",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4904,12 +5022,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.813",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-813/",
-            "code": null,
+            "code": "6.51.813",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -4966,12 +5085,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.814",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-814/",
-            "code": null,
+            "code": "6.51.814",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5038,12 +5158,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.815",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-815/",
-            "code": null,
+            "code": "6.51.815",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5130,12 +5251,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Sienos Apvadas 6.51.816",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings/6-51-816/",
-            "code": null,
+            "code": "6.51.816",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5192,12 +5314,13 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.301 (flexible)",
+            "name": "Sienos Apvadas 1.51.301 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-301-f/",
-            "code": null,
+            "code": "1.51.301",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5259,12 +5382,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.88,
+            "price_gbp": "13.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.302 (flexible)",
+            "name": "Sienos Apvadas 1.51.302 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-302-f/",
-            "code": null,
+            "code": "1.51.302",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5326,12 +5451,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 24.38,
+            "price_gbp": "21.02",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.303 (flexible)",
+            "name": "Sienos Apvadas 1.51.303 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-303-f/",
-            "code": null,
+            "code": "1.51.303",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5393,12 +5520,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 23.19,
+            "price_gbp": "19.99",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.304 (flexible)",
+            "name": "Sienos Apvadas 1.51.304 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-304-f/",
-            "code": null,
+            "code": "1.51.304",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5450,12 +5579,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 20.57,
+            "price_gbp": "17.73",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.305 (flexible)",
+            "name": "Sienos Apvadas 1.51.305 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-305-f/",
-            "code": null,
+            "code": "1.51.305",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5517,12 +5648,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.72,
+            "price_gbp": "12.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.306 (flexible)",
+            "name": "Sienos Apvadas 1.51.306 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-306-f/",
-            "code": null,
+            "code": "1.51.306",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5584,12 +5717,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.88,
+            "price_gbp": "13.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.307 (flexible)",
+            "name": "Sienos Apvadas 1.51.307 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-307-f/",
-            "code": null,
+            "code": "1.51.307",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5651,12 +5786,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.308 (flexible)",
+            "name": "Sienos Apvadas 1.51.308 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-308-f/",
-            "code": null,
+            "code": "1.51.308",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5718,12 +5855,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.310 (flexible)",
+            "name": "Sienos Apvadas 1.51.310 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-310-f/",
-            "code": null,
+            "code": "1.51.310",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5785,12 +5924,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 31.46,
+            "price_gbp": "27.12",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.312 (flexible)",
+            "name": "Sienos Apvadas 1.51.312 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-312-f/",
-            "code": null,
+            "code": "1.51.312",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5852,12 +5993,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.314 (flexible)",
+            "name": "Sienos Apvadas 1.51.314 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-314-f/",
-            "code": null,
+            "code": "1.51.314",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5919,12 +6062,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.315 (flexible)",
+            "name": "Sienos Apvadas 1.51.315 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-315-f/",
-            "code": null,
+            "code": "1.51.315",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -5986,12 +6131,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 27.43,
+            "price_gbp": "23.65",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.316 (flexible)",
+            "name": "Sienos Apvadas 1.51.316 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-316-f/",
-            "code": null,
+            "code": "1.51.316",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6053,12 +6200,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.317 (flexible)",
+            "name": "Sienos Apvadas 1.51.317 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-317-f/",
-            "code": null,
+            "code": "1.51.317",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6120,12 +6269,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 25.5,
+            "price_gbp": "21.98",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.321 (flexible)",
+            "name": "Sienos Apvadas 1.51.321 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-321-f/",
-            "code": null,
+            "code": "1.51.321",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6187,12 +6338,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.98,
+            "price_gbp": "12.91",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.322 (flexible)",
+            "name": "Sienos Apvadas 1.51.322 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-322-f/",
-            "code": null,
+            "code": "1.51.322",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6254,12 +6407,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.24,
+            "price_gbp": "14.86",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.323 (flexible)",
+            "name": "Sienos Apvadas 1.51.323 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-323-f/",
-            "code": null,
+            "code": "1.51.323",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6321,12 +6476,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.36,
+            "price_gbp": "14.10",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.327 (flexible)",
+            "name": "Sienos Apvadas 1.51.327 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-327-f/",
-            "code": null,
+            "code": "1.51.327",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6388,12 +6545,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 28.14,
+            "price_gbp": "24.26",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.337 (flexible)",
+            "name": "Sienos Apvadas 1.51.337 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-337-f/",
-            "code": null,
+            "code": "1.51.337",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6455,12 +6614,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.338 (flexible)",
+            "name": "Sienos Apvadas 1.51.338 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-338-f/",
-            "code": null,
+            "code": "1.51.338",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6522,12 +6683,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.25,
+            "price_gbp": "13.15",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.342 (flexible)",
+            "name": "Sienos Apvadas 1.51.342 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-342-f/",
-            "code": null,
+            "code": "1.51.342",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6589,12 +6752,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.343 (flexible)",
+            "name": "Sienos Apvadas 1.51.343 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-343-f/",
-            "code": null,
+            "code": "1.51.343",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6656,12 +6821,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 20.95,
+            "price_gbp": "18.06",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.344 (flexible)",
+            "name": "Sienos Apvadas 1.51.344 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-344-f/",
-            "code": null,
+            "code": "1.51.344",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6723,12 +6890,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 19.87,
+            "price_gbp": "17.13",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.345 (flexible)",
+            "name": "Sienos Apvadas 1.51.345 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-345-f/",
-            "code": null,
+            "code": "1.51.345",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6790,12 +6959,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.12,
+            "price_gbp": "28.55",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.346 (flexible)",
+            "name": "Sienos Apvadas 1.51.346 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-346-f/",
-            "code": null,
+            "code": "1.51.346",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6857,12 +7028,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.81,
+            "price_gbp": "13.63",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.347 (flexible)",
+            "name": "Sienos Apvadas 1.51.347 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-347-f/",
-            "code": null,
+            "code": "1.51.347",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6924,12 +7097,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 24.85,
+            "price_gbp": "21.42",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.348 (flexible)",
+            "name": "Sienos Apvadas 1.51.348 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-348-f/",
-            "code": null,
+            "code": "1.51.348",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -6991,12 +7166,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 19.04,
+            "price_gbp": "16.41",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.353 (flexible)",
+            "name": "Sienos Apvadas 1.51.353 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-353-f/",
-            "code": null,
+            "code": "1.51.353",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7058,12 +7235,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.354 (flexible)",
+            "name": "Sienos Apvadas 1.51.354 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-354-f/",
-            "code": null,
+            "code": "1.51.354",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7125,12 +7304,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.355 (flexible)",
+            "name": "Sienos Apvadas 1.51.355 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-355-f/",
-            "code": null,
+            "code": "1.51.355",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7192,12 +7373,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 33.12,
+            "price_gbp": "28.55",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.356 (flexible)",
+            "name": "Sienos Apvadas 1.51.356 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-356-f/",
-            "code": null,
+            "code": "1.51.356",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7259,12 +7442,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.14,
+            "price_gbp": "14.78",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.357 (flexible)",
+            "name": "Sienos Apvadas 1.51.357 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-357-f/",
-            "code": null,
+            "code": "1.51.357",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7326,12 +7511,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.14,
+            "price_gbp": "14.78",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.360 (flexible)",
+            "name": "Sienos Apvadas 1.51.360 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-360-f/",
-            "code": null,
+            "code": "1.51.360",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7383,12 +7570,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.362 (flexible)",
+            "name": "Sienos Apvadas 1.51.362 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-362-f/",
-            "code": null,
+            "code": "1.51.362",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7440,12 +7629,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.363 (flexible)",
+            "name": "Sienos Apvadas 1.51.363 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-363-f/",
-            "code": null,
+            "code": "1.51.363",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7497,12 +7688,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 22.85,
+            "price_gbp": "19.70",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.367 (flexible)",
+            "name": "Sienos Apvadas 1.51.367 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-367-f/",
-            "code": null,
+            "code": "1.51.367",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7554,12 +7747,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 29.8,
+            "price_gbp": "25.69",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.370 (flexible)",
+            "name": "Sienos Apvadas 1.51.370 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-370-f/",
-            "code": null,
+            "code": "1.51.370",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7611,12 +7806,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 26.66,
+            "price_gbp": "22.98",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.374 (flexible)",
+            "name": "Sienos Apvadas 1.51.374 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-374-f/",
-            "code": null,
+            "code": "1.51.374",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7668,12 +7865,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 26.48,
+            "price_gbp": "22.83",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.375 (flexible)",
+            "name": "Sienos Apvadas 1.51.375 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-375-f/",
-            "code": null,
+            "code": "1.51.375",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7735,12 +7934,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 17.09,
+            "price_gbp": "14.73",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.377 (flexible)",
+            "name": "Sienos Apvadas 1.51.377 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-377-f/",
-            "code": null,
+            "code": "1.51.377",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7802,12 +8003,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.85,
+            "price_gbp": "14.53",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.378 (flexible)",
+            "name": "Sienos Apvadas 1.51.378 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-378-f/",
-            "code": null,
+            "code": "1.51.378",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7869,12 +8072,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 16.48,
+            "price_gbp": "14.21",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.379 (flexible)",
+            "name": "Sienos Apvadas 1.51.379 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-379-f/",
-            "code": null,
+            "code": "1.51.379",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -7936,12 +8141,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 15.42,
+            "price_gbp": "13.29",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.381 (flexible)",
+            "name": "Sienos Apvadas 1.51.381 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-381-f/",
-            "code": null,
+            "code": "1.51.381",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -8003,12 +8210,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 49.67,
+            "price_gbp": "42.82",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.383 (flexible)",
+            "name": "Sienos Apvadas 1.51.383 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-383-f/",
-            "code": null,
+            "code": "1.51.383",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -8070,12 +8279,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 21.53,
+            "price_gbp": "18.56",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.384 (flexible)",
+            "name": "Sienos Apvadas 1.51.384 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-384-f/",
-            "code": null,
+            "code": "1.51.384",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -8117,12 +8328,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.22,
+            "price_gbp": "12.26",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.400 (flexible)",
+            "name": "Sienos Apvadas 1.51.400 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-400-f/",
-            "code": null,
+            "code": "1.51.400",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -8184,12 +8397,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 18.29,
+            "price_gbp": "15.77",
+            "reviews": []
         },
         {
-            "name": "Sienos Apvadas 1.51.401 (flexible)",
+            "name": "Sienos Apvadas 1.51.401 (Lankstus)",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/mouldings-flexible/1-51-401-f/",
-            "code": null,
+            "code": "1.51.401",
             "category": "sienu-apvadai",
             "images": [
                 {
@@ -8251,7 +8466,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 14.98,
+            "price_gbp": "12.91",
+            "reviews": []
         }
     ]
 }

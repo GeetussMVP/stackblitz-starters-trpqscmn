@@ -3,8 +3,8 @@
         {
             "name": "Window jamb 4.88.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/window-framing-facade/window-jambs-window-framing/4-88-001/",
-            "code": null,
-            "category": "window-jamb",
+            "code": "4.88.001",
+            "category": "lango-angokrastai",
             "images": [
                 {
                     "filename": "4.88.001.100.png",
@@ -40,7 +40,8 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         }
     ]
 }

@@ -3,7 +3,7 @@
         {
             "name": "Ornament 1.60.003",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-003/",
-            "code": null,
+            "code": "1.60.003",
             "category": "ornamentai",
             "images": [
                 {
@@ -19,7 +19,8 @@
             ],
             "details": {
                 "Plotis": "26 mm",
-                "Aukštis": "34 mm"
+                "Aukštis": "34 mm",
+                "Storis": "13 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -28,13 +29,14 @@
                 "local_path": "data/ornament/Ornament_1_60_003/models/1.60.003.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.84",
+            "price": 6.77,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.004",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-004/",
-            "code": null,
+            "code": "1.60.004",
             "category": "ornamentai",
             "images": [
                 {
@@ -50,7 +52,8 @@
             ],
             "details": {
                 "Plotis": "37 mm",
-                "Aukštis": "54 mm"
+                "Aukštis": "54 mm",
+                "Storis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -59,13 +62,14 @@
                 "local_path": "data/ornament/Ornament_1_60_004/models/1.60.004.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.93",
+            "price": 6.88,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.005",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-005/",
-            "code": null,
+            "code": "1.60.005",
             "category": "ornamentai",
             "images": [
                 {
@@ -81,7 +85,8 @@
             ],
             "details": {
                 "Plotis": "69 mm",
-                "Aukštis": "86 mm"
+                "Aukštis": "86 mm",
+                "Storis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -90,13 +95,14 @@
                 "local_path": "data/ornament/Ornament_1_60_005/models/1.60.005.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.18",
+            "price": 7.17,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.006",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-006/",
-            "code": null,
+            "code": "1.60.006",
             "category": "ornamentai",
             "images": [
                 {
@@ -112,7 +118,8 @@
             ],
             "details": {
                 "Plotis": "59 mm",
-                "Aukštis": "59 mm"
+                "Aukštis": "59 mm",
+                "Storis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -121,13 +128,14 @@
                 "local_path": "data/ornament/Ornament_1_60_006/models/1.60.006.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.06",
+            "price": 7.03,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.007",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-007/",
-            "code": null,
+            "code": "1.60.007",
             "category": "ornamentai",
             "images": [
                 {
@@ -143,7 +151,8 @@
             ],
             "details": {
                 "Plotis": "97 mm",
-                "Aukštis": "155 mm"
+                "Aukštis": "155 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -152,13 +161,14 @@
                 "local_path": "data/ornament/Ornament_1_60_007/models/1.60.007.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.18",
+            "price": 7.17,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.008",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-008/",
-            "code": null,
+            "code": "1.60.008",
             "category": "ornamentai",
             "images": [
                 {
@@ -174,7 +184,8 @@
             ],
             "details": {
                 "Plotis": "28 mm",
-                "Aukštis": "82 mm"
+                "Aukštis": "82 mm",
+                "Storis": "9 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -183,13 +194,14 @@
                 "local_path": "data/ornament/Ornament_1_60_008/models/1.60.008.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.84",
+            "price": 6.77,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.009",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-009/",
-            "code": null,
+            "code": "1.60.009",
             "category": "ornamentai",
             "images": [
                 {
@@ -205,7 +217,8 @@
             ],
             "details": {
                 "Plotis": "61 mm",
-                "Aukštis": "136 mm"
+                "Aukštis": "136 mm",
+                "Storis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -214,13 +227,14 @@
                 "local_path": "data/ornament/Ornament_1_60_009/models/1.60.009.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.93",
+            "price": 6.88,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.010",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-010/",
-            "code": null,
+            "code": "1.60.010",
             "category": "ornamentai",
             "images": [
                 {
@@ -236,7 +250,8 @@
             ],
             "details": {
                 "Plotis": "67 mm",
-                "Aukštis": "165 mm"
+                "Aukštis": "165 mm",
+                "Storis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -245,13 +260,14 @@
                 "local_path": "data/ornament/Ornament_1_60_010/models/1.60.010.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.93",
+            "price": 6.88,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.011",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-011/",
-            "code": null,
+            "code": "1.60.011",
             "category": "ornamentai",
             "images": [
                 {
@@ -267,7 +283,8 @@
             ],
             "details": {
                 "Plotis": "142 mm",
-                "Aukštis": "282 mm"
+                "Aukštis": "282 mm",
+                "Storis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -276,13 +293,14 @@
                 "local_path": "data/ornament/Ornament_1_60_011/models/1.60.011.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.64",
+            "price": 7.7,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.015",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-015/",
-            "code": null,
+            "code": "1.60.015",
             "category": "ornamentai",
             "images": [
                 {
@@ -298,7 +316,8 @@
             ],
             "details": {
                 "Plotis": "51 mm",
-                "Aukštis": "119 mm"
+                "Aukštis": "119 mm",
+                "Storis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -307,13 +326,14 @@
                 "local_path": "data/ornament/Ornament_1_60_015/models/1.60.015.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.22",
+            "price": 7.22,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.017",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-017/",
-            "code": null,
+            "code": "1.60.017",
             "category": "ornamentai",
             "images": [
                 {
@@ -329,7 +349,8 @@
             ],
             "details": {
                 "Plotis": "90 mm",
-                "Aukštis": "90 mm"
+                "Aukštis": "90 mm",
+                "Storis": "15 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -338,13 +359,14 @@
                 "local_path": "data/ornament/Ornament_1_60_017/models/1.60.017.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.71",
+            "price": 7.78,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.019",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-019/",
-            "code": null,
+            "code": "1.60.019",
             "category": "ornamentai",
             "images": [
                 {
@@ -360,7 +382,8 @@
             ],
             "details": {
                 "Plotis": "88 mm",
-                "Aukštis": "53 mm"
+                "Aukštis": "53 mm",
+                "Storis": "17 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -369,13 +392,14 @@
                 "local_path": "data/ornament/Ornament_1_60_019/models/1.60.019.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "16.63",
+            "price": 19.29,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.020",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-020/",
-            "code": null,
+            "code": "1.60.020",
             "category": "ornamentai",
             "images": [
                 {
@@ -391,7 +415,8 @@
             ],
             "details": {
                 "Plotis": "51 mm",
-                "Aukštis": "155 mm"
+                "Aukštis": "155 mm",
+                "Storis": "7 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -400,13 +425,14 @@
                 "local_path": "data/ornament/Ornament_1_60_020/models/1.60.020.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "7.07",
+            "price": 8.2,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.021",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-021/",
-            "code": null,
+            "code": "1.60.021",
             "category": "ornamentai",
             "images": [
                 {
@@ -422,7 +448,8 @@
             ],
             "details": {
                 "Plotis": "817 mm",
-                "Aukštis": "230 mm"
+                "Aukštis": "230 mm",
+                "Storis": "44 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -431,13 +458,14 @@
                 "local_path": "data/ornament/Ornament_1_60_021/models/1.60.021.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "44.80",
+            "price": 51.97,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.022",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-022/",
-            "code": null,
+            "code": "1.60.022",
             "category": "ornamentai",
             "images": [
                 {
@@ -453,7 +481,8 @@
             ],
             "details": {
                 "Plotis": "895 mm",
-                "Aukštis": "318 mm"
+                "Aukštis": "318 mm",
+                "Storis": "50 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -462,13 +491,14 @@
                 "local_path": "data/ornament/Ornament_1_60_022/models/1.60.022.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "58.58",
+            "price": 67.95,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.023",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-023/",
-            "code": null,
+            "code": "1.60.023",
             "category": "ornamentai",
             "images": [
                 {
@@ -484,7 +514,8 @@
             ],
             "details": {
                 "Plotis": "296 mm",
-                "Aukštis": "158 mm"
+                "Aukštis": "158 mm",
+                "Storis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -493,13 +524,14 @@
                 "local_path": "data/ornament/Ornament_1_60_023/models/1.60.023.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "25.27",
+            "price": 29.31,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.024",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-024/",
-            "code": null,
+            "code": "1.60.024",
             "category": "ornamentai",
             "images": [
                 {
@@ -515,7 +547,8 @@
             ],
             "details": {
                 "Plotis": "236 mm",
-                "Aukštis": "191 mm"
+                "Aukštis": "191 mm",
+                "Storis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -524,13 +557,14 @@
                 "local_path": "data/ornament/Ornament_1_60_024/models/1.60.024.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "21.59",
+            "price": 25.04,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.025",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-025/",
-            "code": null,
+            "code": "1.60.025",
             "category": "ornamentai",
             "images": [
                 {
@@ -546,7 +580,8 @@
             ],
             "details": {
                 "Plotis": "385 mm",
-                "Aukštis": "209 mm"
+                "Aukštis": "209 mm",
+                "Storis": "32 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -555,13 +590,14 @@
                 "local_path": "data/ornament/Ornament_1_60_025/models/1.60.025.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "21.82",
+            "price": 25.31,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.027",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-027/",
-            "code": null,
+            "code": "1.60.027",
             "category": "ornamentai",
             "images": [
                 {
@@ -577,7 +613,8 @@
             ],
             "details": {
                 "Plotis": "269 mm",
-                "Aukštis": "152 mm"
+                "Aukštis": "152 mm",
+                "Storis": "31 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -586,13 +623,14 @@
                 "local_path": "data/ornament/Ornament_1_60_027/models/1.60.027.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "21.59",
+            "price": 25.04,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.028",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-028/",
-            "code": null,
+            "code": "1.60.028",
             "category": "ornamentai",
             "images": [
                 {
@@ -608,7 +646,8 @@
             ],
             "details": {
                 "Plotis": "408 mm",
-                "Aukštis": "120 mm"
+                "Aukštis": "120 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -617,13 +656,14 @@
                 "local_path": "data/ornament/Ornament_1_60_028/models/1.60.028.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "27.71",
+            "price": 32.14,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.030",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-030/",
-            "code": null,
+            "code": "1.60.030",
             "category": "ornamentai",
             "images": [
                 {
@@ -639,7 +679,8 @@
             ],
             "details": {
                 "Plotis": "285 mm",
-                "Aukštis": "154 mm"
+                "Aukštis": "154 mm",
+                "Storis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -648,13 +689,14 @@
                 "local_path": "data/ornament/Ornament_1_60_030/models/1.60.030.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "20.77",
+            "price": 24.09,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.031",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-031/",
-            "code": null,
+            "code": "1.60.031",
             "category": "ornamentai",
             "images": [
                 {
@@ -670,7 +712,8 @@
             ],
             "details": {
                 "Plotis": "232 mm",
-                "Aukštis": "141 mm"
+                "Aukštis": "141 mm",
+                "Storis": "28 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -679,13 +722,14 @@
                 "local_path": "data/ornament/Ornament_1_60_031/models/1.60.031.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "20.58",
+            "price": 23.87,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.032",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-032/",
-            "code": null,
+            "code": "1.60.032",
             "category": "ornamentai",
             "images": [
                 {
@@ -721,7 +765,8 @@
             ],
             "details": {
                 "Plotis": "604 mm",
-                "Aukštis": "189 mm"
+                "Aukštis": "189 mm",
+                "Storis": "50 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -730,13 +775,14 @@
                 "local_path": "data/ornament/Ornament_1_60_032/models/1.60.032.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "40.14",
+            "price": 46.56,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.034",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-034/",
-            "code": null,
+            "code": "1.60.034",
             "category": "ornamentai",
             "images": [
                 {
@@ -752,7 +798,8 @@
             ],
             "details": {
                 "Plotis": "263 mm",
-                "Aukštis": "95 mm"
+                "Aukštis": "95 mm",
+                "Storis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -761,13 +808,14 @@
                 "local_path": "data/ornament/Ornament_1_60_034/models/1.60.034.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "20.35",
+            "price": 23.61,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.035",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-035/",
-            "code": null,
+            "code": "1.60.035",
             "category": "ornamentai",
             "images": [
                 {
@@ -783,7 +831,8 @@
             ],
             "details": {
                 "Plotis": "76 mm",
-                "Aukštis": "142 mm"
+                "Aukštis": "142 mm",
+                "Storis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -792,13 +841,14 @@
                 "local_path": "data/ornament/Ornament_1_60_035/models/1.60.035.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.46",
+            "price": 7.49,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.036",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-036/",
-            "code": null,
+            "code": "1.60.036",
             "category": "ornamentai",
             "images": [
                 {
@@ -814,7 +864,8 @@
             ],
             "details": {
                 "Plotis": "789 mm",
-                "Aukštis": "359 mm"
+                "Aukštis": "359 mm",
+                "Storis": "49 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -823,13 +874,14 @@
                 "local_path": "data/ornament/Ornament_1_60_036/models/1.60.036.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "43.41",
+            "price": 50.36,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.037",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-037/",
-            "code": null,
+            "code": "1.60.037",
             "category": "ornamentai",
             "images": [
                 {
@@ -845,7 +897,8 @@
             ],
             "details": {
                 "Plotis": "264 mm",
-                "Aukštis": "297 mm"
+                "Aukštis": "297 mm",
+                "Storis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -854,13 +907,14 @@
                 "local_path": "data/ornament/Ornament_1_60_037/models/1.60.037.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "25.05",
+            "price": 29.06,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.038",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-038/",
-            "code": null,
+            "code": "1.60.038",
             "category": "ornamentai",
             "images": [
                 {
@@ -876,7 +930,8 @@
             ],
             "details": {
                 "Plotis": "120 mm",
-                "Aukštis": "230 mm"
+                "Aukštis": "230 mm",
+                "Storis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -885,13 +940,14 @@
                 "local_path": "data/ornament/Ornament_1_60_038/models/1.60.038.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "23.92",
+            "price": 27.75,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.108",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-108/",
-            "code": null,
+            "code": "1.60.108",
             "category": "ornamentai",
             "images": [
                 {
@@ -907,7 +963,8 @@
             ],
             "details": {
                 "Plotis": "27 mm",
-                "Aukštis": "82 mm"
+                "Aukštis": "82 mm",
+                "Storis": "7 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -916,13 +973,14 @@
                 "local_path": "data/ornament/Ornament_1_60_108/models/1.60.108.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.84",
+            "price": 6.77,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.109",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-109/",
-            "code": null,
+            "code": "1.60.109",
             "category": "ornamentai",
             "images": [
                 {
@@ -938,7 +996,8 @@
             ],
             "details": {
                 "Plotis": "62 mm",
-                "Aukštis": "136 mm"
+                "Aukštis": "136 mm",
+                "Storis": "13 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -947,13 +1006,14 @@
                 "local_path": "data/ornament/Ornament_1_60_109/models/1.60.109.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.93",
+            "price": 6.88,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.110",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-110/",
-            "code": null,
+            "code": "1.60.110",
             "category": "ornamentai",
             "images": [
                 {
@@ -969,7 +1029,8 @@
             ],
             "details": {
                 "Plotis": "67 mm",
-                "Aukštis": "165 mm"
+                "Aukštis": "165 mm",
+                "Storis": "10 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -978,13 +1039,14 @@
                 "local_path": "data/ornament/Ornament_1_60_110/models/1.60.110.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.93",
+            "price": 6.88,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.111",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-111/",
-            "code": null,
+            "code": "1.60.111",
             "category": "ornamentai",
             "images": [
                 {
@@ -1000,7 +1062,8 @@
             ],
             "details": {
                 "Plotis": "142 mm",
-                "Aukštis": "282 mm"
+                "Aukštis": "282 mm",
+                "Storis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1009,13 +1072,14 @@
                 "local_path": "data/ornament/Ornament_1_60_111/models/1.60.111.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.64",
+            "price": 7.7,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.120",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-120/",
-            "code": null,
+            "code": "1.60.120",
             "category": "ornamentai",
             "images": [
                 {
@@ -1031,7 +1095,8 @@
             ],
             "details": {
                 "Plotis": "51 mm",
-                "Aukštis": "155 mm"
+                "Aukštis": "155 mm",
+                "Storis": "7 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1040,13 +1105,14 @@
                 "local_path": "data/ornament/Ornament_1_60_120/models/1.60.120.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "7.07",
+            "price": 8.2,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.123",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-123/",
-            "code": null,
+            "code": "1.60.123",
             "category": "ornamentai",
             "images": [
                 {
@@ -1062,7 +1128,8 @@
             ],
             "details": {
                 "Plotis": "296 mm",
-                "Aukštis": "158 mm"
+                "Aukštis": "158 mm",
+                "Storis": "30 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1071,13 +1138,14 @@
                 "local_path": "data/ornament/Ornament_1_60_123/models/1.60.123.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "25.27",
+            "price": 29.31,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.135",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-135/",
-            "code": null,
+            "code": "1.60.135",
             "category": "ornamentai",
             "images": [
                 {
@@ -1093,7 +1161,8 @@
             ],
             "details": {
                 "Plotis": "76 mm",
-                "Aukštis": "142 mm"
+                "Aukštis": "142 mm",
+                "Storis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1102,13 +1171,14 @@
                 "local_path": "data/ornament/Ornament_1_60_135/models/1.60.135.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "6.46",
+            "price": 7.49,
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.501",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/ornaments/1-60-501/",
-            "code": null,
+            "code": "1.60.501",
             "category": "ornamentai",
             "images": [
                 {
@@ -1124,7 +1194,8 @@
             ],
             "details": {
                 "Plotis": "170 mm",
-                "Aukštis": "165 mm"
+                "Aukštis": "165 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1133,13 +1204,12 @@
                 "local_path": "data/ornament/Ornament_1_60_501/models/1.60.501.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "reviews": []
         },
         {
             "name": "Ornament 1.60.503",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pannelli-decorativi/1-60-503/",
-            "code": null,
+            "code": "1.60.503",
             "category": "ornamentai",
             "images": [
                 {
@@ -1155,7 +1225,8 @@
             ],
             "details": {
                 "Plotis": "91 mm",
-                "Aukštis": "91 mm"
+                "Aukštis": "91 mm",
+                "Storis": "28 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1164,13 +1235,12 @@
                 "local_path": "data/ornament/Ornament_1_60_503/models/1.60.503.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "reviews": []
         },
         {
             "name": "Ornament 4.99.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-001/",
-            "code": null,
+            "code": "4.99.001",
             "category": "ornamentai",
             "images": [
                 {
@@ -1186,7 +1256,8 @@
             ],
             "details": {
                 "Plotis": "458 mm",
-                "Aukštis": "180 mm"
+                "Aukštis": "180 mm",
+                "Storis": "42 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1195,13 +1266,14 @@
                 "local_path": "data/ornament/Ornament_4_99_001/models/4.99.001.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "17.60",
+            "price": 20.42,
+            "reviews": []
         },
         {
             "name": "Ornament 4.99.002",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/ornaments-facade/4-99-002/",
-            "code": null,
+            "code": "4.99.002",
             "category": "ornamentai",
             "images": [
                 {
@@ -1217,7 +1289,8 @@
             ],
             "details": {
                 "Plotis": "52 mm",
-                "Aukštis": "165 mm"
+                "Aukštis": "165 mm",
+                "Storis": "28 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1226,8 +1299,9 @@
                 "local_path": "data/ornament/Ornament_4_99_002/models/4.99.002.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "sudetis": "Poliuretanas",
-            "price": null
+            "price_gbp": "5.14",
+            "price": 5.96,
+            "reviews": []
         }
     ]
 }

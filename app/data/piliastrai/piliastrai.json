@@ -3,7 +3,7 @@
         {
             "name": "Pilaster 1.20.001",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-001/",
-            "code": "1-20-001",
+            "code": "1.20.001",
             "category": "piliastrai",
             "images": [
                 {
@@ -43,12 +43,13 @@
                 "local_path": "data/pilaster/1.20.001/models/1.20.001.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.002",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-002/",
-            "code": "1-20-002",
+            "code": "1.20.002",
             "category": "piliastrai",
             "images": [
                 {
@@ -88,12 +89,13 @@
                 "local_path": "data/pilaster/1.20.002/models/1.20.002.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.101",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-101/",
-            "code": "1-20-101",
+            "code": "1.20.101",
             "category": "piliastrai",
             "images": [
                 {
@@ -133,12 +135,13 @@
                 "local_path": "data/pilaster/1.20.101/models/1.20.101.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.102",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-102/",
-            "code": "1-20-102",
+            "code": "1.20.102",
             "category": "piliastrai",
             "images": [
                 {
@@ -178,12 +181,13 @@
                 "local_path": "data/pilaster/1.20.102/models/1.20.102.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.103",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-103/",
-            "code": "1-20-103",
+            "code": "1.20.103",
             "category": "piliastrai",
             "images": [
                 {
@@ -223,12 +227,13 @@
                 "local_path": "data/pilaster/1.20.103/models/1.20.103.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.201",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-201/",
-            "code": "1-20-201",
+            "code": "1.20.201",
             "category": "piliastrai",
             "images": [
                 {
@@ -268,12 +273,13 @@
                 "local_path": "data/pilaster/1.20.201/models/1.20.201.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.202",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-202/",
-            "code": "1-20-202",
+            "code": "1.20.202",
             "category": "piliastrai",
             "images": [
                 {
@@ -313,12 +319,13 @@
                 "local_path": "data/pilaster/1.20.202/models/1.20.202.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.301",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-301/",
-            "code": "1-20-301",
+            "code": "1.20.301",
             "category": "piliastrai",
             "images": [
                 {
@@ -358,12 +365,13 @@
                 "local_path": "data/pilaster/1.20.301/models/1.20.301.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.302",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-302/",
-            "code": "1-20-302",
+            "code": "1.20.302",
             "category": "piliastrai",
             "images": [
                 {
@@ -403,12 +411,13 @@
                 "local_path": "data/pilaster/1.20.302/models/1.20.302.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 1.20.303",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pilasters/1-20-303/",
-            "code": "1-20-303",
+            "code": "1.20.303",
             "category": "piliastrai",
             "images": [
                 {
@@ -448,12 +457,13 @@
                 "local_path": "data/pilaster/1.20.303/models/1.20.303.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-101/",
-            "code": "4-20-101",
+            "code": "4.20.101",
             "category": "piliastrai",
             "images": [
                 {
@@ -493,12 +503,13 @@
                 "local_path": "data/pilaster/4.20.101/models/4.20.101.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.102",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-102/",
-            "code": "4-20-102",
+            "code": "4.20.102",
             "category": "piliastrai",
             "images": [
                 {
@@ -538,12 +549,13 @@
                 "local_path": "data/pilaster/4.20.102/models/4.20.102.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.103",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-103/",
-            "code": "4-20-103",
+            "code": "4.20.103",
             "category": "piliastrai",
             "images": [
                 {
@@ -571,12 +583,13 @@
                 "local_path": "data/pilaster/4.20.103/models/4.20.103.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.104",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-104/",
-            "code": "4-20-104",
+            "code": "4.20.104",
             "category": "piliastrai",
             "images": [
                 {
@@ -604,12 +617,13 @@
                 "local_path": "data/pilaster/4.20.104/models/4.20.104.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.201",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-201/",
-            "code": "4-20-201",
+            "code": "4.20.201",
             "category": "piliastrai",
             "images": [
                 {
@@ -649,12 +663,13 @@
                 "local_path": "data/pilaster/4.20.201/models/4.20.201.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.202",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-202/",
-            "code": "4-20-202",
+            "code": "4.20.202",
             "category": "piliastrai",
             "images": [
                 {
@@ -694,12 +709,13 @@
                 "local_path": "data/pilaster/4.20.202/models/4.20.202.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.203",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-203/",
-            "code": "4-20-203",
+            "code": "4.20.203",
             "category": "piliastrai",
             "images": [
                 {
@@ -727,12 +743,13 @@
                 "local_path": "data/pilaster/4.20.203/models/4.20.203.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.204",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-204/",
-            "code": "4-20-204",
+            "code": "4.20.204",
             "category": "piliastrai",
             "images": [
                 {
@@ -760,12 +777,13 @@
                 "local_path": "data/pilaster/4.20.204/models/4.20.204.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         },
         {
             "name": "Pilaster 4.20.301",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pilasters-facade/4-20-301/",
-            "code": "4-20-301",
+            "code": "4.20.301",
             "category": "piliastrai",
             "images": [
                 {
@@ -805,7 +823,8 @@
                 "local_path": "data/pilaster/4.20.301/models/4.20.301.obj"
             },
             "mounting_instructions": "There is no instruction at the moment",
-            "price": null
+            "price": null,
+            "reviews": []
         }
     ]
 }

@@ -3,7 +3,7 @@
         {
             "name": "Pediment 1.63.001",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pediments/1-63-001/",
-            "code": null,
+            "code": "1.63.001",
             "category": "pediment",
             "images": [
                 {
@@ -40,12 +40,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 53.12,
+            "price_gbp": "45.79",
+            "reviews": []
         },
         {
             "name": "Pediment 1.63.002",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/pediments/1-63-002/",
-            "code": null,
+            "code": "1.63.002",
             "category": "pediment",
             "images": [
                 {
@@ -82,12 +84,14 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 50.0,
+            "price_gbp": "43.10",
+            "reviews": []
         },
         {
             "name": "Pediment 4.89.001",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/pediments-facade/4-89-001/",
-            "code": null,
+            "code": "4.89.001",
             "category": "pediment",
             "images": [
                 {
@@ -144,7 +148,9 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": 109.38,
+            "price_gbp": "94.29",
+            "reviews": []
         }
     ]
 }

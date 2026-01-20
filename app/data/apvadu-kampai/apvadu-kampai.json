@@ -3,7 +3,7 @@
         {
             "name": "Moulding corner 1.52.279",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-279/",
-            "code": null,
+            "code": "1.52.279",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -28,9 +28,9 @@
                 }
             ],
             "details": {
-                "Width": "358 mm",
-                "Height": "323 mm",
-                "Thickness": "22 mm"
+                "Plotis": "358 mm",
+                "Aukštis": "323 mm",
+                "Storis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -38,12 +38,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.279.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_279/models/1.52.279.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "14.47",
+            "price": 16.79,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.283",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-283/",
-            "code": null,
+            "code": "1.52.283",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -68,9 +71,9 @@
                 }
             ],
             "details": {
-                "Width": "260 mm",
-                "Height": "260 mm",
-                "Thickness": "26 mm"
+                "Plotis": "260 mm",
+                "Aukštis": "260 mm",
+                "Storis": "26 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -78,12 +81,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.283.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_283/models/1.52.283.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "15.87",
+            "price": 18.41,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.284",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-284/",
-            "code": null,
+            "code": "1.52.284",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -108,9 +114,9 @@
                 }
             ],
             "details": {
-                "Width": "255 mm",
-                "Height": "256 mm",
-                "Thickness": "27 mm"
+                "Plotis": "255 mm",
+                "Aukštis": "256 mm",
+                "Storis": "27 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -118,12 +124,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.284.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_284/models/1.52.284.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "15.30",
+            "price": 17.75,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.285",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-285/",
-            "code": null,
+            "code": "1.52.285",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -148,9 +157,9 @@
                 }
             ],
             "details": {
-                "Width": "181 mm",
-                "Height": "181 mm",
-                "Thickness": "24 mm"
+                "Plotis": "181 mm",
+                "Aukštis": "181 mm",
+                "Storis": "24 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -158,12 +167,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.285.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_285/models/1.52.285.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.31",
+            "price": 15.44,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.286",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-286/",
-            "code": null,
+            "code": "1.52.286",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -188,9 +200,9 @@
                 }
             ],
             "details": {
-                "Width": "199 mm",
-                "Height": "199 mm",
-                "Thickness": "12 mm"
+                "Plotis": "199 mm",
+                "Aukštis": "199 mm",
+                "Storis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -198,12 +210,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.286.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_286/models/1.52.286.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.17",
+            "price": 14.12,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.287",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-287/",
-            "code": null,
+            "code": "1.52.287",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -228,9 +243,9 @@
                 }
             ],
             "details": {
-                "Width": "300 mm",
-                "Height": "300 mm",
-                "Thickness": "20 mm"
+                "Plotis": "300 mm",
+                "Aukštis": "300 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -238,12 +253,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.287.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_287/models/1.52.287.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.95",
+            "price": 15.02,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.288",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-288/",
-            "code": null,
+            "code": "1.52.288",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -268,9 +286,9 @@
                 }
             ],
             "details": {
-                "Width": "272 mm",
-                "Height": "269 mm",
-                "Thickness": "32 mm"
+                "Plotis": "272 mm",
+                "Aukštis": "269 mm",
+                "Storis": "32 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -278,12 +296,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.288.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_288/models/1.52.288.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.93",
+            "price": 16.16,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.289",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-289/",
-            "code": null,
+            "code": "1.52.289",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -308,9 +329,9 @@
                 }
             ],
             "details": {
-                "Width": "300 mm",
-                "Height": "104 mm",
-                "Thickness": "20 mm"
+                "Plotis": "300 mm",
+                "Aukštis": "104 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -318,12 +339,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.289.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_289/models/1.52.289.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.35",
+            "price": 14.33,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.290",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-290/",
-            "code": null,
+            "code": "1.52.290",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -348,9 +372,9 @@
                 }
             ],
             "details": {
-                "Width": "213 mm",
-                "Height": "395 mm",
-                "Thickness": "23 mm"
+                "Plotis": "213 mm",
+                "Aukštis": "395 mm",
+                "Storis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -358,12 +382,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.290.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_290/models/1.52.290.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.31",
+            "price": 15.44,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.291",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-291/",
-            "code": null,
+            "code": "1.52.291",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -388,9 +415,9 @@
                 }
             ],
             "details": {
-                "Width": "195 mm",
-                "Height": "195 mm",
-                "Thickness": "20 mm"
+                "Plotis": "195 mm",
+                "Aukštis": "195 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -398,12 +425,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.291.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_291/models/1.52.291.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.70",
+            "price": 14.73,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.292",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-292/",
-            "code": null,
+            "code": "1.52.292",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -428,9 +458,9 @@
                 }
             ],
             "details": {
-                "Width": "255 mm",
-                "Height": "255 mm",
-                "Thickness": "19 mm"
+                "Plotis": "255 mm",
+                "Aukštis": "255 mm",
+                "Storis": "19 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -438,12 +468,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.292.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_292/models/1.52.292.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.66",
+            "price": 15.85,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.293",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-293/",
-            "code": null,
+            "code": "1.52.293",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -468,9 +501,9 @@
                 }
             ],
             "details": {
-                "Width": "213 mm",
-                "Height": "395 mm",
-                "Thickness": "23 mm"
+                "Plotis": "213 mm",
+                "Aukštis": "395 mm",
+                "Storis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -478,12 +511,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.293.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_293/models/1.52.293.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.31",
+            "price": 15.44,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.294",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-294/",
-            "code": null,
+            "code": "1.52.294",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -508,9 +544,9 @@
                 }
             ],
             "details": {
-                "Width": "261 mm",
-                "Height": "261 mm",
-                "Thickness": "18 mm"
+                "Plotis": "261 mm",
+                "Aukštis": "261 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -518,12 +554,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.294.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_294/models/1.52.294.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.93",
+            "price": 16.16,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.295",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-295/",
-            "code": null,
+            "code": "1.52.295",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -548,9 +587,9 @@
                 }
             ],
             "details": {
-                "Width": "195 mm",
-                "Height": "195 mm",
-                "Thickness": "18 mm"
+                "Plotis": "195 mm",
+                "Aukštis": "195 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -558,12 +597,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.295.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_295/models/1.52.295.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.70",
+            "price": 14.73,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.296",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-296/",
-            "code": null,
+            "code": "1.52.296",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -588,9 +630,9 @@
                 }
             ],
             "details": {
-                "Width": "270 mm",
-                "Height": "390 mm",
-                "Thickness": "18 mm"
+                "Plotis": "270 mm",
+                "Aukštis": "390 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -598,12 +640,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.296.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_296/models/1.52.296.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "15.30",
+            "price": 17.75,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.297",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-297/",
-            "code": null,
+            "code": "1.52.297",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -628,9 +673,9 @@
                 }
             ],
             "details": {
-                "Width": "215 mm",
-                "Height": "215 mm",
-                "Thickness": "21 mm"
+                "Plotis": "215 mm",
+                "Aukštis": "215 mm",
+                "Storis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -638,12 +683,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.297.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_297/models/1.52.297.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.42",
+            "price": 14.41,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.298",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-298/",
-            "code": null,
+            "code": "1.52.298",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -668,9 +716,9 @@
                 }
             ],
             "details": {
-                "Width": "215 mm",
-                "Height": "215 mm",
-                "Thickness": "21 mm"
+                "Plotis": "215 mm",
+                "Aukštis": "215 mm",
+                "Storis": "21 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -678,12 +726,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.298.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_298/models/1.52.298.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.42",
+            "price": 14.41,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.299",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-299/",
-            "code": null,
+            "code": "1.52.299",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -708,9 +759,9 @@
                 }
             ],
             "details": {
-                "Width": "358 mm",
-                "Height": "323 mm",
-                "Thickness": "22 mm"
+                "Plotis": "358 mm",
+                "Aukštis": "323 mm",
+                "Storis": "22 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -718,12 +769,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.299.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_299/models/1.52.299.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "14.47",
+            "price": 16.79,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.301",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-301/",
-            "code": null,
+            "code": "1.52.301",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -788,9 +842,9 @@
                 }
             ],
             "details": {
-                "Width": "210 mm",
-                "Height": "210 mm",
-                "Thickness": "16 mm"
+                "Plotis": "210 mm",
+                "Aukštis": "210 mm",
+                "Storis": "16 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -798,12 +852,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.301.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_301/models/1.52.301.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.30",
+            "price": 14.27,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.302",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-302/",
-            "code": null,
+            "code": "1.52.302",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -828,9 +885,9 @@
                 }
             ],
             "details": {
-                "Width": "215 mm",
-                "Height": "215 mm",
-                "Thickness": "25 mm"
+                "Plotis": "215 mm",
+                "Aukštis": "215 mm",
+                "Storis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -838,12 +895,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.302.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_302/models/1.52.302.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.63",
+            "price": 14.65,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.308",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-308/",
-            "code": null,
+            "code": "1.52.308",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -868,9 +928,9 @@
                 }
             ],
             "details": {
-                "Width": "160 mm",
-                "Height": "160 mm",
-                "Thickness": "20 mm"
+                "Plotis": "160 mm",
+                "Aukštis": "160 mm",
+                "Storis": "20 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -878,12 +938,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.308.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_308/models/1.52.308.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.17",
+            "price": 14.12,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.312",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-312/",
-            "code": null,
+            "code": "1.52.312",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -908,9 +971,9 @@
                 }
             ],
             "details": {
-                "Width": "208 mm",
-                "Height": "210 mm",
-                "Thickness": "18 mm"
+                "Plotis": "208 mm",
+                "Aukštis": "210 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -918,12 +981,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.312.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_312/models/1.52.312.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.30",
+            "price": 14.27,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.314",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-314/",
-            "code": null,
+            "code": "1.52.314",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -948,9 +1014,9 @@
                 }
             ],
             "details": {
-                "Width": "270 mm",
-                "Height": "390 mm",
-                "Thickness": "18 mm"
+                "Plotis": "270 mm",
+                "Aukštis": "390 mm",
+                "Storis": "18 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -958,12 +1024,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.314.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_314/models/1.52.314.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "15.30",
+            "price": 17.75,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.322",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-322/",
-            "code": null,
+            "code": "1.52.322",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -988,9 +1057,9 @@
                 }
             ],
             "details": {
-                "Width": "110 mm",
-                "Height": "110 mm",
-                "Thickness": "12 mm"
+                "Plotis": "110 mm",
+                "Aukštis": "110 mm",
+                "Storis": "12 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -998,12 +1067,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.322.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_322/models/1.52.322.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "11.68",
+            "price": 13.55,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.348",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-348/",
-            "code": null,
+            "code": "1.52.348",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1028,9 +1100,9 @@
                 }
             ],
             "details": {
-                "Width": "250 mm",
-                "Height": "250 mm",
-                "Thickness": "25 mm"
+                "Plotis": "250 mm",
+                "Aukštis": "250 mm",
+                "Storis": "25 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1038,12 +1110,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.348.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_348/models/1.52.348.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "12.35",
+            "price": 14.33,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.375",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-375/",
-            "code": null,
+            "code": "1.52.375",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1068,9 +1143,9 @@
                 }
             ],
             "details": {
-                "Width": "318 mm",
-                "Height": "321 mm",
-                "Thickness": "23 mm"
+                "Plotis": "318 mm",
+                "Aukštis": "321 mm",
+                "Storis": "23 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1078,12 +1153,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.375.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_375/models/1.52.375.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "16.67",
+            "price": 19.34,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.400",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-400/",
-            "code": null,
+            "code": "1.52.400",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1108,9 +1186,9 @@
                 }
             ],
             "details": {
-                "Width": "294 mm",
-                "Height": "294 mm",
-                "Thickness": "26 mm"
+                "Plotis": "294 mm",
+                "Aukštis": "294 mm",
+                "Storis": "26 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1118,12 +1196,15 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.400.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_400/models/1.52.400.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "price_gbp": "13.41",
+            "price": 15.56,
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.810",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-810/",
-            "code": null,
+            "code": "1.52.810",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1178,8 +1259,8 @@
                 }
             ],
             "details": {
-                "Width": "280 mm",
-                "Height": "280 mm"
+                "Plotis": "280 mm",
+                "Aukštis": "280 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1187,12 +1268,13 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.810.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_810/models/1.52.810.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.812",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-812/",
-            "code": null,
+            "code": "1.52.812",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1247,8 +1329,8 @@
                 }
             ],
             "details": {
-                "Width": "280 mm",
-                "Height": "280 mm"
+                "Plotis": "280 mm",
+                "Aukštis": "280 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1256,12 +1338,13 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.812.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_812/models/1.52.812.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.815",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-815/",
-            "code": null,
+            "code": "1.52.815",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1346,8 +1429,8 @@
                 }
             ],
             "details": {
-                "Width": "245 mm",
-                "Height": "245 mm"
+                "Plotis": "245 mm",
+                "Aukštis": "245 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1355,12 +1438,13 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.815.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_815/models/1.52.815.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.816",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-816/",
-            "code": null,
+            "code": "1.52.816",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1415,8 +1499,8 @@
                 }
             ],
             "details": {
-                "Width": "300 mm",
-                "Height": "300 mm"
+                "Plotis": "300 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1424,12 +1508,13 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.816.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_816/models/1.52.816.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.817",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-817/",
-            "code": null,
+            "code": "1.52.817",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1484,17 +1569,18 @@
                 }
             ],
             "details": {
-                "Width": "300 mm",
-                "Height": "300 mm"
+                "Plotis": "300 mm",
+                "Aukštis": "300 mm"
             },
             "flexible_analog_exists": false,
             "model": null,
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.818",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-818/",
-            "code": null,
+            "code": "1.52.818",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1539,8 +1625,8 @@
                 }
             ],
             "details": {
-                "Width": "131 mm",
-                "Height": "200 mm"
+                "Plotis": "131 mm",
+                "Aukštis": "200 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1548,12 +1634,13 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.818.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_818/models/1.52.818.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         },
         {
             "name": "Moulding corner 1.52.819",
             "url": "https://gaudidecor.eu/catalogue/interior-decor/corner-moulding-elements/1-52-819/",
-            "code": null,
+            "code": "1.52.819",
             "category": "apvadu-kampai",
             "images": [
                 {
@@ -1598,8 +1685,8 @@
                 }
             ],
             "details": {
-                "Width": "106 mm",
-                "Height": "200 mm"
+                "Plotis": "106 mm",
+                "Aukštis": "200 mm"
             },
             "flexible_analog_exists": false,
             "model": {
@@ -1607,7 +1694,8 @@
                 "url": "https://gaudidecor.eu/cron/catalog/data/models/obj/1.52.819.obj",
                 "local_path": "data/moulding/Moulding_corner_1_52_819/models/1.52.819.obj"
             },
-            "mounting_instructions": "There is no instruction at the moment"
+            "mounting_instructions": "There is no instruction at the moment",
+            "reviews": []
         }
     ]
 }

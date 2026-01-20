@@ -9,7 +9,7 @@ interface Product {
   title: string;
   images: string[];
   ilgis?: number;
-  plotis?: number;
+  Plotis?: number;
   aukstis?: number | number[];
   stilius?: string;
   sudetis?: string;

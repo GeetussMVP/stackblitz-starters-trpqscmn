@@ -44,7 +44,11 @@ export interface ProductDimensions {
   Ilgis?: string;
   Plotis?: string;
   Aukštis?: string;
+  Aukstis?: string; // Alternative spelling
   Skersmuo?: string;
+  Storis?: string;
+  Spindulys?: string;
+  "Arkos Lenkimo Spindulys"?: string;
 }
 
 /* ================= FRONTEND PRODUCTS ================= */

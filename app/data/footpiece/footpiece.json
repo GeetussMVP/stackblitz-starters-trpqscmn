@@ -3,7 +3,7 @@
         {
             "name": "Footpiece 4.78.101",
             "url": "https://gaudidecor.eu/catalogue/facade-decoration/balustrades-facade/additional-elements-balustrades/4-78-101/",
-            "code": null,
+            "code": "4.78.101",
             "category": "footpiece",
             "images": [
                 {
@@ -40,7 +40,8 @@
             },
             "mounting_instructions": "There is no instruction at the moment",
             "sudetis": "Poliuretanas",
-            "price": null
+            "price": null,
+            "reviews": []
         }
     ]
 }
