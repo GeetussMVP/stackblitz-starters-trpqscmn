@@ -1,6 +1,75 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import styled, { keyframes } from "styled-components";
+
+const Section = styled.section`
+  padding: 1rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: sans-serif;
+`;
+
+const QuoteMark = styled.div`
+  font-size: 150px;
+  color: white;
+  line-height: 1;
+  margin-bottom: 0;
+  font-family: serif;
+`;
+
+const Heading = styled.h2`
+  color: white;
+  font-weight: bold;
+  line-height: 1.1;
+  font-size: clamp(32px, 5vw, 60px);
+  max-width: 900px;
+  margin-top: -20px;
+`;
+
+const UnderlineWrapper = styled.span`
+  position: relative;
+  display: inline-block;
+`;
+
+const Svg = styled.svg`
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 20px;
+  overflow: visible;
+
+  @media (max-width: 768px) {
+    bottom: -14px; /* lower the underline slightly */
+  }
+`;
+
+const draw = keyframes`
+  from {
+    stroke-dashoffset: 300;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+`;
+
+const UnderlinePath = styled.path`
+  stroke: white;
+  stroke-width: 6px;
+  fill: none;
+  stroke-linecap: round;
+
+  stroke-dasharray: 300;
+  stroke-dashoffset: 300;
+
+  &.animate-underline {
+    animation: ${draw} 1s ease-out forwards;
+  }
+`;
 
 export default function QuoteSection() {
   const underlineRef = useRef<HTMLSpanElement | null>(null);
@@ -12,8 +81,7 @@ export default function QuoteSection() {
 
     const observer = new IntersectionObserver(
       (entries) => {
-        const entry = entries[0];
-        if (entry.isIntersecting) {
+        if (entries[0].isIntersecting) {
           pathRef.current!.classList.add("animate-underline");
         }
       },
@@ -29,28 +97,21 @@ export default function QuoteSection() {
   }, []);
 
   return (
-    <section className="py-4 px-6 flex flex-col items-center justify-center text-center font-sans">
-      <div className="text-[150px] text-white leading-none mb-0 font-serif">
-        “
-      </div>
+    <Section>
+      <QuoteMark>“</QuoteMark>
 
-      <h2 className="text-white font-bold leading-tight text-[clamp(32px,5vw,60px)] max-w-[900px] mt-[-20px]">
+      <Heading>
         Gyvenk tame, ką{" "}
-        <span ref={underlineRef} className="relative inline-block">
+        <UnderlineWrapper ref={underlineRef}>
           myli.
-          <svg
-            className="absolute bottom-0 left-0 w-full h-[20px] overflow-visible"
-            viewBox="0 0 200 20"
-            preserveAspectRatio="none"
-          >
-            <path
+          <Svg viewBox="0 0 200 20" preserveAspectRatio="none">
+            <UnderlinePath
               ref={pathRef}
-              className="underline-path stroke-white stroke-[6px] fill-none stroke-linecap-round"
               d="M 5 15 Q 100 5, 195 15"
             />
-          </svg>
-        </span>
-      </h2>
-    </section>
+          </Svg>
+        </UnderlineWrapper>
+      </Heading>
+    </Section>
   );
 }

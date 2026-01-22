@@ -1,30 +1,84 @@
+import styled from "styled-components";
+
+const HeroWrapper = styled.div`
+  width: 100%;
+  min-height: 100vh;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1.5rem 5rem;
+  position: relative;
+`;
+
+const Spacer = styled.div`
+  @media(min-width: 768px) {
+    margin-top: 1rem;
+    }
+`;
+
+const HeroImage = styled.img`
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  object-fit: cover;
+  @media(min-width: 768px) {
+   width: 50%;
+   object-fit: contain;
+
+   }
+`;
+
+const TextSection = styled.div`
+  text-align: center;
+  margin-bottom: 1rem;
+`;
+
+const Title = styled.h1`
+  font-size: clamp(3rem, 6vw, 4.5rem);
+  font-weight: 300;
+  color: white;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+`;
+
+const Subtitle = styled.p`
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 1rem;
+`;
+
+const Arrow = styled.span`
+  display: block;
+  margin-top: 1.5rem;
+  font-size: 2.5rem;
+  color: white;
+  animation: bounce 1.5s infinite;
+
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(10px); }
+  }
+`;
+
 export default function Hero({ imageHeight = 450 }) {
   return (
-    <div className="relative w-full min-h-screen flex flex-col items-center justify-start bg-black px-6 pb-20">
+    <HeroWrapper>
+      <Spacer />
 
-      {/* Small gap before image */}
-      <div className="mt-4" />
-
-      {/* Image */}
-      <img
+      <HeroImage
         src="/images/landing/hero2.png"
         alt="Hero"
-        style={{ height: `${imageHeight}px` }}
-        className="w-auto max-w-full object-cover mb-12"
       />
 
-      {/* Text Section */}
-      <div className="text-center mb-4">
-        <h1 className="text-5xl md:text-7xl font-light text-white mb-6 tracking-tight">
-          Pirmoji Kokybė
-        </h1>
-        <p className="text-3xl md:text-4xl font-light text-white/80 mb-4">
-          jūsų namuose
-        </p>
-
-        {/* Arrow under the title */}
-        <span className="animate-bounce text-white text-4xl mt-6 block">↓</span>
-      </div>
-    </div>
+      <TextSection>
+        <Title>Pirmoji Kokybė</Title>
+        <Subtitle>jūsų namuose</Subtitle>
+        <Arrow>↓</Arrow>
+      </TextSection>
+    </HeroWrapper>
   );
 }
