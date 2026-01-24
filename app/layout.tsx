@@ -14,6 +14,7 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { BusinessAuthProvider } from "./contexts/BusinessAuthContext";
 import { CartProvider } from "./contexts/CartContext";
 
+import { Analytics } from "@vercel/analytics/react"; // ✅ add analytics
 
 const inter = Inter({
   subsets: ["latin"],
@@ -92,14 +93,13 @@ export default function RootLayout({
       <body
         className={`${inter.variable} font-inter antialiased relative min-h-screen flex flex-col`}
       >
-
         <AuthProvider>
           <BusinessAuthProvider>
             <CartProvider>
               <MantineProvider>
                 <Background />
                 <Navbar />
-s
+
                 <main
                   role="main"
                   id="main-content"
@@ -113,6 +113,9 @@ s
             </CartProvider>
           </BusinessAuthProvider>
         </AuthProvider>
+
+        {/* Vercel Analytics */}
+        <Analytics />
       </body>
     </html>
   );
