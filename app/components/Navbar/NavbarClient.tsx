@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import { FaBars, FaTimes, FaSearch, FaShoppingCart, FaUser, FaSignOutAlt } from 'react-icons/fa';
+import { FaBars, FaTimes, FaSearch, FaShoppingCart, FaUser, FaSignOutAlt, FaExchangeAlt } from 'react-icons/fa';
 import { usePathname, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -21,7 +21,14 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
   
   const { cartCount } = useCart();
   const { user, logout } = useAuth();
-  const { isBusinessUser, businessAccount, clearBusinessAccount } = useBusinessAuth();
+  const { 
+    isBusinessMode, 
+    hasBusinessAccount, 
+    businessAccount, 
+    clearBusinessAccount,
+    switchToBusinessMode,
+    switchToStandardMode 
+  } = useBusinessAuth();
 
   const pathname = usePathname();
   const router = useRouter();
@@ -46,7 +53,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
 
   const handleLogout = async () => {
     try {
-      if (isBusinessUser) {
+      if (hasBusinessAccount) {
         clearBusinessAccount();
       }
       await logout();
@@ -57,9 +64,21 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
     }
   };
 
+  const handleModeSwitch = () => {
+    if (isBusinessMode) {
+      switchToStandardMode();
+    } else {
+      switchToBusinessMode();
+    }
+    setShowUserMenu(false);
+  };
+
   const navClass = mounted && scrolled ? 'bg-black shadow-lg' : 'bg-black';
-  const userIconColor = isBusinessUser ? "text-red-500" : "text-emerald-400";
-  const userHoverColor = isBusinessUser ? "hover:text-red-400" : "hover:text-emerald-400";
+  
+  // RED for business mode, GREEN for standard mode
+  const userIconColor = isBusinessMode ? "text-red-500" : "text-emerald-400";
+  const userHoverColor = isBusinessMode ? "hover:text-red-400" : "hover:text-emerald-400";
+  const badgeColor = isBusinessMode ? "bg-red-500/20 text-red-400" : "bg-emerald-500/20 text-emerald-400";
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${navClass} text-white`}>
@@ -84,30 +103,46 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
                     >
                       <FaUser className={userIconColor} size={16} />
                       <span className="max-w-[150px] truncate">
-                        {isBusinessUser && businessAccount ? businessAccount.companyName : user.email}
+                        {isBusinessMode && businessAccount ? businessAccount.companyName : user.email}
                       </span>
-                      {isBusinessUser && (
-                        <span className="ml-1 px-2 py-0.5 bg-red-500/20 text-red-400 text-xs rounded-full">
-                          Verslas
-                        </span>
-                      )}
+                      <span className={`ml-1 px-2 py-0.5 ${badgeColor} text-xs rounded-full font-medium`}>
+                        {isBusinessMode ? 'Verslas' : 'Asmeninė'}
+                      </span>
                     </button>
                     
                     {showUserMenu && (
-                      <div className="absolute top-full left-0 mt-2 w-48 bg-slate-900 border border-slate-700 rounded-lg shadow-xl py-2 z-50">
-                        {isBusinessUser && (
-                          <Link
-                            href="/verslo-paskyra"
-                            onClick={() => setShowUserMenu(false)}
-                            className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-red-400 transition-colors flex items-center space-x-2"
+                      <div className="absolute top-full left-0 mt-2 w-56 bg-slate-900 border border-slate-700 rounded-lg shadow-xl py-2 z-50">
+                        {/* Mode Switcher - Only show if user has business account */}
+                        {hasBusinessAccount && (
+                          <button
+                            onClick={handleModeSwitch}
+                            className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-emerald-400 transition-colors flex items-center space-x-2"
                           >
-                            <FaUser size={14} />
-                            <span>Verslo Paskyra</span>
-                          </Link>
+                            <FaExchangeAlt size={14} />
+                            <span>
+                              Perjungti į {isBusinessMode ? 'Asmeninę' : 'Verslo'} paskyrą
+                            </span>
+                          </button>
                         )}
+                        
+                        {isBusinessMode && (
+                          <>
+                            <div className="border-t border-slate-700 my-1"></div>
+                            <Link
+                              href="/verslo-paskyra"
+                              onClick={() => setShowUserMenu(false)}
+                              className="w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 hover:text-red-400 transition-colors flex items-center space-x-2"
+                            >
+                              <FaUser size={14} />
+                              <span>Verslo Paskyra</span>
+                            </Link>
+                          </>
+                        )}
+                        
+                        <div className="border-t border-slate-700 my-1"></div>
                         <button
                           onClick={handleLogout}
-                          className={`w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 ${isBusinessUser ? 'hover:text-red-400' : 'hover:text-emerald-400'} transition-colors flex items-center space-x-2`}
+                          className={`w-full px-4 py-2 text-left text-sm text-white hover:bg-slate-800 ${isBusinessMode ? 'hover:text-red-400' : 'hover:text-emerald-400'} transition-colors flex items-center space-x-2`}
                         >
                           <FaSignOutAlt size={14} />
                           <span>Atsijungti</span>
@@ -150,7 +185,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
             >
               <FaShoppingCart size={20} />
               {mounted && cartCount > 0 && (
-                <span className="absolute -top-1 -right-1 bg-emerald-400 text-black text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
+                <span className={`absolute -top-1 -right-1 ${isBusinessMode ? 'bg-red-500' : 'bg-emerald-400'} text-black text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center`}>
                   {cartCount}
                 </span>
               )}
@@ -165,14 +200,14 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
             <span
               className={`font-medium transition-colors duration-200 ${
                 isActive(link.href)
-                  ? 'text-emerald-400'
+                  ? isBusinessMode ? 'text-red-400' : 'text-emerald-400'
                   : 'text-white group-hover:text-emerald-400'
               }`}
             >
               {link.label}
             </span>
             <span
-              className={`absolute -bottom-1 left-0 h-0.5 bg-emerald-400 transition-all duration-300 ${
+              className={`absolute -bottom-1 left-0 h-0.5 ${isBusinessMode ? 'bg-red-400' : 'bg-emerald-400'} transition-all duration-300 ${
                 isActive(link.href) ? 'w-full' : 'w-0 group-hover:w-full'
               }`}
             ></span>
@@ -180,6 +215,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
         ))}
       </div>
 
+      {/* Mobile Menu */}
       {isOpen && (
         <div className="md:hidden bg-black shadow-lg">
           <div className="px-4 py-6">
@@ -203,7 +239,7 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
                     onClick={() => setIsOpen(false)}
                     className={`block py-2 text-sm font-medium transition-colors duration-200 ${
                       isActive(link.href)
-                        ? 'text-emerald-400'
+                        ? isBusinessMode ? 'text-red-400' : 'text-emerald-400'
                         : 'text-white hover:text-emerald-400'
                     }`}
                   >
@@ -218,16 +254,29 @@ export default function NavbarClient({ navLinks }: NavbarClientProps) {
                     <div className="space-y-2">
                       <div className="flex items-center space-x-2 py-2 text-sm">
                         <FaUser className={userIconColor} size={14} />
-                        <span className={`truncate ${isBusinessUser ? "text-red-400" : "text-emerald-400"}`}>
-                          {isBusinessUser && businessAccount ? businessAccount.companyName : user.email}
+                        <span className={`truncate ${isBusinessMode ? "text-red-400" : "text-emerald-400"}`}>
+                          {isBusinessMode && businessAccount ? businessAccount.companyName : user.email}
                         </span>
-                        {isBusinessUser && (
-                          <span className="ml-1 px-2 py-0.5 bg-red-500/20 text-red-400 text-xs rounded-full">
-                            Verslas
-                          </span>
-                        )}
+                        <span className={`ml-1 px-2 py-0.5 ${badgeColor} text-xs rounded-full font-medium`}>
+                          {isBusinessMode ? 'Verslas' : 'Asmeninė'}
+                        </span>
                       </div>
-                      {isBusinessUser && (
+                      
+                      {/* Mode Switcher for Mobile */}
+                      {hasBusinessAccount && (
+                        <button
+                          onClick={() => {
+                            handleModeSwitch();
+                            setIsOpen(false);
+                          }}
+                          className={`w-full flex items-center space-x-2 py-2 text-sm font-medium text-white ${userHoverColor} transition-colors duration-200`}
+                        >
+                          <FaExchangeAlt size={14} />
+                          <span>Perjungti į {isBusinessMode ? 'Asmeninę' : 'Verslo'}</span>
+                        </button>
+                      )}
+                      
+                      {isBusinessMode && (
                         <Link
                           href="/verslo-paskyra"
                           onClick={() => setIsOpen(false)}

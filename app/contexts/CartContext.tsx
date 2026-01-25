@@ -39,31 +39,36 @@ const CartContext = createContext<CartContextType | undefined>(undefined);
 
 export function CartProvider({ children }: { children: React.ReactNode }) {
   const [cart, setCart] = useState<CartItem[]>([]);
-  const { isBusinessUser, discountRate } = useBusinessAuth();
+  const { isBusinessMode, discountRate } = useBusinessAuth();
 
+  // Load cart when component mounts or mode changes
   useEffect(() => {
-    const cartKey = isBusinessUser ? "businessCart" : "cart";
+    const cartKey = isBusinessMode ? "businessCart" : "standardCart";
     const storedCart = localStorage.getItem(cartKey);
     if (storedCart) {
       try {
         setCart(JSON.parse(storedCart));
       } catch (error) {
         console.error("Error parsing cart data:", error);
+        setCart([]);
       }
+    } else {
+      setCart([]);
     }
-  }, [isBusinessUser]);
+  }, [isBusinessMode]);
 
+  // Save cart whenever it changes
   useEffect(() => {
-    const cartKey = isBusinessUser ? "businessCart" : "cart";
+    const cartKey = isBusinessMode ? "businessCart" : "standardCart";
     localStorage.setItem(cartKey, JSON.stringify(cart));
-  }, [cart, isBusinessUser]);
+  }, [cart, isBusinessMode]);
 
   const addToCart = (product: Product) => {
     setCart((prevCart) => {
       const existingItem = prevCart.find((item) => item.id === product.id);
 
       let finalPrice = product.price || 0;
-      if (isBusinessUser && product.price) {
+      if (isBusinessMode && product.price) {
         finalPrice = product.price * (1 - discountRate / 100);
       }
 
@@ -71,7 +76,7 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
         ...product,
         price: finalPrice,
         originalPrice: product.price,
-        businessDiscount: isBusinessUser ? discountRate : undefined,
+        businessDiscount: isBusinessMode ? discountRate : undefined,
       };
 
       if (existingItem) {
@@ -105,7 +110,7 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
 
   const clearCart = () => {
     setCart([]);
-    const cartKey = isBusinessUser ? "businessCart" : "cart";
+    const cartKey = isBusinessMode ? "businessCart" : "standardCart";
     localStorage.removeItem(cartKey);
   };
 
